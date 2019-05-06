@@ -1,0 +1,2238 @@
+ID,Country,Year,Series,Value
+4,Afghanistan,2010,Tourism expenditure (millions of US dollars),147
+4,Afghanistan,2015,Tourism expenditure (millions of US dollars),87
+4,Afghanistan,2016,Tourism expenditure (millions of US dollars),69
+4,Afghanistan,2017,Tourism expenditure (millions of US dollars),19
+8,Albania,2010,Tourist/visitor arrivals (thousands),"2,191"
+8,Albania,2015,Tourist/visitor arrivals (thousands),"3,784"
+8,Albania,2016,Tourist/visitor arrivals (thousands),"4,070"
+8,Albania,2017,Tourist/visitor arrivals (thousands),"4,643"
+8,Albania,1995,Tourism expenditure (millions of US dollars),70
+8,Albania,2005,Tourism expenditure (millions of US dollars),880
+8,Albania,2010,Tourism expenditure (millions of US dollars),"1,778"
+8,Albania,2015,Tourism expenditure (millions of US dollars),"1,613"
+8,Albania,2016,Tourism expenditure (millions of US dollars),"1,820"
+8,Albania,2017,Tourism expenditure (millions of US dollars),"2,049"
+12,Algeria,1995,Tourist/visitor arrivals (thousands),520
+12,Algeria,2005,Tourist/visitor arrivals (thousands),"1,443"
+12,Algeria,2010,Tourist/visitor arrivals (thousands),"2,070"
+12,Algeria,2015,Tourist/visitor arrivals (thousands),"1,710"
+12,Algeria,2016,Tourist/visitor arrivals (thousands),"2,039"
+12,Algeria,2017,Tourist/visitor arrivals (thousands),"2,451"
+12,Algeria,2005,Tourism expenditure (millions of US dollars),477
+12,Algeria,2010,Tourism expenditure (millions of US dollars),324
+12,Algeria,2015,Tourism expenditure (millions of US dollars),347
+12,Algeria,2016,Tourism expenditure (millions of US dollars),246
+12,Algeria,2017,Tourism expenditure (millions of US dollars),172
+16,American Samoa,1995,Tourist/visitor arrivals (thousands),34
+16,American Samoa,2005,Tourist/visitor arrivals (thousands),25
+16,American Samoa,2010,Tourist/visitor arrivals (thousands),23
+16,American Samoa,2015,Tourist/visitor arrivals (thousands),20
+16,American Samoa,2016,Tourist/visitor arrivals (thousands),20
+16,American Samoa,2017,Tourist/visitor arrivals (thousands),20
+20,Andorra,2005,Tourist/visitor arrivals (thousands),"2,418"
+20,Andorra,2010,Tourist/visitor arrivals (thousands),"1,808"
+20,Andorra,2015,Tourist/visitor arrivals (thousands),"2,663"
+20,Andorra,2016,Tourist/visitor arrivals (thousands),"2,819"
+20,Andorra,2017,Tourist/visitor arrivals (thousands),"3,003"
+24,Angola,1995,Tourist/visitor arrivals (thousands),9
+24,Angola,2005,Tourist/visitor arrivals (thousands),210
+24,Angola,2010,Tourist/visitor arrivals (thousands),425
+24,Angola,2015,Tourist/visitor arrivals (thousands),592
+24,Angola,2016,Tourist/visitor arrivals (thousands),397
+24,Angola,2017,Tourist/visitor arrivals (thousands),261
+24,Angola,1995,Tourism expenditure (millions of US dollars),27
+24,Angola,2005,Tourism expenditure (millions of US dollars),103
+24,Angola,2010,Tourism expenditure (millions of US dollars),726
+24,Angola,2015,Tourism expenditure (millions of US dollars),"1,171"
+24,Angola,2016,Tourism expenditure (millions of US dollars),628
+24,Angola,2017,Tourism expenditure (millions of US dollars),884
+660,Anguilla,1995,Tourist/visitor arrivals (thousands),39
+660,Anguilla,2005,Tourist/visitor arrivals (thousands),62
+660,Anguilla,2010,Tourist/visitor arrivals (thousands),62
+660,Anguilla,2015,Tourist/visitor arrivals (thousands),73
+660,Anguilla,2016,Tourist/visitor arrivals (thousands),79
+660,Anguilla,2017,Tourist/visitor arrivals (thousands),68
+660,Anguilla,1995,Tourism expenditure (millions of US dollars),50
+660,Anguilla,2005,Tourism expenditure (millions of US dollars),86
+660,Anguilla,2010,Tourism expenditure (millions of US dollars),99
+660,Anguilla,2015,Tourism expenditure (millions of US dollars),142
+660,Anguilla,2016,Tourism expenditure (millions of US dollars),143
+660,Anguilla,2017,Tourism expenditure (millions of US dollars),149
+28,Antigua and Barbuda,1995,Tourist/visitor arrivals (thousands),220
+28,Antigua and Barbuda,2005,Tourist/visitor arrivals (thousands),245
+28,Antigua and Barbuda,2010,Tourist/visitor arrivals (thousands),230
+28,Antigua and Barbuda,2015,Tourist/visitor arrivals (thousands),250
+28,Antigua and Barbuda,2016,Tourist/visitor arrivals (thousands),265
+28,Antigua and Barbuda,2017,Tourist/visitor arrivals (thousands),247
+28,Antigua and Barbuda,1995,Tourism expenditure (millions of US dollars),247
+28,Antigua and Barbuda,2005,Tourism expenditure (millions of US dollars),309
+28,Antigua and Barbuda,2010,Tourism expenditure (millions of US dollars),298
+28,Antigua and Barbuda,2015,Tourism expenditure (millions of US dollars),805
+28,Antigua and Barbuda,2016,Tourism expenditure (millions of US dollars),804
+28,Antigua and Barbuda,2017,Tourism expenditure (millions of US dollars),774
+32,Argentina,1995,Tourist/visitor arrivals (thousands),"2,289"
+32,Argentina,2005,Tourist/visitor arrivals (thousands),"3,823"
+32,Argentina,2010,Tourist/visitor arrivals (thousands),"5,325"
+32,Argentina,2015,Tourist/visitor arrivals (thousands),"5,736"
+32,Argentina,2016,Tourist/visitor arrivals (thousands),"6,655"
+32,Argentina,2017,Tourist/visitor arrivals (thousands),"6,720"
+32,Argentina,1995,Tourism expenditure (millions of US dollars),"2,550"
+32,Argentina,2005,Tourism expenditure (millions of US dollars),"3,209"
+32,Argentina,2010,Tourism expenditure (millions of US dollars),"5,605"
+32,Argentina,2015,Tourism expenditure (millions of US dollars),"5,441"
+32,Argentina,2016,Tourism expenditure (millions of US dollars),"5,186"
+32,Argentina,2017,Tourism expenditure (millions of US dollars),"5,514"
+51,Armenia,1995,Tourist/visitor arrivals (thousands),12
+51,Armenia,2005,Tourist/visitor arrivals (thousands),319
+51,Armenia,2010,Tourist/visitor arrivals (thousands),684
+51,Armenia,2015,Tourist/visitor arrivals (thousands),"1,192"
+51,Armenia,2016,Tourist/visitor arrivals (thousands),"1,260"
+51,Armenia,2017,Tourist/visitor arrivals (thousands),"1,495"
+51,Armenia,1995,Tourism expenditure (millions of US dollars),14
+51,Armenia,2005,Tourism expenditure (millions of US dollars),243
+51,Armenia,2010,Tourism expenditure (millions of US dollars),694
+51,Armenia,2015,Tourism expenditure (millions of US dollars),956
+51,Armenia,2016,Tourism expenditure (millions of US dollars),988
+51,Armenia,2017,Tourism expenditure (millions of US dollars),"1,140"
+533,Aruba,1995,Tourist/visitor arrivals (thousands),619
+533,Aruba,2005,Tourist/visitor arrivals (thousands),733
+533,Aruba,2010,Tourist/visitor arrivals (thousands),824
+533,Aruba,2015,Tourist/visitor arrivals (thousands),"1,225"
+533,Aruba,2016,Tourist/visitor arrivals (thousands),"1,102"
+533,Aruba,2017,Tourist/visitor arrivals (thousands),"1,071"
+533,Aruba,1995,Tourism expenditure (millions of US dollars),554
+533,Aruba,2005,Tourism expenditure (millions of US dollars),"1,097"
+533,Aruba,2010,Tourism expenditure (millions of US dollars),"1,254"
+533,Aruba,2015,Tourism expenditure (millions of US dollars),"1,664"
+533,Aruba,2016,Tourism expenditure (millions of US dollars),"1,632"
+533,Aruba,2017,Tourism expenditure (millions of US dollars),"1,733"
+36,Australia,1995,Tourist/visitor arrivals (thousands),"3,726"
+36,Australia,2005,Tourist/visitor arrivals (thousands),"5,499"
+36,Australia,2010,Tourist/visitor arrivals (thousands),"5,790"
+36,Australia,2015,Tourist/visitor arrivals (thousands),"7,450"
+36,Australia,2016,Tourist/visitor arrivals (thousands),"8,269"
+36,Australia,2017,Tourist/visitor arrivals (thousands),"8,815"
+36,Australia,1995,Tourism expenditure (millions of US dollars),"10,370"
+36,Australia,2005,Tourism expenditure (millions of US dollars),"19,719"
+36,Australia,2010,Tourism expenditure (millions of US dollars),"31,064"
+36,Australia,2015,Tourism expenditure (millions of US dollars),"30,872"
+36,Australia,2016,Tourism expenditure (millions of US dollars),"36,786"
+36,Australia,2017,Tourism expenditure (millions of US dollars),"43,982"
+40,Austria,1995,Tourist/visitor arrivals (thousands),"17,173"
+40,Austria,2005,Tourist/visitor arrivals (thousands),"19,952"
+40,Austria,2010,Tourist/visitor arrivals (thousands),"22,004"
+40,Austria,2015,Tourist/visitor arrivals (thousands),"26,728"
+40,Austria,2016,Tourist/visitor arrivals (thousands),"28,121"
+40,Austria,2017,Tourist/visitor arrivals (thousands),"29,460"
+40,Austria,1995,Tourism expenditure (millions of US dollars),"13,435"
+40,Austria,2005,Tourism expenditure (millions of US dollars),"16,243"
+40,Austria,2010,Tourism expenditure (millions of US dollars),"18,758"
+40,Austria,2015,Tourism expenditure (millions of US dollars),"20,416"
+40,Austria,2016,Tourism expenditure (millions of US dollars),"20,971"
+40,Austria,2017,Tourism expenditure (millions of US dollars),"22,408"
+31,Azerbaijan,2005,Tourist/visitor arrivals (thousands),693
+31,Azerbaijan,2010,Tourist/visitor arrivals (thousands),"1,280"
+31,Azerbaijan,2015,Tourist/visitor arrivals (thousands),"1,922"
+31,Azerbaijan,2016,Tourist/visitor arrivals (thousands),"2,044"
+31,Azerbaijan,2017,Tourist/visitor arrivals (thousands),"2,454"
+31,Azerbaijan,1995,Tourism expenditure (millions of US dollars),87
+31,Azerbaijan,2005,Tourism expenditure (millions of US dollars),100
+31,Azerbaijan,2010,Tourism expenditure (millions of US dollars),792
+31,Azerbaijan,2015,Tourism expenditure (millions of US dollars),"2,535"
+31,Azerbaijan,2016,Tourism expenditure (millions of US dollars),"2,855"
+31,Azerbaijan,2017,Tourism expenditure (millions of US dollars),"3,214"
+44,Bahamas,1995,Tourist/visitor arrivals (thousands),"1,598"
+44,Bahamas,2005,Tourist/visitor arrivals (thousands),"1,608"
+44,Bahamas,2010,Tourist/visitor arrivals (thousands),"1,370"
+44,Bahamas,2015,Tourist/visitor arrivals (thousands),"1,484"
+44,Bahamas,2016,Tourist/visitor arrivals (thousands),"1,499"
+44,Bahamas,2017,Tourist/visitor arrivals (thousands),"1,439"
+44,Bahamas,1995,Tourism expenditure (millions of US dollars),"1,356"
+44,Bahamas,2005,Tourism expenditure (millions of US dollars),"2,081"
+44,Bahamas,2010,Tourism expenditure (millions of US dollars),"2,159"
+44,Bahamas,2015,Tourism expenditure (millions of US dollars),"2,554"
+44,Bahamas,2016,Tourism expenditure (millions of US dollars),"2,608"
+44,Bahamas,2017,Tourism expenditure (millions of US dollars),"2,598"
+48,Bahrain,1995,Tourist/visitor arrivals (thousands),"2,311"
+48,Bahrain,2005,Tourist/visitor arrivals (thousands),"6,313"
+48,Bahrain,2010,Tourist/visitor arrivals (thousands),"11,952"
+48,Bahrain,2015,Tourist/visitor arrivals (thousands),"9,670"
+48,Bahrain,2016,Tourist/visitor arrivals (thousands),"10,158"
+48,Bahrain,2017,Tourist/visitor arrivals (thousands),"11,370"
+48,Bahrain,1995,Tourism expenditure (millions of US dollars),593
+48,Bahrain,2005,Tourism expenditure (millions of US dollars),"1,603"
+48,Bahrain,2010,Tourism expenditure (millions of US dollars),"2,163"
+48,Bahrain,2015,Tourism expenditure (millions of US dollars),"2,372"
+48,Bahrain,2016,Tourism expenditure (millions of US dollars),"4,021"
+48,Bahrain,2017,Tourism expenditure (millions of US dollars),"3,836"
+50,Bangladesh,1995,Tourist/visitor arrivals (thousands),156
+50,Bangladesh,2005,Tourist/visitor arrivals (thousands),208
+50,Bangladesh,2010,Tourist/visitor arrivals (thousands),303
+50,Bangladesh,2005,Tourism expenditure (millions of US dollars),82
+50,Bangladesh,2010,Tourism expenditure (millions of US dollars),103
+50,Bangladesh,2015,Tourism expenditure (millions of US dollars),150
+50,Bangladesh,2016,Tourism expenditure (millions of US dollars),214
+50,Bangladesh,2017,Tourism expenditure (millions of US dollars),344
+52,Barbados,1995,Tourist/visitor arrivals (thousands),442
+52,Barbados,2005,Tourist/visitor arrivals (thousands),548
+52,Barbados,2010,Tourist/visitor arrivals (thousands),532
+52,Barbados,2015,Tourist/visitor arrivals (thousands),592
+52,Barbados,2016,Tourist/visitor arrivals (thousands),632
+52,Barbados,2017,Tourist/visitor arrivals (thousands),664
+52,Barbados,1995,Tourism expenditure (millions of US dollars),630
+52,Barbados,2005,Tourism expenditure (millions of US dollars),"1,081"
+52,Barbados,2010,Tourism expenditure (millions of US dollars),"1,074"
+112,Belarus,1995,Tourist/visitor arrivals (thousands),161
+112,Belarus,2005,Tourist/visitor arrivals (thousands),91
+112,Belarus,2010,Tourist/visitor arrivals (thousands),119
+112,Belarus,2015,Tourist/visitor arrivals (thousands),"4,386"
+112,Belarus,2016,Tourist/visitor arrivals (thousands),"10,935"
+112,Belarus,2017,Tourist/visitor arrivals (thousands),"11,060"
+112,Belarus,1995,Tourism expenditure (millions of US dollars),28
+112,Belarus,2005,Tourism expenditure (millions of US dollars),346
+112,Belarus,2010,Tourism expenditure (millions of US dollars),665
+112,Belarus,2015,Tourism expenditure (millions of US dollars),"1,013"
+112,Belarus,2016,Tourism expenditure (millions of US dollars),"1,019"
+112,Belarus,2017,Tourism expenditure (millions of US dollars),"1,134"
+56,Belgium,1995,Tourist/visitor arrivals (thousands),"5,560"
+56,Belgium,2005,Tourist/visitor arrivals (thousands),"6,747"
+56,Belgium,2010,Tourist/visitor arrivals (thousands),"7,186"
+56,Belgium,2015,Tourist/visitor arrivals (thousands),"8,355"
+56,Belgium,2016,Tourist/visitor arrivals (thousands),"7,481"
+56,Belgium,2017,Tourist/visitor arrivals (thousands),"8,385"
+56,Belgium,2005,Tourism expenditure (millions of US dollars),"10,881"
+56,Belgium,2015,Tourism expenditure (millions of US dollars),"13,073"
+56,Belgium,2016,Tourism expenditure (millions of US dollars),"12,697"
+56,Belgium,2017,Tourism expenditure (millions of US dollars),"13,750"
+84,Belize,1995,Tourist/visitor arrivals (thousands),131
+84,Belize,2005,Tourist/visitor arrivals (thousands),237
+84,Belize,2010,Tourist/visitor arrivals (thousands),242
+84,Belize,2015,Tourist/visitor arrivals (thousands),341
+84,Belize,2016,Tourist/visitor arrivals (thousands),386
+84,Belize,2017,Tourist/visitor arrivals (thousands),427
+84,Belize,1995,Tourism expenditure (millions of US dollars),78
+84,Belize,2005,Tourism expenditure (millions of US dollars),214
+84,Belize,2010,Tourism expenditure (millions of US dollars),264
+84,Belize,2015,Tourism expenditure (millions of US dollars),372
+84,Belize,2016,Tourism expenditure (millions of US dollars),391
+84,Belize,2017,Tourism expenditure (millions of US dollars),427
+204,Benin,1995,Tourist/visitor arrivals (thousands),138
+204,Benin,2005,Tourist/visitor arrivals (thousands),176
+204,Benin,2010,Tourist/visitor arrivals (thousands),199
+204,Benin,2015,Tourist/visitor arrivals (thousands),255
+204,Benin,2016,Tourist/visitor arrivals (thousands),267
+204,Benin,2017,Tourist/visitor arrivals (thousands),281
+204,Benin,2005,Tourism expenditure (millions of US dollars),108
+204,Benin,2010,Tourism expenditure (millions of US dollars),149
+204,Benin,2015,Tourism expenditure (millions of US dollars),148
+204,Benin,2016,Tourism expenditure (millions of US dollars),129
+60,Bermuda,1995,Tourist/visitor arrivals (thousands),387
+60,Bermuda,2005,Tourist/visitor arrivals (thousands),270
+60,Bermuda,2010,Tourist/visitor arrivals (thousands),232
+60,Bermuda,2015,Tourist/visitor arrivals (thousands),220
+60,Bermuda,2016,Tourist/visitor arrivals (thousands),244
+60,Bermuda,2017,Tourist/visitor arrivals (thousands),270
+60,Bermuda,2015,Tourism expenditure (millions of US dollars),370
+60,Bermuda,2016,Tourism expenditure (millions of US dollars),441
+60,Bermuda,2017,Tourism expenditure (millions of US dollars),513
+64,Bhutan,1995,Tourist/visitor arrivals (thousands),5
+64,Bhutan,2005,Tourist/visitor arrivals (thousands),14
+64,Bhutan,2010,Tourist/visitor arrivals (thousands),41
+64,Bhutan,2015,Tourist/visitor arrivals (thousands),155
+64,Bhutan,2016,Tourist/visitor arrivals (thousands),210
+64,Bhutan,2017,Tourist/visitor arrivals (thousands),255
+64,Bhutan,1995,Tourism expenditure (millions of US dollars),5
+64,Bhutan,2005,Tourism expenditure (millions of US dollars),19
+64,Bhutan,2010,Tourism expenditure (millions of US dollars),64
+64,Bhutan,2015,Tourism expenditure (millions of US dollars),120
+64,Bhutan,2016,Tourism expenditure (millions of US dollars),139
+64,Bhutan,2017,Tourism expenditure (millions of US dollars),105
+68,Bolivia (Plurin. State of),1995,Tourist/visitor arrivals (thousands),284
+68,Bolivia (Plurin. State of),2005,Tourist/visitor arrivals (thousands),524
+68,Bolivia (Plurin. State of),2010,Tourist/visitor arrivals (thousands),679
+68,Bolivia (Plurin. State of),2015,Tourist/visitor arrivals (thousands),882
+68,Bolivia (Plurin. State of),2016,Tourist/visitor arrivals (thousands),959
+68,Bolivia (Plurin. State of),2017,Tourist/visitor arrivals (thousands),"1,134"
+68,Bolivia (Plurin. State of),1995,Tourism expenditure (millions of US dollars),92
+68,Bolivia (Plurin. State of),2005,Tourism expenditure (millions of US dollars),345
+68,Bolivia (Plurin. State of),2010,Tourism expenditure (millions of US dollars),339
+68,Bolivia (Plurin. State of),2015,Tourism expenditure (millions of US dollars),810
+68,Bolivia (Plurin. State of),2016,Tourism expenditure (millions of US dollars),827
+68,Bolivia (Plurin. State of),2017,Tourism expenditure (millions of US dollars),919
+669,Bonaire,1995,Tourist/visitor arrivals (thousands),59
+669,Bonaire,2005,Tourist/visitor arrivals (thousands),63
+669,Bonaire,2010,Tourist/visitor arrivals (thousands),71
+669,Bonaire,1995,Tourism expenditure (millions of US dollars),37
+669,Bonaire,2005,Tourism expenditure (millions of US dollars),87
+668,Sint Eustatius,1995,Tourist/visitor arrivals (thousands),9
+668,Sint Eustatius,2005,Tourist/visitor arrivals (thousands),10
+668,Sint Eustatius,2010,Tourist/visitor arrivals (thousands),11
+667,Saba,1995,Tourist/visitor arrivals (thousands),10
+667,Saba,2005,Tourist/visitor arrivals (thousands),12
+667,Saba,2010,Tourist/visitor arrivals (thousands),12
+70,Bosnia and Herzegovina,2005,Tourist/visitor arrivals (thousands),217
+70,Bosnia and Herzegovina,2010,Tourist/visitor arrivals (thousands),365
+70,Bosnia and Herzegovina,2015,Tourist/visitor arrivals (thousands),678
+70,Bosnia and Herzegovina,2016,Tourist/visitor arrivals (thousands),778
+70,Bosnia and Herzegovina,2017,Tourist/visitor arrivals (thousands),923
+70,Bosnia and Herzegovina,2005,Tourism expenditure (millions of US dollars),557
+70,Bosnia and Herzegovina,2010,Tourism expenditure (millions of US dollars),662
+70,Bosnia and Herzegovina,2015,Tourism expenditure (millions of US dollars),702
+70,Bosnia and Herzegovina,2016,Tourism expenditure (millions of US dollars),773
+70,Bosnia and Herzegovina,2017,Tourism expenditure (millions of US dollars),894
+72,Botswana,1995,Tourist/visitor arrivals (thousands),521
+72,Botswana,2005,Tourist/visitor arrivals (thousands),"1,474"
+72,Botswana,2010,Tourist/visitor arrivals (thousands),"1,973"
+72,Botswana,2015,Tourist/visitor arrivals (thousands),"1,528"
+72,Botswana,2016,Tourist/visitor arrivals (thousands),"1,574"
+72,Botswana,1995,Tourism expenditure (millions of US dollars),176
+72,Botswana,2005,Tourism expenditure (millions of US dollars),563
+72,Botswana,2010,Tourism expenditure (millions of US dollars),512
+72,Botswana,2015,Tourism expenditure (millions of US dollars),631
+72,Botswana,2016,Tourism expenditure (millions of US dollars),580
+72,Botswana,2017,Tourism expenditure (millions of US dollars),705
+76,Brazil,1995,Tourist/visitor arrivals (thousands),"1,991"
+76,Brazil,2005,Tourist/visitor arrivals (thousands),"5,358"
+76,Brazil,2010,Tourist/visitor arrivals (thousands),"5,161"
+76,Brazil,2015,Tourist/visitor arrivals (thousands),"6,306"
+76,Brazil,2016,Tourist/visitor arrivals (thousands),"6,547"
+76,Brazil,2017,Tourist/visitor arrivals (thousands),"6,589"
+76,Brazil,1995,Tourism expenditure (millions of US dollars),"1,085"
+76,Brazil,2005,Tourism expenditure (millions of US dollars),"4,168"
+76,Brazil,2010,Tourism expenditure (millions of US dollars),"5,522"
+76,Brazil,2015,Tourism expenditure (millions of US dollars),"6,254"
+76,Brazil,2016,Tourism expenditure (millions of US dollars),"6,613"
+76,Brazil,2017,Tourism expenditure (millions of US dollars),"6,175"
+92,British Virgin Islands,1995,Tourist/visitor arrivals (thousands),219
+92,British Virgin Islands,2005,Tourist/visitor arrivals (thousands),337
+92,British Virgin Islands,2010,Tourist/visitor arrivals (thousands),330
+92,British Virgin Islands,2015,Tourist/visitor arrivals (thousands),393
+92,British Virgin Islands,2016,Tourist/visitor arrivals (thousands),408
+92,British Virgin Islands,2017,Tourist/visitor arrivals (thousands),335
+92,British Virgin Islands,1995,Tourism expenditure (millions of US dollars),211
+92,British Virgin Islands,2005,Tourism expenditure (millions of US dollars),412
+92,British Virgin Islands,2010,Tourism expenditure (millions of US dollars),389
+92,British Virgin Islands,2015,Tourism expenditure (millions of US dollars),484
+96,Brunei Darussalam,2005,Tourist/visitor arrivals (thousands),126
+96,Brunei Darussalam,2010,Tourist/visitor arrivals (thousands),214
+96,Brunei Darussalam,2015,Tourist/visitor arrivals (thousands),218
+96,Brunei Darussalam,2016,Tourist/visitor arrivals (thousands),219
+96,Brunei Darussalam,2017,Tourist/visitor arrivals (thousands),259
+96,Brunei Darussalam,2005,Tourism expenditure (millions of US dollars),191
+96,Brunei Darussalam,2015,Tourism expenditure (millions of US dollars),147
+96,Brunei Darussalam,2016,Tourism expenditure (millions of US dollars),144
+96,Brunei Darussalam,2017,Tourism expenditure (millions of US dollars),177
+100,Bulgaria,1995,Tourist/visitor arrivals (thousands),"3,466"
+100,Bulgaria,2005,Tourist/visitor arrivals (thousands),"4,837"
+100,Bulgaria,2010,Tourist/visitor arrivals (thousands),"6,047"
+100,Bulgaria,2015,Tourist/visitor arrivals (thousands),"7,099"
+100,Bulgaria,2016,Tourist/visitor arrivals (thousands),"8,252"
+100,Bulgaria,2017,Tourist/visitor arrivals (thousands),"8,883"
+100,Bulgaria,1995,Tourism expenditure (millions of US dollars),662
+100,Bulgaria,2005,Tourism expenditure (millions of US dollars),"3,063"
+100,Bulgaria,2010,Tourism expenditure (millions of US dollars),"3,807"
+100,Bulgaria,2015,Tourism expenditure (millions of US dollars),"3,583"
+100,Bulgaria,2016,Tourism expenditure (millions of US dollars),"4,164"
+100,Bulgaria,2017,Tourism expenditure (millions of US dollars),"4,678"
+854,Burkina Faso,1995,Tourist/visitor arrivals (thousands),124
+854,Burkina Faso,2005,Tourist/visitor arrivals (thousands),245
+854,Burkina Faso,2010,Tourist/visitor arrivals (thousands),274
+854,Burkina Faso,2015,Tourist/visitor arrivals (thousands),163
+854,Burkina Faso,2016,Tourist/visitor arrivals (thousands),152
+854,Burkina Faso,2017,Tourist/visitor arrivals (thousands),143
+854,Burkina Faso,2005,Tourism expenditure (millions of US dollars),46
+854,Burkina Faso,2010,Tourism expenditure (millions of US dollars),105
+854,Burkina Faso,2015,Tourism expenditure (millions of US dollars),152
+854,Burkina Faso,2016,Tourism expenditure (millions of US dollars),172
+108,Burundi,1995,Tourist/visitor arrivals (thousands),34
+108,Burundi,2005,Tourist/visitor arrivals (thousands),148
+108,Burundi,2010,Tourist/visitor arrivals (thousands),142
+108,Burundi,2015,Tourist/visitor arrivals (thousands),131
+108,Burundi,2016,Tourist/visitor arrivals (thousands),187
+108,Burundi,2017,Tourist/visitor arrivals (thousands),299
+108,Burundi,1995,Tourism expenditure (millions of US dollars),2
+108,Burundi,2005,Tourism expenditure (millions of US dollars),2
+108,Burundi,2010,Tourism expenditure (millions of US dollars),2
+108,Burundi,2015,Tourism expenditure (millions of US dollars),2
+108,Burundi,2016,Tourism expenditure (millions of US dollars),2
+108,Burundi,2017,Tourism expenditure (millions of US dollars),3
+132,Cabo Verde,1995,Tourist/visitor arrivals (thousands),28
+132,Cabo Verde,2005,Tourist/visitor arrivals (thousands),198
+132,Cabo Verde,2010,Tourist/visitor arrivals (thousands),336
+132,Cabo Verde,2015,Tourist/visitor arrivals (thousands),520
+132,Cabo Verde,2016,Tourist/visitor arrivals (thousands),598
+132,Cabo Verde,2017,Tourist/visitor arrivals (thousands),668
+132,Cabo Verde,1995,Tourism expenditure (millions of US dollars),29
+132,Cabo Verde,2005,Tourism expenditure (millions of US dollars),177
+132,Cabo Verde,2010,Tourism expenditure (millions of US dollars),387
+132,Cabo Verde,2015,Tourism expenditure (millions of US dollars),380
+132,Cabo Verde,2016,Tourism expenditure (millions of US dollars),401
+132,Cabo Verde,2017,Tourism expenditure (millions of US dollars),462
+116,Cambodia,1995,Tourist/visitor arrivals (thousands),220
+116,Cambodia,2005,Tourist/visitor arrivals (thousands),"1,422"
+116,Cambodia,2010,Tourist/visitor arrivals (thousands),"2,508"
+116,Cambodia,2015,Tourist/visitor arrivals (thousands),"4,775"
+116,Cambodia,2016,Tourist/visitor arrivals (thousands),"5,012"
+116,Cambodia,2017,Tourist/visitor arrivals (thousands),"5,602"
+116,Cambodia,1995,Tourism expenditure (millions of US dollars),71
+116,Cambodia,2005,Tourism expenditure (millions of US dollars),929
+116,Cambodia,2010,Tourism expenditure (millions of US dollars),"1,671"
+116,Cambodia,2015,Tourism expenditure (millions of US dollars),"3,418"
+116,Cambodia,2016,Tourism expenditure (millions of US dollars),"3,523"
+116,Cambodia,2017,Tourism expenditure (millions of US dollars),"4,023"
+120,Cameroon,2010,Tourist/visitor arrivals (thousands),573
+120,Cameroon,2015,Tourist/visitor arrivals (thousands),897
+120,Cameroon,2016,Tourist/visitor arrivals (thousands),994
+120,Cameroon,1995,Tourism expenditure (millions of US dollars),75
+120,Cameroon,2005,Tourism expenditure (millions of US dollars),229
+120,Cameroon,2010,Tourism expenditure (millions of US dollars),171
+120,Cameroon,2015,Tourism expenditure (millions of US dollars),476
+120,Cameroon,2016,Tourism expenditure (millions of US dollars),508
+120,Cameroon,2017,Tourism expenditure (millions of US dollars),543
+124,Canada,1995,Tourist/visitor arrivals (thousands),"16,932"
+124,Canada,2005,Tourist/visitor arrivals (thousands),"18,771"
+124,Canada,2010,Tourist/visitor arrivals (thousands),"16,219"
+124,Canada,2015,Tourist/visitor arrivals (thousands),"17,971"
+124,Canada,2016,Tourist/visitor arrivals (thousands),"19,971"
+124,Canada,2017,Tourist/visitor arrivals (thousands),"20,798"
+124,Canada,1995,Tourism expenditure (millions of US dollars),"9,176"
+124,Canada,2005,Tourism expenditure (millions of US dollars),"15,887"
+124,Canada,2010,Tourism expenditure (millions of US dollars),"18,438"
+124,Canada,2015,Tourism expenditure (millions of US dollars),"19,256"
+136,Cayman Islands,1995,Tourist/visitor arrivals (thousands),361
+136,Cayman Islands,2005,Tourist/visitor arrivals (thousands),168
+136,Cayman Islands,2010,Tourist/visitor arrivals (thousands),288
+136,Cayman Islands,2015,Tourist/visitor arrivals (thousands),385
+136,Cayman Islands,2016,Tourist/visitor arrivals (thousands),385
+136,Cayman Islands,2017,Tourist/visitor arrivals (thousands),418
+136,Cayman Islands,1995,Tourism expenditure (millions of US dollars),394
+136,Cayman Islands,2005,Tourism expenditure (millions of US dollars),356
+136,Cayman Islands,2010,Tourism expenditure (millions of US dollars),465
+136,Cayman Islands,2015,Tourism expenditure (millions of US dollars),655
+136,Cayman Islands,2016,Tourism expenditure (millions of US dollars),657
+140,Central African Republic,1995,Tourist/visitor arrivals (thousands),26
+140,Central African Republic,2005,Tourist/visitor arrivals (thousands),12
+140,Central African Republic,2010,Tourist/visitor arrivals (thousands),54
+140,Central African Republic,2015,Tourist/visitor arrivals (thousands),121
+140,Central African Republic,1995,Tourism expenditure (millions of US dollars),4
+140,Central African Republic,2005,Tourism expenditure (millions of US dollars),7
+140,Central African Republic,2010,Tourism expenditure (millions of US dollars),14
+148,Chad,2010,Tourist/visitor arrivals (thousands),71
+148,Chad,2015,Tourist/visitor arrivals (thousands),120
+148,Chad,2016,Tourist/visitor arrivals (thousands),98
+148,Chad,2017,Tourist/visitor arrivals (thousands),87
+148,Chad,1995,Tourism expenditure (millions of US dollars),43
+152,Chile,1995,Tourist/visitor arrivals (thousands),"1,540"
+152,Chile,2005,Tourist/visitor arrivals (thousands),"2,027"
+152,Chile,2010,Tourist/visitor arrivals (thousands),"2,801"
+152,Chile,2015,Tourist/visitor arrivals (thousands),"4,478"
+152,Chile,2016,Tourist/visitor arrivals (thousands),"5,641"
+152,Chile,2017,Tourist/visitor arrivals (thousands),"6,450"
+152,Chile,1995,Tourism expenditure (millions of US dollars),"1,186"
+152,Chile,2005,Tourism expenditure (millions of US dollars),"1,608"
+152,Chile,2010,Tourism expenditure (millions of US dollars),"2,362"
+152,Chile,2015,Tourism expenditure (millions of US dollars),"3,412"
+152,Chile,2016,Tourism expenditure (millions of US dollars),"3,723"
+152,Chile,2017,Tourism expenditure (millions of US dollars),"4,604"
+156,China,1995,Tourist/visitor arrivals (thousands),"20,034"
+156,China,2005,Tourist/visitor arrivals (thousands),"46,809"
+156,China,2010,Tourist/visitor arrivals (thousands),"55,664"
+156,China,2015,Tourist/visitor arrivals (thousands),"56,886"
+156,China,2016,Tourist/visitor arrivals (thousands),"59,270"
+156,China,2017,Tourist/visitor arrivals (thousands),"60,740"
+156,China,1995,Tourism expenditure (millions of US dollars),"8,730"
+156,China,2005,Tourism expenditure (millions of US dollars),"29,296"
+156,China,2010,Tourism expenditure (millions of US dollars),"45,814"
+156,China,2015,Tourism expenditure (millions of US dollars),"44,969"
+156,China,2016,Tourism expenditure (millions of US dollars),"44,432"
+156,China,2017,Tourism expenditure (millions of US dollars),"32,617"
+344,"China, Hong Kong SAR",2005,Tourist/visitor arrivals (thousands),"14,773"
+344,"China, Hong Kong SAR",2010,Tourist/visitor arrivals (thousands),"20,085"
+344,"China, Hong Kong SAR",2015,Tourist/visitor arrivals (thousands),"26,686"
+344,"China, Hong Kong SAR",2016,Tourist/visitor arrivals (thousands),"26,553"
+344,"China, Hong Kong SAR",2017,Tourist/visitor arrivals (thousands),"27,884"
+344,"China, Hong Kong SAR",2005,Tourism expenditure (millions of US dollars),"13,588"
+344,"China, Hong Kong SAR",2010,Tourism expenditure (millions of US dollars),"27,208"
+344,"China, Hong Kong SAR",2015,Tourism expenditure (millions of US dollars),"42,229"
+344,"China, Hong Kong SAR",2016,Tourism expenditure (millions of US dollars),"37,654"
+344,"China, Hong Kong SAR",2017,Tourism expenditure (millions of US dollars),"38,039"
+446,"China, Macao SAR",1995,Tourist/visitor arrivals (thousands),"4,202"
+446,"China, Macao SAR",2005,Tourist/visitor arrivals (thousands),"9,014"
+446,"China, Macao SAR",2010,Tourist/visitor arrivals (thousands),"11,926"
+446,"China, Macao SAR",2015,Tourist/visitor arrivals (thousands),"14,308"
+446,"China, Macao SAR",2016,Tourist/visitor arrivals (thousands),"15,704"
+446,"China, Macao SAR",2017,Tourist/visitor arrivals (thousands),"17,255"
+446,"China, Macao SAR",1995,Tourism expenditure (millions of US dollars),"3,233"
+446,"China, Macao SAR",2005,Tourism expenditure (millions of US dollars),"7,181"
+446,"China, Macao SAR",2010,Tourism expenditure (millions of US dollars),"22,688"
+446,"China, Macao SAR",2015,Tourism expenditure (millions of US dollars),"31,500"
+446,"China, Macao SAR",2016,Tourism expenditure (millions of US dollars),"31,030"
+446,"China, Macao SAR",2017,Tourism expenditure (millions of US dollars),"35,726"
+170,Colombia,1995,Tourist/visitor arrivals (thousands),"1,399"
+170,Colombia,2005,Tourist/visitor arrivals (thousands),933
+170,Colombia,2010,Tourist/visitor arrivals (thousands),"1,405"
+170,Colombia,2015,Tourist/visitor arrivals (thousands),"2,978"
+170,Colombia,2016,Tourist/visitor arrivals (thousands),"3,317"
+170,Colombia,2017,Tourist/visitor arrivals (thousands),"4,113"
+170,Colombia,1995,Tourism expenditure (millions of US dollars),887
+170,Colombia,2005,Tourism expenditure (millions of US dollars),"1,891"
+170,Colombia,2010,Tourism expenditure (millions of US dollars),"3,441"
+170,Colombia,2015,Tourism expenditure (millions of US dollars),"5,235"
+170,Colombia,2016,Tourism expenditure (millions of US dollars),"5,584"
+170,Colombia,2017,Tourism expenditure (millions of US dollars),"5,801"
+174,Comoros,1995,Tourist/visitor arrivals (thousands),23
+174,Comoros,2005,Tourist/visitor arrivals (thousands),26
+174,Comoros,2010,Tourist/visitor arrivals (thousands),15
+174,Comoros,2015,Tourist/visitor arrivals (thousands),24
+174,Comoros,2016,Tourist/visitor arrivals (thousands),27
+174,Comoros,2017,Tourist/visitor arrivals (thousands),28
+174,Comoros,1995,Tourism expenditure (millions of US dollars),22
+174,Comoros,2005,Tourism expenditure (millions of US dollars),24
+174,Comoros,2010,Tourism expenditure (millions of US dollars),35
+178,Congo,2005,Tourist/visitor arrivals (thousands),35
+178,Congo,2010,Tourist/visitor arrivals (thousands),194
+178,Congo,2015,Tourist/visitor arrivals (thousands),220
+178,Congo,2016,Tourist/visitor arrivals (thousands),211
+178,Congo,2017,Tourist/visitor arrivals (thousands),192
+178,Congo,1995,Tourism expenditure (millions of US dollars),15
+178,Congo,2005,Tourism expenditure (millions of US dollars),40
+178,Congo,2010,Tourism expenditure (millions of US dollars),39
+178,Congo,2015,Tourism expenditure (millions of US dollars),47
+178,Congo,2016,Tourism expenditure (millions of US dollars),43
+184,Cook Islands,1995,Tourist/visitor arrivals (thousands),48
+184,Cook Islands,2005,Tourist/visitor arrivals (thousands),88
+184,Cook Islands,2010,Tourist/visitor arrivals (thousands),104
+184,Cook Islands,2015,Tourist/visitor arrivals (thousands),125
+184,Cook Islands,2016,Tourist/visitor arrivals (thousands),146
+184,Cook Islands,2017,Tourist/visitor arrivals (thousands),161
+184,Cook Islands,1995,Tourism expenditure (millions of US dollars),28
+184,Cook Islands,2005,Tourism expenditure (millions of US dollars),91
+184,Cook Islands,2010,Tourism expenditure (millions of US dollars),111
+184,Cook Islands,2015,Tourism expenditure (millions of US dollars),154
+184,Cook Islands,2016,Tourism expenditure (millions of US dollars),179
+184,Cook Islands,2017,Tourism expenditure (millions of US dollars),183
+188,Costa Rica,1995,Tourist/visitor arrivals (thousands),785
+188,Costa Rica,2005,Tourist/visitor arrivals (thousands),"1,679"
+188,Costa Rica,2010,Tourist/visitor arrivals (thousands),"2,100"
+188,Costa Rica,2015,Tourist/visitor arrivals (thousands),"2,660"
+188,Costa Rica,2016,Tourist/visitor arrivals (thousands),"2,925"
+188,Costa Rica,2017,Tourist/visitor arrivals (thousands),"2,960"
+188,Costa Rica,1995,Tourism expenditure (millions of US dollars),763
+188,Costa Rica,2005,Tourism expenditure (millions of US dollars),"2,008"
+188,Costa Rica,2010,Tourism expenditure (millions of US dollars),"2,426"
+188,Costa Rica,2015,Tourism expenditure (millions of US dollars),"3,408"
+188,Costa Rica,2016,Tourism expenditure (millions of US dollars),"3,776"
+188,Costa Rica,2017,Tourism expenditure (millions of US dollars),"3,827"
+384,Côte d’Ivoire,2010,Tourist/visitor arrivals (thousands),252
+384,Côte d’Ivoire,2015,Tourist/visitor arrivals (thousands),"1,441"
+384,Côte d’Ivoire,2016,Tourist/visitor arrivals (thousands),"1,583"
+384,Côte d’Ivoire,2017,Tourist/visitor arrivals (thousands),"1,800"
+384,Côte d’Ivoire,1995,Tourism expenditure (millions of US dollars),103
+384,Côte d’Ivoire,2005,Tourism expenditure (millions of US dollars),93
+384,Côte d’Ivoire,2010,Tourism expenditure (millions of US dollars),213
+384,Côte d’Ivoire,2015,Tourism expenditure (millions of US dollars),214
+384,Côte d’Ivoire,2016,Tourism expenditure (millions of US dollars),477
+191,Croatia,1995,Tourist/visitor arrivals (thousands),"1,485"
+191,Croatia,2005,Tourist/visitor arrivals (thousands),"7,743"
+191,Croatia,2010,Tourist/visitor arrivals (thousands),"9,111"
+191,Croatia,2015,Tourist/visitor arrivals (thousands),"12,683"
+191,Croatia,2016,Tourist/visitor arrivals (thousands),"13,809"
+191,Croatia,2017,Tourist/visitor arrivals (thousands),"15,593"
+191,Croatia,2005,Tourism expenditure (millions of US dollars),"7,625"
+191,Croatia,2010,Tourism expenditure (millions of US dollars),"8,299"
+191,Croatia,2015,Tourism expenditure (millions of US dollars),"9,018"
+191,Croatia,2016,Tourism expenditure (millions of US dollars),"9,820"
+191,Croatia,2017,Tourism expenditure (millions of US dollars),"11,128"
+192,Cuba,1995,Tourist/visitor arrivals (thousands),742
+192,Cuba,2005,Tourist/visitor arrivals (thousands),"2,261"
+192,Cuba,2010,Tourist/visitor arrivals (thousands),"2,507"
+192,Cuba,2015,Tourist/visitor arrivals (thousands),"3,506"
+192,Cuba,2016,Tourist/visitor arrivals (thousands),"3,975"
+192,Cuba,2017,Tourist/visitor arrivals (thousands),"4,594"
+192,Cuba,1995,Tourism expenditure (millions of US dollars),"1,100"
+192,Cuba,2005,Tourism expenditure (millions of US dollars),"2,591"
+192,Cuba,2010,Tourism expenditure (millions of US dollars),"2,396"
+192,Cuba,2015,Tourism expenditure (millions of US dollars),"2,819"
+192,Cuba,2016,Tourism expenditure (millions of US dollars),"3,069"
+192,Cuba,2017,Tourism expenditure (millions of US dollars),"3,302"
+531,Curaçao,1995,Tourist/visitor arrivals (thousands),224
+531,Curaçao,2005,Tourist/visitor arrivals (thousands),222
+531,Curaçao,2010,Tourist/visitor arrivals (thousands),342
+531,Curaçao,2015,Tourist/visitor arrivals (thousands),468
+531,Curaçao,2016,Tourist/visitor arrivals (thousands),441
+531,Curaçao,2017,Tourist/visitor arrivals (thousands),399
+531,Curaçao,1995,Tourism expenditure (millions of US dollars),175
+531,Curaçao,2005,Tourism expenditure (millions of US dollars),244
+531,Curaçao,2010,Tourism expenditure (millions of US dollars),438
+531,Curaçao,2015,Tourism expenditure (millions of US dollars),712
+531,Curaçao,2016,Tourism expenditure (millions of US dollars),644
+531,Curaçao,2017,Tourism expenditure (millions of US dollars),572
+196,Cyprus,1995,Tourist/visitor arrivals (thousands),"2,100"
+196,Cyprus,2005,Tourist/visitor arrivals (thousands),"2,470"
+196,Cyprus,2010,Tourist/visitor arrivals (thousands),"2,173"
+196,Cyprus,2015,Tourist/visitor arrivals (thousands),"2,659"
+196,Cyprus,2016,Tourist/visitor arrivals (thousands),"3,187"
+196,Cyprus,2017,Tourist/visitor arrivals (thousands),"3,652"
+196,Cyprus,1995,Tourism expenditure (millions of US dollars),"2,019"
+196,Cyprus,2005,Tourism expenditure (millions of US dollars),"2,619"
+196,Cyprus,2010,Tourism expenditure (millions of US dollars),"2,425"
+196,Cyprus,2015,Tourism expenditure (millions of US dollars),"2,481"
+196,Cyprus,2016,Tourism expenditure (millions of US dollars),"2,757"
+196,Cyprus,2017,Tourism expenditure (millions of US dollars),"3,128"
+203,Czechia,2005,Tourist/visitor arrivals (thousands),"9,404"
+203,Czechia,2010,Tourist/visitor arrivals (thousands),"8,629"
+203,Czechia,2015,Tourist/visitor arrivals (thousands),"11,619"
+203,Czechia,2016,Tourist/visitor arrivals (thousands),"12,808"
+203,Czechia,2005,Tourism expenditure (millions of US dollars),"5,772"
+203,Czechia,2010,Tourism expenditure (millions of US dollars),"8,068"
+203,Czechia,2015,Tourism expenditure (millions of US dollars),"6,766"
+203,Czechia,2016,Tourism expenditure (millions of US dollars),"7,041"
+203,Czechia,2017,Tourism expenditure (millions of US dollars),"7,693"
+180,Dem. Rep. of the Congo,1995,Tourist/visitor arrivals (thousands),35
+180,Dem. Rep. of the Congo,2005,Tourist/visitor arrivals (thousands),61
+180,Dem. Rep. of the Congo,2010,Tourist/visitor arrivals (thousands),81
+180,Dem. Rep. of the Congo,2015,Tourist/visitor arrivals (thousands),354
+180,Dem. Rep. of the Congo,2016,Tourist/visitor arrivals (thousands),351
+180,Dem. Rep. of the Congo,2005,Tourism expenditure (millions of US dollars),3
+180,Dem. Rep. of the Congo,2010,Tourism expenditure (millions of US dollars),11
+180,Dem. Rep. of the Congo,2015,Tourism expenditure (millions of US dollars),0
+180,Dem. Rep. of the Congo,2016,Tourism expenditure (millions of US dollars),4
+180,Dem. Rep. of the Congo,2017,Tourism expenditure (millions of US dollars),6
+208,Denmark,2005,Tourist/visitor arrivals (thousands),"9,587"
+208,Denmark,2010,Tourist/visitor arrivals (thousands),"9,425"
+208,Denmark,2015,Tourist/visitor arrivals (thousands),"10,424"
+208,Denmark,2016,Tourist/visitor arrivals (thousands),"10,781"
+208,Denmark,2017,Tourist/visitor arrivals (thousands),"11,743"
+208,Denmark,1995,Tourism expenditure (millions of US dollars),"3,691"
+208,Denmark,2005,Tourism expenditure (millions of US dollars),"5,293"
+208,Denmark,2010,Tourism expenditure (millions of US dollars),"5,704"
+208,Denmark,2015,Tourism expenditure (millions of US dollars),"6,685"
+208,Denmark,2016,Tourism expenditure (millions of US dollars),"7,046"
+208,Denmark,2017,Tourism expenditure (millions of US dollars),"7,969"
+262,Djibouti,1995,Tourist/visitor arrivals (thousands),21
+262,Djibouti,2005,Tourist/visitor arrivals (thousands),30
+262,Djibouti,2010,Tourist/visitor arrivals (thousands),51
+262,Djibouti,1995,Tourism expenditure (millions of US dollars),5
+262,Djibouti,2005,Tourism expenditure (millions of US dollars),7
+262,Djibouti,2010,Tourism expenditure (millions of US dollars),18
+262,Djibouti,2015,Tourism expenditure (millions of US dollars),31
+262,Djibouti,2016,Tourism expenditure (millions of US dollars),34
+262,Djibouti,2017,Tourism expenditure (millions of US dollars),35
+212,Dominica,1995,Tourist/visitor arrivals (thousands),60
+212,Dominica,2005,Tourist/visitor arrivals (thousands),79
+212,Dominica,2010,Tourist/visitor arrivals (thousands),77
+212,Dominica,2015,Tourist/visitor arrivals (thousands),75
+212,Dominica,2016,Tourist/visitor arrivals (thousands),78
+212,Dominica,2017,Tourist/visitor arrivals (thousands),72
+212,Dominica,1995,Tourism expenditure (millions of US dollars),42
+212,Dominica,2005,Tourism expenditure (millions of US dollars),57
+212,Dominica,2010,Tourism expenditure (millions of US dollars),94
+212,Dominica,2015,Tourism expenditure (millions of US dollars),202
+212,Dominica,2016,Tourism expenditure (millions of US dollars),198
+212,Dominica,2017,Tourism expenditure (millions of US dollars),182
+214,Dominican Republic,1995,Tourist/visitor arrivals (thousands),"1,776"
+214,Dominican Republic,2005,Tourist/visitor arrivals (thousands),"3,691"
+214,Dominican Republic,2010,Tourist/visitor arrivals (thousands),"4,125"
+214,Dominican Republic,2015,Tourist/visitor arrivals (thousands),"5,600"
+214,Dominican Republic,2016,Tourist/visitor arrivals (thousands),"5,959"
+214,Dominican Republic,2017,Tourist/visitor arrivals (thousands),"6,188"
+214,Dominican Republic,1995,Tourism expenditure (millions of US dollars),"1,571"
+214,Dominican Republic,2005,Tourism expenditure (millions of US dollars),"3,518"
+214,Dominican Republic,2010,Tourism expenditure (millions of US dollars),"4,162"
+214,Dominican Republic,2015,Tourism expenditure (millions of US dollars),"6,116"
+214,Dominican Republic,2016,Tourism expenditure (millions of US dollars),"6,720"
+214,Dominican Republic,2017,Tourism expenditure (millions of US dollars),"7,178"
+218,Ecuador,1995,Tourist/visitor arrivals (thousands),440
+218,Ecuador,2005,Tourist/visitor arrivals (thousands),860
+218,Ecuador,2010,Tourist/visitor arrivals (thousands),"1,047"
+218,Ecuador,2015,Tourist/visitor arrivals (thousands),"1,544"
+218,Ecuador,2016,Tourist/visitor arrivals (thousands),"1,418"
+218,Ecuador,2017,Tourist/visitor arrivals (thousands),"1,608"
+218,Ecuador,1995,Tourism expenditure (millions of US dollars),315
+218,Ecuador,2005,Tourism expenditure (millions of US dollars),488
+218,Ecuador,2010,Tourism expenditure (millions of US dollars),786
+218,Ecuador,2015,Tourism expenditure (millions of US dollars),"1,557"
+218,Ecuador,2016,Tourism expenditure (millions of US dollars),"1,450"
+218,Ecuador,2017,Tourism expenditure (millions of US dollars),"1,663"
+818,Egypt,1995,Tourist/visitor arrivals (thousands),"2,871"
+818,Egypt,2005,Tourist/visitor arrivals (thousands),"8,244"
+818,Egypt,2010,Tourist/visitor arrivals (thousands),"14,051"
+818,Egypt,2015,Tourist/visitor arrivals (thousands),"9,139"
+818,Egypt,2016,Tourist/visitor arrivals (thousands),"5,258"
+818,Egypt,2017,Tourist/visitor arrivals (thousands),"8,157"
+818,Egypt,1995,Tourism expenditure (millions of US dollars),"2,954"
+818,Egypt,2005,Tourism expenditure (millions of US dollars),"7,206"
+818,Egypt,2010,Tourism expenditure (millions of US dollars),"13,633"
+818,Egypt,2015,Tourism expenditure (millions of US dollars),"6,897"
+818,Egypt,2016,Tourism expenditure (millions of US dollars),"3,306"
+818,Egypt,2017,Tourism expenditure (millions of US dollars),"8,636"
+222,El Salvador,1995,Tourist/visitor arrivals (thousands),235
+222,El Salvador,2005,Tourist/visitor arrivals (thousands),"1,127"
+222,El Salvador,2010,Tourist/visitor arrivals (thousands),"1,150"
+222,El Salvador,2015,Tourist/visitor arrivals (thousands),"1,402"
+222,El Salvador,2016,Tourist/visitor arrivals (thousands),"1,434"
+222,El Salvador,2017,Tourist/visitor arrivals (thousands),"1,556"
+222,El Salvador,1995,Tourism expenditure (millions of US dollars),152
+222,El Salvador,2005,Tourism expenditure (millions of US dollars),656
+222,El Salvador,2010,Tourism expenditure (millions of US dollars),646
+222,El Salvador,2015,Tourism expenditure (millions of US dollars),"1,203"
+222,El Salvador,2016,Tourism expenditure (millions of US dollars),"1,161"
+222,El Salvador,2017,Tourism expenditure (millions of US dollars),"1,227"
+226,Equatorial Guinea,1995,Tourism expenditure (millions of US dollars),1
+232,Eritrea,1995,Tourist/visitor arrivals (thousands),315
+232,Eritrea,2005,Tourist/visitor arrivals (thousands),83
+232,Eritrea,2010,Tourist/visitor arrivals (thousands),84
+232,Eritrea,2015,Tourist/visitor arrivals (thousands),114
+232,Eritrea,2016,Tourist/visitor arrivals (thousands),142
+232,Eritrea,1995,Tourism expenditure (millions of US dollars),58
+232,Eritrea,2005,Tourism expenditure (millions of US dollars),66
+232,Eritrea,2016,Tourism expenditure (millions of US dollars),48
+233,Estonia,1995,Tourist/visitor arrivals (thousands),530
+233,Estonia,2005,Tourist/visitor arrivals (thousands),"1,917"
+233,Estonia,2010,Tourist/visitor arrivals (thousands),"2,511"
+233,Estonia,2015,Tourist/visitor arrivals (thousands),"2,961"
+233,Estonia,2016,Tourist/visitor arrivals (thousands),"3,131"
+233,Estonia,2017,Tourist/visitor arrivals (thousands),"3,245"
+233,Estonia,1995,Tourism expenditure (millions of US dollars),452
+233,Estonia,2005,Tourism expenditure (millions of US dollars),"1,229"
+233,Estonia,2015,Tourism expenditure (millions of US dollars),"1,885"
+233,Estonia,2016,Tourism expenditure (millions of US dollars),"1,942"
+233,Estonia,2017,Tourism expenditure (millions of US dollars),"2,144"
+231,Ethiopia,1995,Tourist/visitor arrivals (thousands),103
+231,Ethiopia,2005,Tourist/visitor arrivals (thousands),227
+231,Ethiopia,2010,Tourist/visitor arrivals (thousands),468
+231,Ethiopia,2015,Tourist/visitor arrivals (thousands),864
+231,Ethiopia,2016,Tourist/visitor arrivals (thousands),871
+231,Ethiopia,2017,Tourist/visitor arrivals (thousands),933
+231,Ethiopia,1995,Tourism expenditure (millions of US dollars),177
+231,Ethiopia,2005,Tourism expenditure (millions of US dollars),533
+231,Ethiopia,2010,Tourism expenditure (millions of US dollars),"1,434"
+231,Ethiopia,2015,Tourism expenditure (millions of US dollars),"2,279"
+231,Ethiopia,2016,Tourism expenditure (millions of US dollars),"2,138"
+231,Ethiopia,2017,Tourism expenditure (millions of US dollars),"2,503"
+242,Fiji,1995,Tourist/visitor arrivals (thousands),318
+242,Fiji,2005,Tourist/visitor arrivals (thousands),545
+242,Fiji,2010,Tourist/visitor arrivals (thousands),632
+242,Fiji,2015,Tourist/visitor arrivals (thousands),755
+242,Fiji,2016,Tourist/visitor arrivals (thousands),792
+242,Fiji,2017,Tourist/visitor arrivals (thousands),843
+242,Fiji,1995,Tourism expenditure (millions of US dollars),369
+242,Fiji,2005,Tourism expenditure (millions of US dollars),722
+242,Fiji,2010,Tourism expenditure (millions of US dollars),825
+242,Fiji,2015,Tourism expenditure (millions of US dollars),"1,038"
+242,Fiji,2016,Tourism expenditure (millions of US dollars),"1,049"
+242,Fiji,2017,Tourism expenditure (millions of US dollars),"1,188"
+246,Finland,1995,Tourist/visitor arrivals (thousands),"1,779"
+246,Finland,2005,Tourist/visitor arrivals (thousands),"2,080"
+246,Finland,2010,Tourist/visitor arrivals (thousands),"2,319"
+246,Finland,2015,Tourist/visitor arrivals (thousands),"2,622"
+246,Finland,2016,Tourist/visitor arrivals (thousands),"2,789"
+246,Finland,2017,Tourist/visitor arrivals (thousands),"3,180"
+246,Finland,1995,Tourism expenditure (millions of US dollars),"2,383"
+246,Finland,2005,Tourism expenditure (millions of US dollars),"3,069"
+246,Finland,2010,Tourism expenditure (millions of US dollars),"4,497"
+246,Finland,2015,Tourism expenditure (millions of US dollars),"4,009"
+246,Finland,2016,Tourism expenditure (millions of US dollars),"4,009"
+246,Finland,2017,Tourism expenditure (millions of US dollars),"5,204"
+250,France,1995,Tourist/visitor arrivals (thousands),"60,033"
+250,France,2005,Tourist/visitor arrivals (thousands),"74,988"
+250,France,2010,Tourist/visitor arrivals (thousands),"76,647"
+250,France,2015,Tourist/visitor arrivals (thousands),"84,452"
+250,France,2016,Tourist/visitor arrivals (thousands),"82,682"
+250,France,2017,Tourist/visitor arrivals (thousands),"86,861"
+250,France,1995,Tourism expenditure (millions of US dollars),"31,295"
+250,France,2005,Tourism expenditure (millions of US dollars),"52,139"
+250,France,2010,Tourism expenditure (millions of US dollars),"56,187"
+250,France,2015,Tourism expenditure (millions of US dollars),"66,419"
+250,France,2016,Tourism expenditure (millions of US dollars),"62,965"
+250,France,2017,Tourism expenditure (millions of US dollars),"69,894"
+254,French Guiana,2005,Tourist/visitor arrivals (thousands),95
+254,French Guiana,2010,Tourist/visitor arrivals (thousands),189
+254,French Guiana,2015,Tourist/visitor arrivals (thousands),199
+254,French Guiana,2016,Tourist/visitor arrivals (thousands),223
+254,French Guiana,2017,Tourist/visitor arrivals (thousands),224
+254,French Guiana,2005,Tourism expenditure (millions of US dollars),44
+258,French Polynesia,1995,Tourist/visitor arrivals (thousands),172
+258,French Polynesia,2005,Tourist/visitor arrivals (thousands),208
+258,French Polynesia,2010,Tourist/visitor arrivals (thousands),154
+258,French Polynesia,2015,Tourist/visitor arrivals (thousands),184
+258,French Polynesia,2016,Tourist/visitor arrivals (thousands),192
+258,French Polynesia,2017,Tourist/visitor arrivals (thousands),199
+258,French Polynesia,1995,Tourism expenditure (millions of US dollars),326
+258,French Polynesia,2005,Tourism expenditure (millions of US dollars),759
+258,French Polynesia,2010,Tourism expenditure (millions of US dollars),630
+258,French Polynesia,2015,Tourism expenditure (millions of US dollars),758
+258,French Polynesia,2016,Tourism expenditure (millions of US dollars),782
+266,Gabon,1995,Tourist/visitor arrivals (thousands),125
+266,Gabon,2005,Tourist/visitor arrivals (thousands),269
+266,Gabon,1995,Tourism expenditure (millions of US dollars),94
+266,Gabon,2005,Tourism expenditure (millions of US dollars),13
+266,Gabon,2010,Tourism expenditure (millions of US dollars),89
+270,Gambia,1995,Tourist/visitor arrivals (thousands),45
+270,Gambia,2005,Tourist/visitor arrivals (thousands),108
+270,Gambia,2010,Tourist/visitor arrivals (thousands),91
+270,Gambia,2015,Tourist/visitor arrivals (thousands),135
+270,Gambia,2016,Tourist/visitor arrivals (thousands),161
+270,Gambia,2017,Tourist/visitor arrivals (thousands),162
+270,Gambia,2005,Tourism expenditure (millions of US dollars),59
+270,Gambia,2010,Tourism expenditure (millions of US dollars),80
+270,Gambia,2015,Tourism expenditure (millions of US dollars),121
+270,Gambia,2016,Tourism expenditure (millions of US dollars),120
+270,Gambia,2017,Tourism expenditure (millions of US dollars),116
+268,Georgia,2010,Tourist/visitor arrivals (thousands),"1,067"
+268,Georgia,2015,Tourist/visitor arrivals (thousands),"3,012"
+268,Georgia,2016,Tourist/visitor arrivals (thousands),"3,297"
+268,Georgia,2017,Tourist/visitor arrivals (thousands),"4,069"
+268,Georgia,2005,Tourism expenditure (millions of US dollars),287
+268,Georgia,2010,Tourism expenditure (millions of US dollars),737
+268,Georgia,2015,Tourism expenditure (millions of US dollars),"2,049"
+268,Georgia,2016,Tourism expenditure (millions of US dollars),"2,315"
+268,Georgia,2017,Tourism expenditure (millions of US dollars),"2,971"
+276,Germany,1995,Tourist/visitor arrivals (thousands),"14,847"
+276,Germany,2005,Tourist/visitor arrivals (thousands),"21,500"
+276,Germany,2010,Tourist/visitor arrivals (thousands),"26,875"
+276,Germany,2015,Tourist/visitor arrivals (thousands),"34,970"
+276,Germany,2016,Tourist/visitor arrivals (thousands),"35,555"
+276,Germany,2017,Tourist/visitor arrivals (thousands),"37,452"
+276,Germany,1995,Tourism expenditure (millions of US dollars),"24,052"
+276,Germany,2005,Tourism expenditure (millions of US dollars),"40,531"
+276,Germany,2010,Tourism expenditure (millions of US dollars),"49,126"
+276,Germany,2015,Tourism expenditure (millions of US dollars),"50,652"
+276,Germany,2016,Tourism expenditure (millions of US dollars),"52,175"
+276,Germany,2017,Tourism expenditure (millions of US dollars),"56,173"
+288,Ghana,1995,Tourist/visitor arrivals (thousands),286
+288,Ghana,2005,Tourist/visitor arrivals (thousands),429
+288,Ghana,2010,Tourist/visitor arrivals (thousands),931
+288,Ghana,2015,Tourist/visitor arrivals (thousands),897
+288,Ghana,1995,Tourism expenditure (millions of US dollars),30
+288,Ghana,2005,Tourism expenditure (millions of US dollars),867
+288,Ghana,2010,Tourism expenditure (millions of US dollars),706
+288,Ghana,2015,Tourism expenditure (millions of US dollars),911
+288,Ghana,2016,Tourism expenditure (millions of US dollars),952
+288,Ghana,2017,Tourism expenditure (millions of US dollars),919
+300,Greece,1995,Tourist/visitor arrivals (thousands),"10,130"
+300,Greece,2005,Tourist/visitor arrivals (thousands),"14,765"
+300,Greece,2010,Tourist/visitor arrivals (thousands),"15,007"
+300,Greece,2015,Tourist/visitor arrivals (thousands),"23,599"
+300,Greece,2016,Tourist/visitor arrivals (thousands),"24,799"
+300,Greece,2017,Tourist/visitor arrivals (thousands),"27,194"
+300,Greece,1995,Tourism expenditure (millions of US dollars),"4,182"
+300,Greece,2005,Tourism expenditure (millions of US dollars),"13,453"
+300,Greece,2010,Tourism expenditure (millions of US dollars),"13,858"
+300,Greece,2015,Tourism expenditure (millions of US dollars),"17,260"
+300,Greece,2016,Tourism expenditure (millions of US dollars),"16,533"
+300,Greece,2017,Tourism expenditure (millions of US dollars),"18,820"
+308,Grenada,1995,Tourist/visitor arrivals (thousands),108
+308,Grenada,2005,Tourist/visitor arrivals (thousands),99
+308,Grenada,2010,Tourist/visitor arrivals (thousands),110
+308,Grenada,2015,Tourist/visitor arrivals (thousands),155
+308,Grenada,2016,Tourist/visitor arrivals (thousands),156
+308,Grenada,2017,Tourist/visitor arrivals (thousands),168
+308,Grenada,1995,Tourism expenditure (millions of US dollars),76
+308,Grenada,2005,Tourism expenditure (millions of US dollars),71
+308,Grenada,2010,Tourism expenditure (millions of US dollars),112
+308,Grenada,2015,Tourism expenditure (millions of US dollars),422
+308,Grenada,2016,Tourism expenditure (millions of US dollars),437
+308,Grenada,2017,Tourism expenditure (millions of US dollars),499
+312,Guadeloupe,1995,Tourist/visitor arrivals (thousands),640
+312,Guadeloupe,2005,Tourist/visitor arrivals (thousands),372
+312,Guadeloupe,2010,Tourist/visitor arrivals (thousands),392
+312,Guadeloupe,2015,Tourist/visitor arrivals (thousands),512
+312,Guadeloupe,2016,Tourist/visitor arrivals (thousands),581
+312,Guadeloupe,2017,Tourist/visitor arrivals (thousands),650
+312,Guadeloupe,1995,Tourism expenditure (millions of US dollars),458
+312,Guadeloupe,2005,Tourism expenditure (millions of US dollars),306
+312,Guadeloupe,2010,Tourism expenditure (millions of US dollars),510
+312,Guadeloupe,2015,Tourism expenditure (millions of US dollars),614
+316,Guam,1995,Tourist/visitor arrivals (thousands),"1,362"
+316,Guam,2005,Tourist/visitor arrivals (thousands),"1,228"
+316,Guam,2010,Tourist/visitor arrivals (thousands),"1,197"
+316,Guam,2015,Tourist/visitor arrivals (thousands),"1,409"
+316,Guam,2016,Tourist/visitor arrivals (thousands),"1,536"
+316,Guam,2017,Tourist/visitor arrivals (thousands),"1,544"
+320,Guatemala,2010,Tourist/visitor arrivals (thousands),"1,119"
+320,Guatemala,2015,Tourist/visitor arrivals (thousands),"1,473"
+320,Guatemala,2016,Tourist/visitor arrivals (thousands),"1,585"
+320,Guatemala,2017,Tourist/visitor arrivals (thousands),"1,660"
+320,Guatemala,1995,Tourism expenditure (millions of US dollars),213
+320,Guatemala,2005,Tourism expenditure (millions of US dollars),791
+320,Guatemala,2010,Tourism expenditure (millions of US dollars),"1,378"
+320,Guatemala,2015,Tourism expenditure (millions of US dollars),"1,580"
+320,Guatemala,2016,Tourism expenditure (millions of US dollars),"1,550"
+320,Guatemala,2017,Tourism expenditure (millions of US dollars),"1,566"
+324,Guinea,2005,Tourist/visitor arrivals (thousands),45
+324,Guinea,2010,Tourist/visitor arrivals (thousands),12
+324,Guinea,2015,Tourist/visitor arrivals (thousands),35
+324,Guinea,2016,Tourist/visitor arrivals (thousands),60
+324,Guinea,1995,Tourism expenditure (millions of US dollars),1
+324,Guinea,2010,Tourism expenditure (millions of US dollars),2
+324,Guinea,2015,Tourism expenditure (millions of US dollars),27
+324,Guinea,2016,Tourism expenditure (millions of US dollars),17
+324,Guinea,2017,Tourism expenditure (millions of US dollars),17
+624,Guinea-Bissau,2005,Tourist/visitor arrivals (thousands),5
+624,Guinea-Bissau,2010,Tourist/visitor arrivals (thousands),22
+624,Guinea-Bissau,2015,Tourist/visitor arrivals (thousands),44
+624,Guinea-Bissau,2010,Tourism expenditure (millions of US dollars),14
+624,Guinea-Bissau,2015,Tourism expenditure (millions of US dollars),17
+624,Guinea-Bissau,2016,Tourism expenditure (millions of US dollars),12
+328,Guyana,1995,Tourist/visitor arrivals (thousands),106
+328,Guyana,2005,Tourist/visitor arrivals (thousands),117
+328,Guyana,2010,Tourist/visitor arrivals (thousands),152
+328,Guyana,2015,Tourist/visitor arrivals (thousands),207
+328,Guyana,2016,Tourist/visitor arrivals (thousands),235
+328,Guyana,2017,Tourist/visitor arrivals (thousands),247
+328,Guyana,1995,Tourism expenditure (millions of US dollars),33
+328,Guyana,2005,Tourism expenditure (millions of US dollars),35
+328,Guyana,2010,Tourism expenditure (millions of US dollars),80
+328,Guyana,2015,Tourism expenditure (millions of US dollars),65
+328,Guyana,2016,Tourism expenditure (millions of US dollars),104
+332,Haiti,1995,Tourist/visitor arrivals (thousands),145
+332,Haiti,2005,Tourist/visitor arrivals (thousands),112
+332,Haiti,2010,Tourist/visitor arrivals (thousands),255
+332,Haiti,2015,Tourist/visitor arrivals (thousands),516
+332,Haiti,2016,Tourist/visitor arrivals (thousands),445
+332,Haiti,2017,Tourist/visitor arrivals (thousands),467
+332,Haiti,1995,Tourism expenditure (millions of US dollars),90
+332,Haiti,2005,Tourism expenditure (millions of US dollars),80
+332,Haiti,2010,Tourism expenditure (millions of US dollars),383
+332,Haiti,2015,Tourism expenditure (millions of US dollars),609
+332,Haiti,2016,Tourism expenditure (millions of US dollars),511
+332,Haiti,2017,Tourism expenditure (millions of US dollars),460
+340,Honduras,1995,Tourist/visitor arrivals (thousands),271
+340,Honduras,2005,Tourist/visitor arrivals (thousands),673
+340,Honduras,2010,Tourist/visitor arrivals (thousands),863
+340,Honduras,2015,Tourist/visitor arrivals (thousands),880
+340,Honduras,2016,Tourist/visitor arrivals (thousands),838
+340,Honduras,2017,Tourist/visitor arrivals (thousands),851
+340,Honduras,1995,Tourism expenditure (millions of US dollars),85
+340,Honduras,2005,Tourism expenditure (millions of US dollars),465
+340,Honduras,2010,Tourism expenditure (millions of US dollars),627
+340,Honduras,2015,Tourism expenditure (millions of US dollars),671
+340,Honduras,2016,Tourism expenditure (millions of US dollars),700
+340,Honduras,2017,Tourism expenditure (millions of US dollars),722
+348,Hungary,2005,Tourist/visitor arrivals (thousands),"9,979"
+348,Hungary,2010,Tourist/visitor arrivals (thousands),"9,510"
+348,Hungary,2015,Tourist/visitor arrivals (thousands),"14,316"
+348,Hungary,2016,Tourist/visitor arrivals (thousands),"15,255"
+348,Hungary,2017,Tourist/visitor arrivals (thousands),"15,785"
+348,Hungary,1995,Tourism expenditure (millions of US dollars),"2,938"
+348,Hungary,2005,Tourism expenditure (millions of US dollars),"4,761"
+348,Hungary,2010,Tourism expenditure (millions of US dollars),"6,595"
+348,Hungary,2015,Tourism expenditure (millions of US dollars),"6,929"
+348,Hungary,2016,Tourism expenditure (millions of US dollars),"7,480"
+348,Hungary,2017,Tourism expenditure (millions of US dollars),"8,453"
+352,Iceland,1995,Tourist/visitor arrivals (thousands),190
+352,Iceland,2005,Tourist/visitor arrivals (thousands),374
+352,Iceland,2010,Tourist/visitor arrivals (thousands),489
+352,Iceland,2015,Tourist/visitor arrivals (thousands),"1,289"
+352,Iceland,2016,Tourist/visitor arrivals (thousands),"1,792"
+352,Iceland,2017,Tourist/visitor arrivals (thousands),"2,225"
+352,Iceland,1995,Tourism expenditure (millions of US dollars),309
+352,Iceland,2005,Tourism expenditure (millions of US dollars),635
+352,Iceland,2010,Tourism expenditure (millions of US dollars),562
+352,Iceland,2015,Tourism expenditure (millions of US dollars),"1,618"
+352,Iceland,2016,Tourism expenditure (millions of US dollars),"2,411"
+352,Iceland,2017,Tourism expenditure (millions of US dollars),"3,024"
+356,India,1995,Tourist/visitor arrivals (thousands),"2,124"
+356,India,2005,Tourist/visitor arrivals (thousands),"3,919"
+356,India,2010,Tourist/visitor arrivals (thousands),"5,776"
+356,India,2015,Tourist/visitor arrivals (thousands),"13,284"
+356,India,2016,Tourist/visitor arrivals (thousands),"14,570"
+356,India,2017,Tourist/visitor arrivals (thousands),"15,543"
+356,India,2005,Tourism expenditure (millions of US dollars),"7,659"
+356,India,2015,Tourism expenditure (millions of US dollars),"21,472"
+356,India,2016,Tourism expenditure (millions of US dollars),"23,111"
+356,India,2017,Tourism expenditure (millions of US dollars),"27,878"
+360,Indonesia,1995,Tourist/visitor arrivals (thousands),"4,324"
+360,Indonesia,2005,Tourist/visitor arrivals (thousands),"5,002"
+360,Indonesia,2010,Tourist/visitor arrivals (thousands),"7,003"
+360,Indonesia,2015,Tourist/visitor arrivals (thousands),"10,407"
+360,Indonesia,2016,Tourist/visitor arrivals (thousands),"11,519"
+360,Indonesia,2017,Tourist/visitor arrivals (thousands),"14,040"
+360,Indonesia,2005,Tourism expenditure (millions of US dollars),"5,094"
+360,Indonesia,2010,Tourism expenditure (millions of US dollars),"7,618"
+360,Indonesia,2015,Tourism expenditure (millions of US dollars),"12,054"
+360,Indonesia,2016,Tourism expenditure (millions of US dollars),"12,566"
+360,Indonesia,2017,Tourism expenditure (millions of US dollars),"14,117"
+364,Iran (Islamic Republic of),1995,Tourist/visitor arrivals (thousands),568
+364,Iran (Islamic Republic of),2010,Tourist/visitor arrivals (thousands),"2,938"
+364,Iran (Islamic Republic of),2015,Tourist/visitor arrivals (thousands),"5,237"
+364,Iran (Islamic Republic of),2016,Tourist/visitor arrivals (thousands),"4,942"
+364,Iran (Islamic Republic of),2017,Tourist/visitor arrivals (thousands),"4,867"
+364,Iran (Islamic Republic of),1995,Tourism expenditure (millions of US dollars),205
+364,Iran (Islamic Republic of),2005,Tourism expenditure (millions of US dollars),"1,025"
+364,Iran (Islamic Republic of),2010,Tourism expenditure (millions of US dollars),"2,631"
+364,Iran (Islamic Republic of),2015,Tourism expenditure (millions of US dollars),"4,771"
+364,Iran (Islamic Republic of),2016,Tourism expenditure (millions of US dollars),"3,914"
+368,Iraq,1995,Tourist/visitor arrivals (thousands),61
+368,Iraq,2010,Tourist/visitor arrivals (thousands),"1,518"
+368,Iraq,2005,Tourism expenditure (millions of US dollars),186
+368,Iraq,2010,Tourism expenditure (millions of US dollars),"1,736"
+368,Iraq,2015,Tourism expenditure (millions of US dollars),"4,076"
+368,Iraq,2016,Tourism expenditure (millions of US dollars),"2,479"
+372,Ireland,1995,Tourist/visitor arrivals (thousands),"4,818"
+372,Ireland,2005,Tourist/visitor arrivals (thousands),"7,333"
+372,Ireland,2010,Tourist/visitor arrivals (thousands),"7,134"
+372,Ireland,2015,Tourist/visitor arrivals (thousands),"9,528"
+372,Ireland,2016,Tourist/visitor arrivals (thousands),"10,100"
+372,Ireland,2017,Tourist/visitor arrivals (thousands),"10,338"
+372,Ireland,1995,Tourism expenditure (millions of US dollars),"2,698"
+372,Ireland,2005,Tourism expenditure (millions of US dollars),"6,780"
+372,Ireland,2010,Tourism expenditure (millions of US dollars),"8,187"
+372,Ireland,2015,Tourism expenditure (millions of US dollars),"11,476"
+372,Ireland,2016,Tourism expenditure (millions of US dollars),"11,427"
+372,Ireland,2017,Tourism expenditure (millions of US dollars),"14,283"
+376,Israel,1995,Tourist/visitor arrivals (thousands),"2,215"
+376,Israel,2005,Tourist/visitor arrivals (thousands),"1,903"
+376,Israel,2010,Tourist/visitor arrivals (thousands),"2,803"
+376,Israel,2015,Tourist/visitor arrivals (thousands),"2,799"
+376,Israel,2016,Tourist/visitor arrivals (thousands),"2,900"
+376,Israel,2017,Tourist/visitor arrivals (thousands),"3,613"
+376,Israel,1995,Tourism expenditure (millions of US dollars),"3,491"
+376,Israel,2005,Tourism expenditure (millions of US dollars),"2,750"
+376,Israel,2010,Tourism expenditure (millions of US dollars),"5,621"
+376,Israel,2015,Tourism expenditure (millions of US dollars),"6,574"
+376,Israel,2016,Tourism expenditure (millions of US dollars),"6,587"
+376,Israel,2017,Tourism expenditure (millions of US dollars),"7,572"
+380,Italy,1995,Tourist/visitor arrivals (thousands),"31,052"
+380,Italy,2005,Tourist/visitor arrivals (thousands),"36,513"
+380,Italy,2010,Tourist/visitor arrivals (thousands),"43,626"
+380,Italy,2015,Tourist/visitor arrivals (thousands),"50,732"
+380,Italy,2016,Tourist/visitor arrivals (thousands),"52,372"
+380,Italy,2017,Tourist/visitor arrivals (thousands),"58,253"
+380,Italy,1995,Tourism expenditure (millions of US dollars),"30,411"
+380,Italy,2005,Tourism expenditure (millions of US dollars),"38,373"
+380,Italy,2010,Tourism expenditure (millions of US dollars),"38,438"
+380,Italy,2015,Tourism expenditure (millions of US dollars),"39,420"
+380,Italy,2016,Tourism expenditure (millions of US dollars),"40,373"
+380,Italy,2017,Tourism expenditure (millions of US dollars),"44,548"
+388,Jamaica,1995,Tourist/visitor arrivals (thousands),"1,147"
+388,Jamaica,2005,Tourist/visitor arrivals (thousands),"1,479"
+388,Jamaica,2010,Tourist/visitor arrivals (thousands),"1,922"
+388,Jamaica,2015,Tourist/visitor arrivals (thousands),"2,123"
+388,Jamaica,2016,Tourist/visitor arrivals (thousands),"2,182"
+388,Jamaica,2017,Tourist/visitor arrivals (thousands),"2,353"
+388,Jamaica,1995,Tourism expenditure (millions of US dollars),"1,199"
+388,Jamaica,2005,Tourism expenditure (millions of US dollars),"1,783"
+388,Jamaica,2010,Tourism expenditure (millions of US dollars),"2,095"
+388,Jamaica,2015,Tourism expenditure (millions of US dollars),"2,401"
+388,Jamaica,2016,Tourism expenditure (millions of US dollars),"2,539"
+388,Jamaica,2017,Tourism expenditure (millions of US dollars),"2,809"
+392,Japan,1995,Tourist/visitor arrivals (thousands),"3,345"
+392,Japan,2005,Tourist/visitor arrivals (thousands),"6,728"
+392,Japan,2010,Tourist/visitor arrivals (thousands),"8,611"
+392,Japan,2015,Tourist/visitor arrivals (thousands),"19,737"
+392,Japan,2016,Tourist/visitor arrivals (thousands),"24,040"
+392,Japan,2017,Tourist/visitor arrivals (thousands),"28,691"
+392,Japan,1995,Tourism expenditure (millions of US dollars),"4,894"
+392,Japan,2005,Tourism expenditure (millions of US dollars),"15,554"
+392,Japan,2010,Tourism expenditure (millions of US dollars),"15,356"
+392,Japan,2015,Tourism expenditure (millions of US dollars),"27,285"
+392,Japan,2016,Tourism expenditure (millions of US dollars),"33,428"
+392,Japan,2017,Tourism expenditure (millions of US dollars),"36,979"
+400,Jordan,1995,Tourist/visitor arrivals (thousands),"1,075"
+400,Jordan,2005,Tourist/visitor arrivals (thousands),"2,987"
+400,Jordan,2010,Tourist/visitor arrivals (thousands),"4,207"
+400,Jordan,2015,Tourist/visitor arrivals (thousands),"3,761"
+400,Jordan,2016,Tourist/visitor arrivals (thousands),"3,567"
+400,Jordan,2017,Tourist/visitor arrivals (thousands),"3,844"
+400,Jordan,1995,Tourism expenditure (millions of US dollars),973
+400,Jordan,2005,Tourism expenditure (millions of US dollars),"1,759"
+400,Jordan,2010,Tourism expenditure (millions of US dollars),"4,390"
+400,Jordan,2015,Tourism expenditure (millions of US dollars),"4,968"
+400,Jordan,2016,Tourism expenditure (millions of US dollars),"4,943"
+400,Jordan,2017,Tourism expenditure (millions of US dollars),"5,549"
+398,Kazakhstan,2005,Tourist/visitor arrivals (thousands),"3,143"
+398,Kazakhstan,2010,Tourist/visitor arrivals (thousands),"2,991"
+398,Kazakhstan,1995,Tourism expenditure (millions of US dollars),155
+398,Kazakhstan,2005,Tourism expenditure (millions of US dollars),801
+398,Kazakhstan,2010,Tourism expenditure (millions of US dollars),"1,236"
+398,Kazakhstan,2015,Tourism expenditure (millions of US dollars),"1,734"
+398,Kazakhstan,2016,Tourism expenditure (millions of US dollars),"1,716"
+398,Kazakhstan,2017,Tourism expenditure (millions of US dollars),"1,990"
+404,Kenya,1995,Tourist/visitor arrivals (thousands),918
+404,Kenya,2005,Tourist/visitor arrivals (thousands),"1,399"
+404,Kenya,2010,Tourist/visitor arrivals (thousands),"1,470"
+404,Kenya,2015,Tourist/visitor arrivals (thousands),"1,114"
+404,Kenya,2016,Tourist/visitor arrivals (thousands),"1,268"
+404,Kenya,2017,Tourist/visitor arrivals (thousands),"1,364"
+404,Kenya,1995,Tourism expenditure (millions of US dollars),785
+404,Kenya,2005,Tourism expenditure (millions of US dollars),969
+404,Kenya,2010,Tourism expenditure (millions of US dollars),"1,620"
+404,Kenya,2015,Tourism expenditure (millions of US dollars),"1,596"
+404,Kenya,2016,Tourism expenditure (millions of US dollars),"1,471"
+404,Kenya,2017,Tourism expenditure (millions of US dollars),"1,564"
+296,Kiribati,1995,Tourist/visitor arrivals (thousands),4
+296,Kiribati,2005,Tourist/visitor arrivals (thousands),4
+296,Kiribati,2010,Tourist/visitor arrivals (thousands),5
+296,Kiribati,2015,Tourist/visitor arrivals (thousands),4
+296,Kiribati,2016,Tourist/visitor arrivals (thousands),6
+296,Kiribati,2017,Tourist/visitor arrivals (thousands),6
+296,Kiribati,1995,Tourism expenditure (millions of US dollars),2
+296,Kiribati,2005,Tourism expenditure (millions of US dollars),3
+296,Kiribati,2010,Tourism expenditure (millions of US dollars),4
+296,Kiribati,2015,Tourism expenditure (millions of US dollars),2
+296,Kiribati,2016,Tourism expenditure (millions of US dollars),3
+414,Kuwait,1995,Tourist/visitor arrivals (thousands),"1,443"
+414,Kuwait,2005,Tourist/visitor arrivals (thousands),"3,474"
+414,Kuwait,2010,Tourist/visitor arrivals (thousands),"5,208"
+414,Kuwait,2015,Tourist/visitor arrivals (thousands),"6,941"
+414,Kuwait,2016,Tourist/visitor arrivals (thousands),"7,055"
+414,Kuwait,1995,Tourism expenditure (millions of US dollars),307
+414,Kuwait,2005,Tourism expenditure (millions of US dollars),413
+414,Kuwait,2010,Tourism expenditure (millions of US dollars),574
+414,Kuwait,2015,Tourism expenditure (millions of US dollars),931
+414,Kuwait,2016,Tourism expenditure (millions of US dollars),831
+414,Kuwait,2017,Tourism expenditure (millions of US dollars),643
+417,Kyrgyzstan,2010,Tourist/visitor arrivals (thousands),"1,224"
+417,Kyrgyzstan,2015,Tourist/visitor arrivals (thousands),"4,000"
+417,Kyrgyzstan,2016,Tourist/visitor arrivals (thousands),"3,853"
+417,Kyrgyzstan,2017,Tourist/visitor arrivals (thousands),"4,568"
+417,Kyrgyzstan,2005,Tourism expenditure (millions of US dollars),94
+417,Kyrgyzstan,2010,Tourism expenditure (millions of US dollars),212
+417,Kyrgyzstan,2015,Tourism expenditure (millions of US dollars),482
+417,Kyrgyzstan,2016,Tourism expenditure (millions of US dollars),477
+417,Kyrgyzstan,2017,Tourism expenditure (millions of US dollars),480
+418,Lao People's Dem. Rep.,1995,Tourist/visitor arrivals (thousands),60
+418,Lao People's Dem. Rep.,2005,Tourist/visitor arrivals (thousands),672
+418,Lao People's Dem. Rep.,2010,Tourist/visitor arrivals (thousands),"1,670"
+418,Lao People's Dem. Rep.,2015,Tourist/visitor arrivals (thousands),"3,543"
+418,Lao People's Dem. Rep.,2016,Tourist/visitor arrivals (thousands),"3,315"
+418,Lao People's Dem. Rep.,2017,Tourist/visitor arrivals (thousands),"3,257"
+418,Lao People's Dem. Rep.,1995,Tourism expenditure (millions of US dollars),52
+418,Lao People's Dem. Rep.,2005,Tourism expenditure (millions of US dollars),143
+418,Lao People's Dem. Rep.,2010,Tourism expenditure (millions of US dollars),385
+418,Lao People's Dem. Rep.,2015,Tourism expenditure (millions of US dollars),725
+418,Lao People's Dem. Rep.,2016,Tourism expenditure (millions of US dollars),717
+418,Lao People's Dem. Rep.,2017,Tourism expenditure (millions of US dollars),768
+428,Latvia,1995,Tourist/visitor arrivals (thousands),539
+428,Latvia,2005,Tourist/visitor arrivals (thousands),"1,116"
+428,Latvia,2010,Tourist/visitor arrivals (thousands),"1,373"
+428,Latvia,2015,Tourist/visitor arrivals (thousands),"2,024"
+428,Latvia,2016,Tourist/visitor arrivals (thousands),"1,793"
+428,Latvia,2017,Tourist/visitor arrivals (thousands),"1,949"
+428,Latvia,1995,Tourism expenditure (millions of US dollars),37
+428,Latvia,2005,Tourism expenditure (millions of US dollars),446
+428,Latvia,2015,Tourism expenditure (millions of US dollars),"1,279"
+428,Latvia,2016,Tourism expenditure (millions of US dollars),"1,282"
+428,Latvia,2017,Tourism expenditure (millions of US dollars),"1,082"
+422,Lebanon,1995,Tourist/visitor arrivals (thousands),450
+422,Lebanon,2005,Tourist/visitor arrivals (thousands),"1,140"
+422,Lebanon,2010,Tourist/visitor arrivals (thousands),"2,168"
+422,Lebanon,2015,Tourist/visitor arrivals (thousands),"1,518"
+422,Lebanon,2016,Tourist/visitor arrivals (thousands),"1,688"
+422,Lebanon,2017,Tourist/visitor arrivals (thousands),"1,857"
+422,Lebanon,1995,Tourism expenditure (millions of US dollars),710
+422,Lebanon,2005,Tourism expenditure (millions of US dollars),"5,969"
+422,Lebanon,2010,Tourism expenditure (millions of US dollars),"8,026"
+422,Lebanon,2015,Tourism expenditure (millions of US dollars),"7,087"
+422,Lebanon,2016,Tourism expenditure (millions of US dollars),"7,373"
+422,Lebanon,2017,Tourism expenditure (millions of US dollars),"8,087"
+426,Lesotho,1995,Tourist/visitor arrivals (thousands),209
+426,Lesotho,2005,Tourist/visitor arrivals (thousands),304
+426,Lesotho,2010,Tourist/visitor arrivals (thousands),426
+426,Lesotho,2015,Tourist/visitor arrivals (thousands),"1,082"
+426,Lesotho,2016,Tourist/visitor arrivals (thousands),"1,196"
+426,Lesotho,2017,Tourist/visitor arrivals (thousands),"1,137"
+426,Lesotho,1995,Tourism expenditure (millions of US dollars),29
+426,Lesotho,2005,Tourism expenditure (millions of US dollars),27
+426,Lesotho,2010,Tourism expenditure (millions of US dollars),23
+426,Lesotho,2015,Tourism expenditure (millions of US dollars),34
+426,Lesotho,2016,Tourism expenditure (millions of US dollars),48
+426,Lesotho,2017,Tourism expenditure (millions of US dollars),23
+430,Liberia,2005,Tourism expenditure (millions of US dollars),67
+434,Libya,2005,Tourist/visitor arrivals (thousands),81
+434,Libya,1995,Tourism expenditure (millions of US dollars),4
+434,Libya,2005,Tourism expenditure (millions of US dollars),301
+434,Libya,2010,Tourism expenditure (millions of US dollars),170
+438,Liechtenstein,2010,Tourist/visitor arrivals (thousands),64
+438,Liechtenstein,2015,Tourist/visitor arrivals (thousands),57
+438,Liechtenstein,2016,Tourist/visitor arrivals (thousands),69
+438,Liechtenstein,2017,Tourist/visitor arrivals (thousands),79
+440,Lithuania,1995,Tourist/visitor arrivals (thousands),650
+440,Lithuania,2005,Tourist/visitor arrivals (thousands),"2,000"
+440,Lithuania,2010,Tourist/visitor arrivals (thousands),"1,507"
+440,Lithuania,2015,Tourist/visitor arrivals (thousands),"2,071"
+440,Lithuania,2016,Tourist/visitor arrivals (thousands),"2,296"
+440,Lithuania,2017,Tourist/visitor arrivals (thousands),"2,523"
+440,Lithuania,1995,Tourism expenditure (millions of US dollars),102
+440,Lithuania,2005,Tourism expenditure (millions of US dollars),920
+440,Lithuania,2010,Tourism expenditure (millions of US dollars),958
+440,Lithuania,2015,Tourism expenditure (millions of US dollars),"1,153"
+440,Lithuania,2016,Tourism expenditure (millions of US dollars),"1,210"
+440,Lithuania,2017,Tourism expenditure (millions of US dollars),"1,306"
+442,Luxembourg,1995,Tourist/visitor arrivals (thousands),768
+442,Luxembourg,2005,Tourist/visitor arrivals (thousands),913
+442,Luxembourg,2010,Tourist/visitor arrivals (thousands),805
+442,Luxembourg,2015,Tourist/visitor arrivals (thousands),"1,090"
+442,Luxembourg,2016,Tourist/visitor arrivals (thousands),"1,054"
+442,Luxembourg,2017,Tourist/visitor arrivals (thousands),"1,046"
+442,Luxembourg,2005,Tourism expenditure (millions of US dollars),"3,770"
+442,Luxembourg,2010,Tourism expenditure (millions of US dollars),"4,519"
+442,Luxembourg,2015,Tourism expenditure (millions of US dollars),"4,760"
+442,Luxembourg,2016,Tourism expenditure (millions of US dollars),"4,764"
+442,Luxembourg,2017,Tourism expenditure (millions of US dollars),"4,980"
+450,Madagascar,1995,Tourist/visitor arrivals (thousands),75
+450,Madagascar,2005,Tourist/visitor arrivals (thousands),277
+450,Madagascar,2010,Tourist/visitor arrivals (thousands),196
+450,Madagascar,2015,Tourist/visitor arrivals (thousands),244
+450,Madagascar,2016,Tourist/visitor arrivals (thousands),293
+450,Madagascar,2017,Tourist/visitor arrivals (thousands),255
+450,Madagascar,1995,Tourism expenditure (millions of US dollars),106
+450,Madagascar,2005,Tourism expenditure (millions of US dollars),275
+450,Madagascar,2010,Tourism expenditure (millions of US dollars),425
+450,Madagascar,2015,Tourism expenditure (millions of US dollars),696
+450,Madagascar,2016,Tourism expenditure (millions of US dollars),913
+450,Madagascar,2017,Tourism expenditure (millions of US dollars),849
+454,Malawi,1995,Tourist/visitor arrivals (thousands),192
+454,Malawi,2005,Tourist/visitor arrivals (thousands),438
+454,Malawi,2010,Tourist/visitor arrivals (thousands),746
+454,Malawi,2015,Tourist/visitor arrivals (thousands),805
+454,Malawi,2016,Tourist/visitor arrivals (thousands),849
+454,Malawi,2017,Tourist/visitor arrivals (thousands),837
+454,Malawi,1995,Tourism expenditure (millions of US dollars),22
+454,Malawi,2005,Tourism expenditure (millions of US dollars),48
+454,Malawi,2010,Tourism expenditure (millions of US dollars),45
+454,Malawi,2015,Tourism expenditure (millions of US dollars),39
+454,Malawi,2016,Tourism expenditure (millions of US dollars),30
+454,Malawi,2017,Tourism expenditure (millions of US dollars),35
+458,Malaysia,1995,Tourist/visitor arrivals (thousands),"7,469"
+458,Malaysia,2005,Tourist/visitor arrivals (thousands),"16,431"
+458,Malaysia,2010,Tourist/visitor arrivals (thousands),"24,577"
+458,Malaysia,2015,Tourist/visitor arrivals (thousands),"25,721"
+458,Malaysia,2016,Tourist/visitor arrivals (thousands),"26,757"
+458,Malaysia,2017,Tourist/visitor arrivals (thousands),"25,948"
+458,Malaysia,1995,Tourism expenditure (millions of US dollars),"5,044"
+458,Malaysia,2005,Tourism expenditure (millions of US dollars),"10,389"
+458,Malaysia,2010,Tourism expenditure (millions of US dollars),"18,152"
+458,Malaysia,2015,Tourism expenditure (millions of US dollars),"17,666"
+458,Malaysia,2016,Tourism expenditure (millions of US dollars),"18,085"
+458,Malaysia,2017,Tourism expenditure (millions of US dollars),"18,352"
+462,Maldives,1995,Tourist/visitor arrivals (thousands),315
+462,Maldives,2005,Tourist/visitor arrivals (thousands),395
+462,Maldives,2010,Tourist/visitor arrivals (thousands),792
+462,Maldives,2015,Tourist/visitor arrivals (thousands),"1,234"
+462,Maldives,2016,Tourist/visitor arrivals (thousands),"1,286"
+462,Maldives,2017,Tourist/visitor arrivals (thousands),"1,390"
+462,Maldives,2015,Tourism expenditure (millions of US dollars),"2,691"
+462,Maldives,2016,Tourism expenditure (millions of US dollars),"2,640"
+462,Maldives,2017,Tourism expenditure (millions of US dollars),"2,886"
+466,Mali,2010,Tourist/visitor arrivals (thousands),169
+466,Mali,2015,Tourist/visitor arrivals (thousands),159
+466,Mali,2016,Tourist/visitor arrivals (thousands),173
+466,Mali,2017,Tourist/visitor arrivals (thousands),193
+466,Mali,1995,Tourism expenditure (millions of US dollars),26
+466,Mali,2005,Tourism expenditure (millions of US dollars),149
+466,Mali,2010,Tourism expenditure (millions of US dollars),208
+470,Malta,1995,Tourist/visitor arrivals (thousands),"1,116"
+470,Malta,2005,Tourist/visitor arrivals (thousands),"1,171"
+470,Malta,2010,Tourist/visitor arrivals (thousands),"1,339"
+470,Malta,2015,Tourist/visitor arrivals (thousands),"1,783"
+470,Malta,2016,Tourist/visitor arrivals (thousands),"1,966"
+470,Malta,2017,Tourist/visitor arrivals (thousands),"2,274"
+470,Malta,1995,Tourism expenditure (millions of US dollars),656
+470,Malta,2005,Tourism expenditure (millions of US dollars),755
+470,Malta,2010,Tourism expenditure (millions of US dollars),"1,066"
+470,Malta,2015,Tourism expenditure (millions of US dollars),"1,381"
+470,Malta,2016,Tourism expenditure (millions of US dollars),"1,451"
+470,Malta,2017,Tourism expenditure (millions of US dollars),"1,746"
+584,Marshall Islands,1995,Tourist/visitor arrivals (thousands),6
+584,Marshall Islands,2005,Tourist/visitor arrivals (thousands),9
+584,Marshall Islands,2010,Tourist/visitor arrivals (thousands),5
+584,Marshall Islands,2015,Tourist/visitor arrivals (thousands),6
+584,Marshall Islands,2016,Tourist/visitor arrivals (thousands),5
+584,Marshall Islands,2017,Tourist/visitor arrivals (thousands),6
+584,Marshall Islands,1995,Tourism expenditure (millions of US dollars),3
+584,Marshall Islands,2005,Tourism expenditure (millions of US dollars),4
+584,Marshall Islands,2010,Tourism expenditure (millions of US dollars),4
+584,Marshall Islands,2015,Tourism expenditure (millions of US dollars),5
+584,Marshall Islands,2016,Tourism expenditure (millions of US dollars),30
+474,Martinique,1995,Tourist/visitor arrivals (thousands),457
+474,Martinique,2005,Tourist/visitor arrivals (thousands),484
+474,Martinique,2010,Tourist/visitor arrivals (thousands),478
+474,Martinique,2015,Tourist/visitor arrivals (thousands),487
+474,Martinique,2016,Tourist/visitor arrivals (thousands),519
+474,Martinique,2017,Tourist/visitor arrivals (thousands),536
+474,Martinique,1995,Tourism expenditure (millions of US dollars),384
+474,Martinique,2005,Tourism expenditure (millions of US dollars),280
+474,Martinique,2010,Tourism expenditure (millions of US dollars),472
+474,Martinique,2015,Tourism expenditure (millions of US dollars),340
+474,Martinique,2016,Tourism expenditure (millions of US dollars),365
+474,Martinique,2017,Tourism expenditure (millions of US dollars),490
+478,Mauritania,2015,Tourism expenditure (millions of US dollars),31
+478,Mauritania,2016,Tourism expenditure (millions of US dollars),33
+478,Mauritania,2017,Tourism expenditure (millions of US dollars),24
+480,Mauritius,1995,Tourist/visitor arrivals (thousands),422
+480,Mauritius,2005,Tourist/visitor arrivals (thousands),761
+480,Mauritius,2010,Tourist/visitor arrivals (thousands),935
+480,Mauritius,2015,Tourist/visitor arrivals (thousands),"1,151"
+480,Mauritius,2016,Tourist/visitor arrivals (thousands),"1,275"
+480,Mauritius,2017,Tourist/visitor arrivals (thousands),"1,342"
+480,Mauritius,1995,Tourism expenditure (millions of US dollars),616
+480,Mauritius,2005,Tourism expenditure (millions of US dollars),"1,189"
+480,Mauritius,2010,Tourism expenditure (millions of US dollars),"1,585"
+480,Mauritius,2015,Tourism expenditure (millions of US dollars),"1,680"
+480,Mauritius,2016,Tourism expenditure (millions of US dollars),"1,824"
+480,Mauritius,2017,Tourism expenditure (millions of US dollars),"2,005"
+484,Mexico,1995,Tourist/visitor arrivals (thousands),"20,241"
+484,Mexico,2005,Tourist/visitor arrivals (thousands),"21,915"
+484,Mexico,2010,Tourist/visitor arrivals (thousands),"23,290"
+484,Mexico,2015,Tourist/visitor arrivals (thousands),"32,093"
+484,Mexico,2016,Tourist/visitor arrivals (thousands),"35,079"
+484,Mexico,2017,Tourist/visitor arrivals (thousands),"39,291"
+484,Mexico,1995,Tourism expenditure (millions of US dollars),"6,847"
+484,Mexico,2005,Tourism expenditure (millions of US dollars),"12,801"
+484,Mexico,2010,Tourism expenditure (millions of US dollars),"12,628"
+484,Mexico,2015,Tourism expenditure (millions of US dollars),"18,729"
+484,Mexico,2016,Tourism expenditure (millions of US dollars),"20,619"
+484,Mexico,2017,Tourism expenditure (millions of US dollars),"22,467"
+583,Micronesia (Fed. States of),2005,Tourist/visitor arrivals (thousands),19
+583,Micronesia (Fed. States of),2010,Tourist/visitor arrivals (thousands),45
+583,Micronesia (Fed. States of),2015,Tourist/visitor arrivals (thousands),31
+583,Micronesia (Fed. States of),2016,Tourist/visitor arrivals (thousands),30
+583,Micronesia (Fed. States of),2005,Tourism expenditure (millions of US dollars),21
+583,Micronesia (Fed. States of),2010,Tourism expenditure (millions of US dollars),24
+583,Micronesia (Fed. States of),2015,Tourism expenditure (millions of US dollars),25
+492,Monaco,1995,Tourist/visitor arrivals (thousands),233
+492,Monaco,2005,Tourist/visitor arrivals (thousands),286
+492,Monaco,2010,Tourist/visitor arrivals (thousands),279
+492,Monaco,2015,Tourist/visitor arrivals (thousands),331
+492,Monaco,2016,Tourist/visitor arrivals (thousands),336
+492,Monaco,2017,Tourist/visitor arrivals (thousands),355
+496,Mongolia,2005,Tourist/visitor arrivals (thousands),339
+496,Mongolia,2010,Tourist/visitor arrivals (thousands),456
+496,Mongolia,2015,Tourist/visitor arrivals (thousands),386
+496,Mongolia,2016,Tourist/visitor arrivals (thousands),404
+496,Mongolia,2017,Tourist/visitor arrivals (thousands),469
+496,Mongolia,1995,Tourism expenditure (millions of US dollars),33
+496,Mongolia,2005,Tourism expenditure (millions of US dollars),203
+496,Mongolia,2010,Tourism expenditure (millions of US dollars),288
+496,Mongolia,2015,Tourism expenditure (millions of US dollars),279
+496,Mongolia,2016,Tourism expenditure (millions of US dollars),379
+496,Mongolia,2017,Tourism expenditure (millions of US dollars),462
+499,Montenegro,2005,Tourist/visitor arrivals (thousands),272
+499,Montenegro,2010,Tourist/visitor arrivals (thousands),"1,088"
+499,Montenegro,2015,Tourist/visitor arrivals (thousands),"1,560"
+499,Montenegro,2016,Tourist/visitor arrivals (thousands),"1,662"
+499,Montenegro,2017,Tourist/visitor arrivals (thousands),"1,877"
+499,Montenegro,2010,Tourism expenditure (millions of US dollars),765
+499,Montenegro,2015,Tourism expenditure (millions of US dollars),947
+499,Montenegro,2016,Tourism expenditure (millions of US dollars),978
+499,Montenegro,2017,Tourism expenditure (millions of US dollars),"1,109"
+500,Montserrat,1995,Tourist/visitor arrivals (thousands),18
+500,Montserrat,2005,Tourist/visitor arrivals (thousands),10
+500,Montserrat,2010,Tourist/visitor arrivals (thousands),6
+500,Montserrat,2015,Tourist/visitor arrivals (thousands),9
+500,Montserrat,2016,Tourist/visitor arrivals (thousands),9
+500,Montserrat,1995,Tourism expenditure (millions of US dollars),17
+500,Montserrat,2005,Tourism expenditure (millions of US dollars),9
+500,Montserrat,2010,Tourism expenditure (millions of US dollars),6
+500,Montserrat,2015,Tourism expenditure (millions of US dollars),9
+500,Montserrat,2016,Tourism expenditure (millions of US dollars),9
+500,Montserrat,2017,Tourism expenditure (millions of US dollars),9
+504,Morocco,1995,Tourist/visitor arrivals (thousands),"2,602"
+504,Morocco,2005,Tourist/visitor arrivals (thousands),"5,843"
+504,Morocco,2010,Tourist/visitor arrivals (thousands),"9,288"
+504,Morocco,2015,Tourist/visitor arrivals (thousands),"10,177"
+504,Morocco,2016,Tourist/visitor arrivals (thousands),"10,332"
+504,Morocco,2017,Tourist/visitor arrivals (thousands),"11,349"
+504,Morocco,1995,Tourism expenditure (millions of US dollars),"1,469"
+504,Morocco,2005,Tourism expenditure (millions of US dollars),"5,426"
+504,Morocco,2010,Tourism expenditure (millions of US dollars),"8,176"
+504,Morocco,2015,Tourism expenditure (millions of US dollars),"7,765"
+504,Morocco,2016,Tourism expenditure (millions of US dollars),"7,921"
+504,Morocco,2017,Tourism expenditure (millions of US dollars),"9,086"
+508,Mozambique,2005,Tourist/visitor arrivals (thousands),578
+508,Mozambique,2010,Tourist/visitor arrivals (thousands),"1,718"
+508,Mozambique,2015,Tourist/visitor arrivals (thousands),"1,552"
+508,Mozambique,2016,Tourist/visitor arrivals (thousands),"1,639"
+508,Mozambique,2017,Tourist/visitor arrivals (thousands),"1,447"
+508,Mozambique,2005,Tourism expenditure (millions of US dollars),138
+508,Mozambique,2010,Tourism expenditure (millions of US dollars),135
+508,Mozambique,2015,Tourism expenditure (millions of US dollars),202
+508,Mozambique,2016,Tourism expenditure (millions of US dollars),114
+508,Mozambique,2017,Tourism expenditure (millions of US dollars),164
+104,Myanmar,1995,Tourist/visitor arrivals (thousands),194
+104,Myanmar,2005,Tourist/visitor arrivals (thousands),660
+104,Myanmar,2010,Tourist/visitor arrivals (thousands),792
+104,Myanmar,2015,Tourist/visitor arrivals (thousands),"4,681"
+104,Myanmar,2016,Tourist/visitor arrivals (thousands),"2,907"
+104,Myanmar,2017,Tourist/visitor arrivals (thousands),"3,443"
+104,Myanmar,1995,Tourism expenditure (millions of US dollars),169
+104,Myanmar,2005,Tourism expenditure (millions of US dollars),83
+104,Myanmar,2010,Tourism expenditure (millions of US dollars),91
+104,Myanmar,2015,Tourism expenditure (millions of US dollars),"2,199"
+104,Myanmar,2016,Tourism expenditure (millions of US dollars),"2,289"
+104,Myanmar,2017,Tourism expenditure (millions of US dollars),"2,279"
+516,Namibia,1995,Tourist/visitor arrivals (thousands),272
+516,Namibia,2005,Tourist/visitor arrivals (thousands),778
+516,Namibia,2010,Tourist/visitor arrivals (thousands),984
+516,Namibia,2015,Tourist/visitor arrivals (thousands),"1,388"
+516,Namibia,2016,Tourist/visitor arrivals (thousands),"1,469"
+516,Namibia,2017,Tourist/visitor arrivals (thousands),"1,499"
+516,Namibia,2005,Tourism expenditure (millions of US dollars),363
+516,Namibia,2010,Tourism expenditure (millions of US dollars),473
+516,Namibia,2015,Tourism expenditure (millions of US dollars),540
+516,Namibia,2016,Tourism expenditure (millions of US dollars),378
+516,Namibia,2017,Tourism expenditure (millions of US dollars),393
+524,Nepal,1995,Tourist/visitor arrivals (thousands),363
+524,Nepal,2005,Tourist/visitor arrivals (thousands),375
+524,Nepal,2010,Tourist/visitor arrivals (thousands),603
+524,Nepal,2015,Tourist/visitor arrivals (thousands),539
+524,Nepal,2016,Tourist/visitor arrivals (thousands),753
+524,Nepal,2017,Tourist/visitor arrivals (thousands),940
+524,Nepal,1995,Tourism expenditure (millions of US dollars),232
+524,Nepal,2005,Tourism expenditure (millions of US dollars),160
+524,Nepal,2010,Tourism expenditure (millions of US dollars),378
+524,Nepal,2015,Tourism expenditure (millions of US dollars),509
+524,Nepal,2016,Tourism expenditure (millions of US dollars),498
+524,Nepal,2017,Tourism expenditure (millions of US dollars),712
+528,Netherlands,1995,Tourist/visitor arrivals (thousands),"6,574"
+528,Netherlands,2005,Tourist/visitor arrivals (thousands),"10,012"
+528,Netherlands,2010,Tourist/visitor arrivals (thousands),"10,883"
+528,Netherlands,2015,Tourist/visitor arrivals (thousands),"15,007"
+528,Netherlands,2016,Tourist/visitor arrivals (thousands),"15,828"
+528,Netherlands,2017,Tourist/visitor arrivals (thousands),"17,924"
+528,Netherlands,1995,Tourism expenditure (millions of US dollars),"10,611"
+528,Netherlands,2015,Tourism expenditure (millions of US dollars),"17,558"
+528,Netherlands,2016,Tourism expenditure (millions of US dollars),"18,306"
+528,Netherlands,2017,Tourism expenditure (millions of US dollars),"20,352"
+540,New Caledonia,1995,Tourist/visitor arrivals (thousands),86
+540,New Caledonia,2005,Tourist/visitor arrivals (thousands),101
+540,New Caledonia,2010,Tourist/visitor arrivals (thousands),99
+540,New Caledonia,2015,Tourist/visitor arrivals (thousands),114
+540,New Caledonia,2016,Tourist/visitor arrivals (thousands),116
+540,New Caledonia,2017,Tourist/visitor arrivals (thousands),121
+540,New Caledonia,1995,Tourism expenditure (millions of US dollars),108
+540,New Caledonia,2005,Tourism expenditure (millions of US dollars),149
+540,New Caledonia,2010,Tourism expenditure (millions of US dollars),226
+540,New Caledonia,2015,Tourism expenditure (millions of US dollars),246
+540,New Caledonia,2016,Tourism expenditure (millions of US dollars),248
+554,New Zealand,2005,Tourist/visitor arrivals (thousands),"2,353"
+554,New Zealand,2010,Tourist/visitor arrivals (thousands),"2,435"
+554,New Zealand,2015,Tourist/visitor arrivals (thousands),"3,039"
+554,New Zealand,2016,Tourist/visitor arrivals (thousands),"3,370"
+554,New Zealand,2017,Tourist/visitor arrivals (thousands),"3,555"
+554,New Zealand,1995,Tourism expenditure (millions of US dollars),"2,318"
+554,New Zealand,2005,Tourism expenditure (millions of US dollars),"6,486"
+554,New Zealand,2010,Tourism expenditure (millions of US dollars),"6,523"
+554,New Zealand,2015,Tourism expenditure (millions of US dollars),"9,452"
+554,New Zealand,2016,Tourism expenditure (millions of US dollars),"9,763"
+554,New Zealand,2017,Tourism expenditure (millions of US dollars),"10,583"
+558,Nicaragua,1995,Tourist/visitor arrivals (thousands),281
+558,Nicaragua,2005,Tourist/visitor arrivals (thousands),712
+558,Nicaragua,2010,Tourist/visitor arrivals (thousands),"1,011"
+558,Nicaragua,2015,Tourist/visitor arrivals (thousands),"1,386"
+558,Nicaragua,2016,Tourist/visitor arrivals (thousands),"1,504"
+558,Nicaragua,2017,Tourist/visitor arrivals (thousands),"1,787"
+558,Nicaragua,1995,Tourism expenditure (millions of US dollars),51
+558,Nicaragua,2005,Tourism expenditure (millions of US dollars),206
+558,Nicaragua,2010,Tourism expenditure (millions of US dollars),314
+558,Nicaragua,2015,Tourism expenditure (millions of US dollars),528
+558,Nicaragua,2016,Tourism expenditure (millions of US dollars),642
+558,Nicaragua,2017,Tourism expenditure (millions of US dollars),841
+562,Niger,1995,Tourist/visitor arrivals (thousands),35
+562,Niger,2005,Tourist/visitor arrivals (thousands),58
+562,Niger,2010,Tourist/visitor arrivals (thousands),74
+562,Niger,2015,Tourist/visitor arrivals (thousands),135
+562,Niger,2016,Tourist/visitor arrivals (thousands),152
+562,Niger,2017,Tourist/visitor arrivals (thousands),164
+562,Niger,2005,Tourism expenditure (millions of US dollars),44
+562,Niger,2010,Tourism expenditure (millions of US dollars),106
+562,Niger,2015,Tourism expenditure (millions of US dollars),80
+562,Niger,2016,Tourism expenditure (millions of US dollars),84
+566,Nigeria,1995,Tourist/visitor arrivals (thousands),656
+566,Nigeria,2005,Tourist/visitor arrivals (thousands),"1,010"
+566,Nigeria,2010,Tourist/visitor arrivals (thousands),"1,555"
+566,Nigeria,2015,Tourist/visitor arrivals (thousands),"1,255"
+566,Nigeria,2016,Tourist/visitor arrivals (thousands),"1,889"
+566,Nigeria,1995,Tourism expenditure (millions of US dollars),47
+566,Nigeria,2005,Tourism expenditure (millions of US dollars),139
+566,Nigeria,2010,Tourism expenditure (millions of US dollars),736
+566,Nigeria,2015,Tourism expenditure (millions of US dollars),472
+566,Nigeria,2016,Tourism expenditure (millions of US dollars),"1,087"
+566,Nigeria,2017,Tourism expenditure (millions of US dollars),"2,611"
+570,Niue,1995,Tourist/visitor arrivals (thousands),2
+570,Niue,2005,Tourist/visitor arrivals (thousands),3
+570,Niue,2010,Tourist/visitor arrivals (thousands),6
+570,Niue,2015,Tourist/visitor arrivals (thousands),8
+570,Niue,2016,Tourist/visitor arrivals (thousands),9
+570,Niue,2017,Tourist/visitor arrivals (thousands),10
+570,Niue,1995,Tourism expenditure (millions of US dollars),2
+570,Niue,2005,Tourism expenditure (millions of US dollars),1
+570,Niue,2010,Tourism expenditure (millions of US dollars),2
+807,North Macedonia,1995,Tourist/visitor arrivals (thousands),147
+807,North Macedonia,2005,Tourist/visitor arrivals (thousands),197
+807,North Macedonia,2010,Tourist/visitor arrivals (thousands),262
+807,North Macedonia,2015,Tourist/visitor arrivals (thousands),486
+807,North Macedonia,2016,Tourist/visitor arrivals (thousands),510
+807,North Macedonia,2017,Tourist/visitor arrivals (thousands),631
+807,North Macedonia,2005,Tourism expenditure (millions of US dollars),116
+807,North Macedonia,2010,Tourism expenditure (millions of US dollars),199
+807,North Macedonia,2015,Tourism expenditure (millions of US dollars),268
+807,North Macedonia,2016,Tourism expenditure (millions of US dollars),283
+807,North Macedonia,2017,Tourism expenditure (millions of US dollars),331
+580,Northern Mariana Islands,1995,Tourist/visitor arrivals (thousands),669
+580,Northern Mariana Islands,2005,Tourist/visitor arrivals (thousands),498
+580,Northern Mariana Islands,2010,Tourist/visitor arrivals (thousands),375
+580,Northern Mariana Islands,2015,Tourist/visitor arrivals (thousands),475
+580,Northern Mariana Islands,2016,Tourist/visitor arrivals (thousands),526
+580,Northern Mariana Islands,2017,Tourist/visitor arrivals (thousands),656
+580,Northern Mariana Islands,1995,Tourism expenditure (millions of US dollars),665
+578,Norway,1995,Tourist/visitor arrivals (thousands),"2,880"
+578,Norway,2005,Tourist/visitor arrivals (thousands),"3,824"
+578,Norway,2010,Tourist/visitor arrivals (thousands),"4,767"
+578,Norway,2015,Tourist/visitor arrivals (thousands),"5,361"
+578,Norway,2016,Tourist/visitor arrivals (thousands),"5,960"
+578,Norway,2017,Tourist/visitor arrivals (thousands),"6,252"
+578,Norway,1995,Tourism expenditure (millions of US dollars),"2,730"
+578,Norway,2005,Tourism expenditure (millions of US dollars),"4,243"
+578,Norway,2010,Tourism expenditure (millions of US dollars),"5,299"
+578,Norway,2015,Tourism expenditure (millions of US dollars),"6,370"
+578,Norway,2016,Tourism expenditure (millions of US dollars),"6,285"
+578,Norway,2017,Tourism expenditure (millions of US dollars),"6,515"
+512,Oman,2005,Tourist/visitor arrivals (thousands),891
+512,Oman,2010,Tourist/visitor arrivals (thousands),"1,441"
+512,Oman,2015,Tourist/visitor arrivals (thousands),"1,909"
+512,Oman,2016,Tourist/visitor arrivals (thousands),"2,335"
+512,Oman,2017,Tourist/visitor arrivals (thousands),"2,372"
+512,Oman,2005,Tourism expenditure (millions of US dollars),627
+512,Oman,2010,Tourism expenditure (millions of US dollars),"1,072"
+512,Oman,2015,Tourism expenditure (millions of US dollars),"2,247"
+512,Oman,2016,Tourism expenditure (millions of US dollars),"2,390"
+512,Oman,2017,Tourism expenditure (millions of US dollars),"2,791"
+158,Other non-specified areas,1995,Tourist/visitor arrivals (thousands),"2,332"
+158,Other non-specified areas,2005,Tourist/visitor arrivals (thousands),"3,378"
+158,Other non-specified areas,2010,Tourist/visitor arrivals (thousands),"5,567"
+158,Other non-specified areas,2015,Tourist/visitor arrivals (thousands),"10,440"
+158,Other non-specified areas,2016,Tourist/visitor arrivals (thousands),"10,690"
+158,Other non-specified areas,2017,Tourist/visitor arrivals (thousands),"10,740"
+158,Other non-specified areas,1995,Tourism expenditure (millions of US dollars),"3,985"
+158,Other non-specified areas,2005,Tourism expenditure (millions of US dollars),"5,740"
+158,Other non-specified areas,2010,Tourism expenditure (millions of US dollars),"10,387"
+158,Other non-specified areas,2015,Tourism expenditure (millions of US dollars),"16,987"
+158,Other non-specified areas,2016,Tourism expenditure (millions of US dollars),"15,825"
+158,Other non-specified areas,2017,Tourism expenditure (millions of US dollars),"14,742"
+586,Pakistan,1995,Tourist/visitor arrivals (thousands),378
+586,Pakistan,2005,Tourist/visitor arrivals (thousands),798
+586,Pakistan,2010,Tourist/visitor arrivals (thousands),907
+586,Pakistan,1995,Tourism expenditure (millions of US dollars),582
+586,Pakistan,2005,Tourism expenditure (millions of US dollars),828
+586,Pakistan,2010,Tourism expenditure (millions of US dollars),998
+586,Pakistan,2015,Tourism expenditure (millions of US dollars),915
+586,Pakistan,2016,Tourism expenditure (millions of US dollars),791
+586,Pakistan,2017,Tourism expenditure (millions of US dollars),875
+585,Palau,1995,Tourist/visitor arrivals (thousands),53
+585,Palau,2005,Tourist/visitor arrivals (thousands),81
+585,Palau,2010,Tourist/visitor arrivals (thousands),85
+585,Palau,2015,Tourist/visitor arrivals (thousands),162
+585,Palau,2016,Tourist/visitor arrivals (thousands),138
+585,Palau,2017,Tourist/visitor arrivals (thousands),123
+585,Palau,2005,Tourism expenditure (millions of US dollars),63
+585,Palau,2010,Tourism expenditure (millions of US dollars),76
+585,Palau,2015,Tourism expenditure (millions of US dollars),156
+585,Palau,2016,Tourism expenditure (millions of US dollars),148
+591,Panama,1995,Tourist/visitor arrivals (thousands),345
+591,Panama,2005,Tourist/visitor arrivals (thousands),702
+591,Panama,2010,Tourist/visitor arrivals (thousands),"1,324"
+591,Panama,2015,Tourist/visitor arrivals (thousands),"2,110"
+591,Panama,2016,Tourist/visitor arrivals (thousands),"1,921"
+591,Panama,2017,Tourist/visitor arrivals (thousands),"1,843"
+591,Panama,1995,Tourism expenditure (millions of US dollars),372
+591,Panama,2005,Tourism expenditure (millions of US dollars),"1,108"
+591,Panama,2010,Tourism expenditure (millions of US dollars),"2,621"
+591,Panama,2015,Tourism expenditure (millions of US dollars),"5,754"
+591,Panama,2016,Tourism expenditure (millions of US dollars),"6,455"
+591,Panama,2017,Tourism expenditure (millions of US dollars),"6,865"
+598,Papua New Guinea,1995,Tourist/visitor arrivals (thousands),42
+598,Papua New Guinea,2005,Tourist/visitor arrivals (thousands),69
+598,Papua New Guinea,2010,Tourist/visitor arrivals (thousands),140
+598,Papua New Guinea,2015,Tourist/visitor arrivals (thousands),185
+598,Papua New Guinea,2016,Tourist/visitor arrivals (thousands),179
+598,Papua New Guinea,2005,Tourism expenditure (millions of US dollars),9
+598,Papua New Guinea,2010,Tourism expenditure (millions of US dollars),2
+598,Papua New Guinea,2016,Tourism expenditure (millions of US dollars),2
+598,Papua New Guinea,2017,Tourism expenditure (millions of US dollars),15
+600,Paraguay,1995,Tourist/visitor arrivals (thousands),438
+600,Paraguay,2005,Tourist/visitor arrivals (thousands),341
+600,Paraguay,2010,Tourist/visitor arrivals (thousands),465
+600,Paraguay,2015,Tourist/visitor arrivals (thousands),"1,215"
+600,Paraguay,2016,Tourist/visitor arrivals (thousands),"1,308"
+600,Paraguay,2017,Tourist/visitor arrivals (thousands),"1,584"
+600,Paraguay,1995,Tourism expenditure (millions of US dollars),162
+600,Paraguay,2005,Tourism expenditure (millions of US dollars),96
+600,Paraguay,2010,Tourism expenditure (millions of US dollars),243
+600,Paraguay,2015,Tourism expenditure (millions of US dollars),348
+600,Paraguay,2016,Tourism expenditure (millions of US dollars),356
+600,Paraguay,2017,Tourism expenditure (millions of US dollars),399
+604,Peru,1995,Tourist/visitor arrivals (thousands),479
+604,Peru,2005,Tourist/visitor arrivals (thousands),"1,571"
+604,Peru,2010,Tourist/visitor arrivals (thousands),"2,299"
+604,Peru,2015,Tourist/visitor arrivals (thousands),"3,456"
+604,Peru,2016,Tourist/visitor arrivals (thousands),"3,744"
+604,Peru,2017,Tourist/visitor arrivals (thousands),"4,032"
+604,Peru,1995,Tourism expenditure (millions of US dollars),521
+604,Peru,2005,Tourism expenditure (millions of US dollars),"1,438"
+604,Peru,2010,Tourism expenditure (millions of US dollars),"2,475"
+604,Peru,2015,Tourism expenditure (millions of US dollars),"4,140"
+604,Peru,2016,Tourism expenditure (millions of US dollars),"4,303"
+604,Peru,2017,Tourism expenditure (millions of US dollars),"4,573"
+608,Philippines,1995,Tourist/visitor arrivals (thousands),"1,760"
+608,Philippines,2005,Tourist/visitor arrivals (thousands),"2,623"
+608,Philippines,2010,Tourist/visitor arrivals (thousands),"3,520"
+608,Philippines,2015,Tourist/visitor arrivals (thousands),"5,361"
+608,Philippines,2016,Tourist/visitor arrivals (thousands),"5,967"
+608,Philippines,2017,Tourist/visitor arrivals (thousands),"6,621"
+608,Philippines,1995,Tourism expenditure (millions of US dollars),"1,141"
+608,Philippines,2005,Tourism expenditure (millions of US dollars),"2,863"
+608,Philippines,2010,Tourism expenditure (millions of US dollars),"3,441"
+608,Philippines,2015,Tourism expenditure (millions of US dollars),"6,415"
+608,Philippines,2016,Tourism expenditure (millions of US dollars),"6,289"
+608,Philippines,2017,Tourism expenditure (millions of US dollars),"8,349"
+616,Poland,1995,Tourist/visitor arrivals (thousands),"19,215"
+616,Poland,2005,Tourist/visitor arrivals (thousands),"15,200"
+616,Poland,2010,Tourist/visitor arrivals (thousands),"12,470"
+616,Poland,2015,Tourist/visitor arrivals (thousands),"16,728"
+616,Poland,2016,Tourist/visitor arrivals (thousands),"17,471"
+616,Poland,2017,Tourist/visitor arrivals (thousands),"18,258"
+616,Poland,1995,Tourism expenditure (millions of US dollars),"6,927"
+616,Poland,2005,Tourism expenditure (millions of US dollars),"7,161"
+616,Poland,2010,Tourism expenditure (millions of US dollars),"10,037"
+616,Poland,2015,Tourism expenditure (millions of US dollars),"11,355"
+616,Poland,2016,Tourism expenditure (millions of US dollars),"12,052"
+616,Poland,2017,Tourism expenditure (millions of US dollars),"14,083"
+620,Portugal,1995,Tourist/visitor arrivals (thousands),"4,572"
+620,Portugal,2005,Tourist/visitor arrivals (thousands),"5,769"
+620,Portugal,2010,Tourist/visitor arrivals (thousands),"6,756"
+620,Portugal,2015,Tourist/visitor arrivals (thousands),"11,723"
+620,Portugal,2016,Tourist/visitor arrivals (thousands),"13,359"
+620,Portugal,2017,Tourist/visitor arrivals (thousands),"15,432"
+620,Portugal,1995,Tourism expenditure (millions of US dollars),"5,646"
+620,Portugal,2005,Tourism expenditure (millions of US dollars),"9,042"
+620,Portugal,2010,Tourism expenditure (millions of US dollars),"12,985"
+620,Portugal,2015,Tourism expenditure (millions of US dollars),"15,823"
+620,Portugal,2016,Tourism expenditure (millions of US dollars),"17,184"
+620,Portugal,2017,Tourism expenditure (millions of US dollars),"21,099"
+630,Puerto Rico,1995,Tourist/visitor arrivals (thousands),"3,131"
+630,Puerto Rico,2005,Tourist/visitor arrivals (thousands),"3,686"
+630,Puerto Rico,2010,Tourist/visitor arrivals (thousands),"3,186"
+630,Puerto Rico,2015,Tourist/visitor arrivals (thousands),"3,542"
+630,Puerto Rico,2016,Tourist/visitor arrivals (thousands),"3,736"
+630,Puerto Rico,2017,Tourist/visitor arrivals (thousands),"3,797"
+630,Puerto Rico,1995,Tourism expenditure (millions of US dollars),"1,828"
+630,Puerto Rico,2005,Tourism expenditure (millions of US dollars),"3,239"
+630,Puerto Rico,2010,Tourism expenditure (millions of US dollars),"3,211"
+630,Puerto Rico,2015,Tourism expenditure (millions of US dollars),"3,825"
+630,Puerto Rico,2016,Tourism expenditure (millions of US dollars),"3,985"
+630,Puerto Rico,2017,Tourism expenditure (millions of US dollars),"4,090"
+634,Qatar,2010,Tourist/visitor arrivals (thousands),"1,700"
+634,Qatar,2015,Tourist/visitor arrivals (thousands),"2,941"
+634,Qatar,2016,Tourist/visitor arrivals (thousands),"2,938"
+634,Qatar,2017,Tourist/visitor arrivals (thousands),"2,257"
+634,Qatar,2015,Tourism expenditure (millions of US dollars),"12,131"
+634,Qatar,2016,Tourism expenditure (millions of US dollars),"12,593"
+634,Qatar,2017,Tourism expenditure (millions of US dollars),"15,757"
+410,Republic of Korea,1995,Tourist/visitor arrivals (thousands),"3,753"
+410,Republic of Korea,2005,Tourist/visitor arrivals (thousands),"6,023"
+410,Republic of Korea,2010,Tourist/visitor arrivals (thousands),"8,798"
+410,Republic of Korea,2015,Tourist/visitor arrivals (thousands),"13,232"
+410,Republic of Korea,2016,Tourist/visitor arrivals (thousands),"17,242"
+410,Republic of Korea,2017,Tourist/visitor arrivals (thousands),"13,336"
+410,Republic of Korea,1995,Tourism expenditure (millions of US dollars),"6,670"
+410,Republic of Korea,2005,Tourism expenditure (millions of US dollars),"8,290"
+410,Republic of Korea,2010,Tourism expenditure (millions of US dollars),"14,367"
+410,Republic of Korea,2015,Tourism expenditure (millions of US dollars),"19,055"
+410,Republic of Korea,2016,Tourism expenditure (millions of US dollars),"21,174"
+410,Republic of Korea,2017,Tourism expenditure (millions of US dollars),"16,999"
+498,Republic of Moldova,2005,Tourist/visitor arrivals (thousands),67
+498,Republic of Moldova,2010,Tourist/visitor arrivals (thousands),64
+498,Republic of Moldova,2015,Tourist/visitor arrivals (thousands),94
+498,Republic of Moldova,2016,Tourist/visitor arrivals (thousands),121
+498,Republic of Moldova,2017,Tourist/visitor arrivals (thousands),145
+498,Republic of Moldova,1995,Tourism expenditure (millions of US dollars),71
+498,Republic of Moldova,2005,Tourism expenditure (millions of US dollars),138
+498,Republic of Moldova,2010,Tourism expenditure (millions of US dollars),222
+498,Republic of Moldova,2015,Tourism expenditure (millions of US dollars),300
+498,Republic of Moldova,2016,Tourism expenditure (millions of US dollars),343
+498,Republic of Moldova,2017,Tourism expenditure (millions of US dollars),439
+638,Réunion,1995,Tourist/visitor arrivals (thousands),304
+638,Réunion,2005,Tourist/visitor arrivals (thousands),409
+638,Réunion,2010,Tourist/visitor arrivals (thousands),420
+638,Réunion,2015,Tourist/visitor arrivals (thousands),426
+638,Réunion,2016,Tourist/visitor arrivals (thousands),458
+638,Réunion,2017,Tourist/visitor arrivals (thousands),508
+638,Réunion,1995,Tourism expenditure (millions of US dollars),216
+638,Réunion,2005,Tourism expenditure (millions of US dollars),384
+638,Réunion,2010,Tourism expenditure (millions of US dollars),392
+638,Réunion,2015,Tourism expenditure (millions of US dollars),339
+638,Réunion,2016,Tourism expenditure (millions of US dollars),360
+638,Réunion,2017,Tourism expenditure (millions of US dollars),401
+642,Romania,1995,Tourist/visitor arrivals (thousands),"5,445"
+642,Romania,2005,Tourist/visitor arrivals (thousands),"5,839"
+642,Romania,2010,Tourist/visitor arrivals (thousands),"7,498"
+642,Romania,2015,Tourist/visitor arrivals (thousands),"9,331"
+642,Romania,2016,Tourist/visitor arrivals (thousands),"10,223"
+642,Romania,2017,Tourist/visitor arrivals (thousands),"10,926"
+642,Romania,1995,Tourism expenditure (millions of US dollars),689
+642,Romania,2005,Tourism expenditure (millions of US dollars),"1,324"
+642,Romania,2010,Tourism expenditure (millions of US dollars),"1,631"
+642,Romania,2015,Tourism expenditure (millions of US dollars),"2,097"
+642,Romania,2016,Tourism expenditure (millions of US dollars),"2,172"
+642,Romania,2017,Tourism expenditure (millions of US dollars),"2,999"
+643,Russian Federation,1995,Tourist/visitor arrivals (thousands),"10,290"
+643,Russian Federation,2005,Tourist/visitor arrivals (thousands),"22,201"
+643,Russian Federation,2010,Tourist/visitor arrivals (thousands),"22,281"
+643,Russian Federation,2015,Tourist/visitor arrivals (thousands),"33,729"
+643,Russian Federation,2016,Tourist/visitor arrivals (thousands),"24,571"
+643,Russian Federation,2017,Tourist/visitor arrivals (thousands),"24,390"
+643,Russian Federation,2005,Tourism expenditure (millions of US dollars),"7,805"
+643,Russian Federation,2010,Tourism expenditure (millions of US dollars),"13,239"
+643,Russian Federation,2015,Tourism expenditure (millions of US dollars),"13,204"
+643,Russian Federation,2016,Tourism expenditure (millions of US dollars),"12,820"
+643,Russian Federation,2017,Tourism expenditure (millions of US dollars),"14,983"
+646,Rwanda,2010,Tourist/visitor arrivals (thousands),504
+646,Rwanda,2015,Tourist/visitor arrivals (thousands),987
+646,Rwanda,2016,Tourist/visitor arrivals (thousands),932
+646,Rwanda,1995,Tourism expenditure (millions of US dollars),4
+646,Rwanda,2005,Tourism expenditure (millions of US dollars),67
+646,Rwanda,2010,Tourism expenditure (millions of US dollars),224
+646,Rwanda,2015,Tourism expenditure (millions of US dollars),457
+646,Rwanda,2016,Tourism expenditure (millions of US dollars),470
+646,Rwanda,2017,Tourism expenditure (millions of US dollars),616
+659,Saint Kitts and Nevis,1995,Tourist/visitor arrivals (thousands),79
+659,Saint Kitts and Nevis,2005,Tourist/visitor arrivals (thousands),141
+659,Saint Kitts and Nevis,2010,Tourist/visitor arrivals (thousands),98
+659,Saint Kitts and Nevis,2015,Tourist/visitor arrivals (thousands),122
+659,Saint Kitts and Nevis,1995,Tourism expenditure (millions of US dollars),63
+659,Saint Kitts and Nevis,2005,Tourism expenditure (millions of US dollars),121
+659,Saint Kitts and Nevis,2010,Tourism expenditure (millions of US dollars),90
+659,Saint Kitts and Nevis,2015,Tourism expenditure (millions of US dollars),312
+659,Saint Kitts and Nevis,2016,Tourism expenditure (millions of US dollars),327
+659,Saint Kitts and Nevis,2017,Tourism expenditure (millions of US dollars),354
+662,Saint Lucia,1995,Tourist/visitor arrivals (thousands),231
+662,Saint Lucia,2005,Tourist/visitor arrivals (thousands),318
+662,Saint Lucia,2010,Tourist/visitor arrivals (thousands),306
+662,Saint Lucia,2015,Tourist/visitor arrivals (thousands),345
+662,Saint Lucia,2016,Tourist/visitor arrivals (thousands),348
+662,Saint Lucia,2017,Tourist/visitor arrivals (thousands),386
+662,Saint Lucia,1995,Tourism expenditure (millions of US dollars),230
+662,Saint Lucia,2005,Tourism expenditure (millions of US dollars),382
+662,Saint Lucia,2010,Tourism expenditure (millions of US dollars),309
+662,Saint Lucia,2015,Tourism expenditure (millions of US dollars),810
+662,Saint Lucia,2016,Tourism expenditure (millions of US dollars),776
+662,Saint Lucia,2017,Tourism expenditure (millions of US dollars),801
+670,Saint Vincent & Grenadines,1995,Tourist/visitor arrivals (thousands),60
+670,Saint Vincent & Grenadines,2005,Tourist/visitor arrivals (thousands),96
+670,Saint Vincent & Grenadines,2010,Tourist/visitor arrivals (thousands),72
+670,Saint Vincent & Grenadines,2015,Tourist/visitor arrivals (thousands),75
+670,Saint Vincent & Grenadines,2016,Tourist/visitor arrivals (thousands),79
+670,Saint Vincent & Grenadines,2017,Tourist/visitor arrivals (thousands),76
+670,Saint Vincent & Grenadines,1995,Tourism expenditure (millions of US dollars),53
+670,Saint Vincent & Grenadines,2005,Tourism expenditure (millions of US dollars),104
+670,Saint Vincent & Grenadines,2010,Tourism expenditure (millions of US dollars),86
+670,Saint Vincent & Grenadines,2015,Tourism expenditure (millions of US dollars),211
+670,Saint Vincent & Grenadines,2016,Tourism expenditure (millions of US dollars),221
+670,Saint Vincent & Grenadines,2017,Tourism expenditure (millions of US dollars),217
+882,Samoa,1995,Tourist/visitor arrivals (thousands),68
+882,Samoa,2005,Tourist/visitor arrivals (thousands),102
+882,Samoa,2010,Tourist/visitor arrivals (thousands),122
+882,Samoa,2015,Tourist/visitor arrivals (thousands),128
+882,Samoa,2016,Tourist/visitor arrivals (thousands),134
+882,Samoa,2017,Tourist/visitor arrivals (thousands),146
+882,Samoa,1995,Tourism expenditure (millions of US dollars),36
+882,Samoa,2005,Tourism expenditure (millions of US dollars),74
+882,Samoa,2010,Tourism expenditure (millions of US dollars),124
+882,Samoa,2015,Tourism expenditure (millions of US dollars),142
+882,Samoa,2016,Tourism expenditure (millions of US dollars),149
+882,Samoa,2017,Tourism expenditure (millions of US dollars),169
+674,San Marino,1995,Tourist/visitor arrivals (thousands),28
+674,San Marino,2005,Tourist/visitor arrivals (thousands),50
+674,San Marino,2010,Tourist/visitor arrivals (thousands),120
+674,San Marino,2015,Tourist/visitor arrivals (thousands),54
+674,San Marino,2016,Tourist/visitor arrivals (thousands),60
+674,San Marino,2017,Tourist/visitor arrivals (thousands),78
+678,Sao Tome and Principe,1995,Tourist/visitor arrivals (thousands),6
+678,Sao Tome and Principe,2005,Tourist/visitor arrivals (thousands),16
+678,Sao Tome and Principe,2010,Tourist/visitor arrivals (thousands),8
+678,Sao Tome and Principe,2015,Tourist/visitor arrivals (thousands),26
+678,Sao Tome and Principe,2016,Tourist/visitor arrivals (thousands),29
+678,Sao Tome and Principe,2015,Tourism expenditure (millions of US dollars),63
+678,Sao Tome and Principe,2016,Tourism expenditure (millions of US dollars),69
+678,Sao Tome and Principe,2017,Tourism expenditure (millions of US dollars),66
+682,Saudi Arabia,1995,Tourist/visitor arrivals (thousands),"3,325"
+682,Saudi Arabia,2005,Tourist/visitor arrivals (thousands),"8,037"
+682,Saudi Arabia,2010,Tourist/visitor arrivals (thousands),"10,850"
+682,Saudi Arabia,2015,Tourist/visitor arrivals (thousands),"17,994"
+682,Saudi Arabia,2016,Tourist/visitor arrivals (thousands),"18,044"
+682,Saudi Arabia,2017,Tourist/visitor arrivals (thousands),"16,109"
+682,Saudi Arabia,2010,Tourism expenditure (millions of US dollars),"7,536"
+682,Saudi Arabia,2015,Tourism expenditure (millions of US dollars),"11,183"
+682,Saudi Arabia,2016,Tourism expenditure (millions of US dollars),"13,438"
+682,Saudi Arabia,2017,Tourism expenditure (millions of US dollars),"14,848"
+686,Senegal,2005,Tourist/visitor arrivals (thousands),769
+686,Senegal,2010,Tourist/visitor arrivals (thousands),900
+686,Senegal,2015,Tourist/visitor arrivals (thousands),"1,007"
+686,Senegal,2016,Tourist/visitor arrivals (thousands),"1,210"
+686,Senegal,2017,Tourist/visitor arrivals (thousands),"1,365"
+686,Senegal,1995,Tourism expenditure (millions of US dollars),168
+686,Senegal,2005,Tourism expenditure (millions of US dollars),334
+686,Senegal,2010,Tourism expenditure (millions of US dollars),464
+688,Serbia,2005,Tourist/visitor arrivals (thousands),453
+688,Serbia,2010,Tourist/visitor arrivals (thousands),683
+688,Serbia,2015,Tourist/visitor arrivals (thousands),"1,132"
+688,Serbia,2016,Tourist/visitor arrivals (thousands),"1,281"
+688,Serbia,2017,Tourist/visitor arrivals (thousands),"1,497"
+688,Serbia,2005,Tourism expenditure (millions of US dollars),308
+688,Serbia,2010,Tourism expenditure (millions of US dollars),950
+688,Serbia,2015,Tourism expenditure (millions of US dollars),"1,322"
+688,Serbia,2016,Tourism expenditure (millions of US dollars),"1,460"
+688,Serbia,2017,Tourism expenditure (millions of US dollars),"1,705"
+690,Seychelles,1995,Tourist/visitor arrivals (thousands),121
+690,Seychelles,2005,Tourist/visitor arrivals (thousands),129
+690,Seychelles,2010,Tourist/visitor arrivals (thousands),175
+690,Seychelles,2015,Tourist/visitor arrivals (thousands),276
+690,Seychelles,2016,Tourist/visitor arrivals (thousands),303
+690,Seychelles,2017,Tourist/visitor arrivals (thousands),350
+690,Seychelles,1995,Tourism expenditure (millions of US dollars),224
+690,Seychelles,2005,Tourism expenditure (millions of US dollars),269
+690,Seychelles,2010,Tourism expenditure (millions of US dollars),352
+690,Seychelles,2015,Tourism expenditure (millions of US dollars),483
+690,Seychelles,2016,Tourism expenditure (millions of US dollars),505
+690,Seychelles,2017,Tourism expenditure (millions of US dollars),585
+694,Sierra Leone,1995,Tourist/visitor arrivals (thousands),14
+694,Sierra Leone,2005,Tourist/visitor arrivals (thousands),40
+694,Sierra Leone,2010,Tourist/visitor arrivals (thousands),39
+694,Sierra Leone,2015,Tourist/visitor arrivals (thousands),24
+694,Sierra Leone,2016,Tourist/visitor arrivals (thousands),55
+694,Sierra Leone,1995,Tourism expenditure (millions of US dollars),57
+694,Sierra Leone,2005,Tourism expenditure (millions of US dollars),64
+694,Sierra Leone,2010,Tourism expenditure (millions of US dollars),26
+694,Sierra Leone,2015,Tourism expenditure (millions of US dollars),37
+694,Sierra Leone,2016,Tourism expenditure (millions of US dollars),41
+702,Singapore,1995,Tourist/visitor arrivals (thousands),"6,070"
+702,Singapore,2005,Tourist/visitor arrivals (thousands),"7,079"
+702,Singapore,2010,Tourist/visitor arrivals (thousands),"9,161"
+702,Singapore,2015,Tourist/visitor arrivals (thousands),"12,051"
+702,Singapore,2016,Tourist/visitor arrivals (thousands),"12,914"
+702,Singapore,2017,Tourist/visitor arrivals (thousands),"13,903"
+702,Singapore,1995,Tourism expenditure (millions of US dollars),"7,611"
+702,Singapore,2005,Tourism expenditure (millions of US dollars),"6,209"
+702,Singapore,2010,Tourism expenditure (millions of US dollars),"14,178"
+702,Singapore,2015,Tourism expenditure (millions of US dollars),"16,617"
+702,Singapore,2016,Tourism expenditure (millions of US dollars),"18,945"
+702,Singapore,2017,Tourism expenditure (millions of US dollars),"19,707"
+534,Sint Maarten (Dutch part),1995,Tourist/visitor arrivals (thousands),460
+534,Sint Maarten (Dutch part),2005,Tourist/visitor arrivals (thousands),468
+534,Sint Maarten (Dutch part),2010,Tourist/visitor arrivals (thousands),443
+534,Sint Maarten (Dutch part),2015,Tourist/visitor arrivals (thousands),505
+534,Sint Maarten (Dutch part),2016,Tourist/visitor arrivals (thousands),528
+534,Sint Maarten (Dutch part),2017,Tourist/visitor arrivals (thousands),402
+534,Sint Maarten (Dutch part),2010,Tourism expenditure (millions of US dollars),681
+534,Sint Maarten (Dutch part),2015,Tourism expenditure (millions of US dollars),913
+534,Sint Maarten (Dutch part),2016,Tourism expenditure (millions of US dollars),871
+534,Sint Maarten (Dutch part),2017,Tourism expenditure (millions of US dollars),646
+703,Slovakia,1995,Tourist/visitor arrivals (thousands),903
+703,Slovakia,2005,Tourist/visitor arrivals (thousands),"1,515"
+703,Slovakia,2010,Tourist/visitor arrivals (thousands),"1,327"
+703,Slovakia,2015,Tourist/visitor arrivals (thousands),"1,721"
+703,Slovakia,2016,Tourist/visitor arrivals (thousands),"2,027"
+703,Slovakia,2017,Tourist/visitor arrivals (thousands),"2,162"
+703,Slovakia,1995,Tourism expenditure (millions of US dollars),630
+703,Slovakia,2005,Tourism expenditure (millions of US dollars),"1,282"
+703,Slovakia,2010,Tourism expenditure (millions of US dollars),"2,335"
+703,Slovakia,2015,Tourism expenditure (millions of US dollars),"2,480"
+703,Slovakia,2016,Tourism expenditure (millions of US dollars),"2,802"
+703,Slovakia,2017,Tourism expenditure (millions of US dollars),"2,995"
+705,Slovenia,1995,Tourist/visitor arrivals (thousands),732
+705,Slovenia,2005,Tourist/visitor arrivals (thousands),"1,555"
+705,Slovenia,2010,Tourist/visitor arrivals (thousands),"1,869"
+705,Slovenia,2015,Tourist/visitor arrivals (thousands),"2,707"
+705,Slovenia,2016,Tourist/visitor arrivals (thousands),"3,032"
+705,Slovenia,2017,Tourist/visitor arrivals (thousands),"3,586"
+705,Slovenia,1995,Tourism expenditure (millions of US dollars),"1,128"
+705,Slovenia,2005,Tourism expenditure (millions of US dollars),"1,894"
+705,Slovenia,2010,Tourism expenditure (millions of US dollars),"2,721"
+705,Slovenia,2015,Tourism expenditure (millions of US dollars),"2,521"
+705,Slovenia,2016,Tourism expenditure (millions of US dollars),"2,627"
+705,Slovenia,2017,Tourism expenditure (millions of US dollars),"2,952"
+90,Solomon Islands,1995,Tourist/visitor arrivals (thousands),12
+90,Solomon Islands,2005,Tourist/visitor arrivals (thousands),9
+90,Solomon Islands,2010,Tourist/visitor arrivals (thousands),21
+90,Solomon Islands,2015,Tourist/visitor arrivals (thousands),22
+90,Solomon Islands,2016,Tourist/visitor arrivals (thousands),23
+90,Solomon Islands,2017,Tourist/visitor arrivals (thousands),26
+90,Solomon Islands,1995,Tourism expenditure (millions of US dollars),17
+90,Solomon Islands,2005,Tourism expenditure (millions of US dollars),6
+90,Solomon Islands,2010,Tourism expenditure (millions of US dollars),51
+90,Solomon Islands,2015,Tourism expenditure (millions of US dollars),60
+90,Solomon Islands,2016,Tourism expenditure (millions of US dollars),71
+90,Solomon Islands,2017,Tourism expenditure (millions of US dollars),79
+710,South Africa,1995,Tourist/visitor arrivals (thousands),"4,488"
+710,South Africa,2005,Tourist/visitor arrivals (thousands),"7,369"
+710,South Africa,2010,Tourist/visitor arrivals (thousands),"8,074"
+710,South Africa,2015,Tourist/visitor arrivals (thousands),"8,904"
+710,South Africa,2016,Tourist/visitor arrivals (thousands),"10,044"
+710,South Africa,2017,Tourist/visitor arrivals (thousands),"10,285"
+710,South Africa,1995,Tourism expenditure (millions of US dollars),"2,654"
+710,South Africa,2005,Tourism expenditure (millions of US dollars),"8,629"
+710,South Africa,2010,Tourism expenditure (millions of US dollars),"10,309"
+710,South Africa,2015,Tourism expenditure (millions of US dollars),"9,140"
+710,South Africa,2016,Tourism expenditure (millions of US dollars),"8,807"
+710,South Africa,2017,Tourism expenditure (millions of US dollars),"9,699"
+728,South Sudan,2015,Tourism expenditure (millions of US dollars),22
+728,South Sudan,2016,Tourism expenditure (millions of US dollars),24
+728,South Sudan,2017,Tourism expenditure (millions of US dollars),26
+724,Spain,1995,Tourist/visitor arrivals (thousands),"32,971"
+724,Spain,2005,Tourist/visitor arrivals (thousands),"55,914"
+724,Spain,2010,Tourist/visitor arrivals (thousands),"52,677"
+724,Spain,2015,Tourist/visitor arrivals (thousands),"68,175"
+724,Spain,2016,Tourist/visitor arrivals (thousands),"75,315"
+724,Spain,2017,Tourist/visitor arrivals (thousands),"81,786"
+724,Spain,1995,Tourism expenditure (millions of US dollars),"27,369"
+724,Spain,2005,Tourism expenditure (millions of US dollars),"49,565"
+724,Spain,2010,Tourism expenditure (millions of US dollars),"54,305"
+724,Spain,2015,Tourism expenditure (millions of US dollars),"56,532"
+724,Spain,2016,Tourism expenditure (millions of US dollars),"60,605"
+724,Spain,2017,Tourism expenditure (millions of US dollars),"68,437"
+144,Sri Lanka,1995,Tourist/visitor arrivals (thousands),403
+144,Sri Lanka,2005,Tourist/visitor arrivals (thousands),549
+144,Sri Lanka,2010,Tourist/visitor arrivals (thousands),654
+144,Sri Lanka,2015,Tourist/visitor arrivals (thousands),"1,798"
+144,Sri Lanka,2016,Tourist/visitor arrivals (thousands),"2,051"
+144,Sri Lanka,2017,Tourist/visitor arrivals (thousands),"2,116"
+144,Sri Lanka,1995,Tourism expenditure (millions of US dollars),367
+144,Sri Lanka,2005,Tourism expenditure (millions of US dollars),729
+144,Sri Lanka,2010,Tourism expenditure (millions of US dollars),"1,044"
+144,Sri Lanka,2015,Tourism expenditure (millions of US dollars),"3,978"
+144,Sri Lanka,2016,Tourism expenditure (millions of US dollars),"4,591"
+144,Sri Lanka,2017,Tourism expenditure (millions of US dollars),"5,083"
+275,State of Palestine,2005,Tourist/visitor arrivals (thousands),88
+275,State of Palestine,2010,Tourist/visitor arrivals (thousands),522
+275,State of Palestine,2015,Tourist/visitor arrivals (thousands),432
+275,State of Palestine,2016,Tourist/visitor arrivals (thousands),400
+275,State of Palestine,2017,Tourist/visitor arrivals (thousands),503
+275,State of Palestine,1995,Tourism expenditure (millions of US dollars),255
+275,State of Palestine,2005,Tourism expenditure (millions of US dollars),52
+275,State of Palestine,2010,Tourism expenditure (millions of US dollars),409
+275,State of Palestine,2015,Tourism expenditure (millions of US dollars),312
+275,State of Palestine,2016,Tourism expenditure (millions of US dollars),235
+275,State of Palestine,2017,Tourism expenditure (millions of US dollars),225
+729,Sudan,1995,Tourist/visitor arrivals (thousands),29
+729,Sudan,2005,Tourist/visitor arrivals (thousands),246
+729,Sudan,2010,Tourist/visitor arrivals (thousands),495
+729,Sudan,2015,Tourist/visitor arrivals (thousands),741
+729,Sudan,2016,Tourist/visitor arrivals (thousands),800
+729,Sudan,2017,Tourist/visitor arrivals (thousands),813
+729,Sudan,1995,Tourism expenditure (millions of US dollars),8
+729,Sudan,2005,Tourism expenditure (millions of US dollars),114
+729,Sudan,2010,Tourism expenditure (millions of US dollars),82
+729,Sudan,2015,Tourism expenditure (millions of US dollars),949
+729,Sudan,2016,Tourism expenditure (millions of US dollars),"1,009"
+729,Sudan,2017,Tourism expenditure (millions of US dollars),"1,029"
+740,Suriname,1995,Tourist/visitor arrivals (thousands),43
+740,Suriname,2005,Tourist/visitor arrivals (thousands),161
+740,Suriname,2010,Tourist/visitor arrivals (thousands),205
+740,Suriname,2015,Tourist/visitor arrivals (thousands),228
+740,Suriname,2016,Tourist/visitor arrivals (thousands),256
+740,Suriname,2017,Tourist/visitor arrivals (thousands),278
+740,Suriname,1995,Tourism expenditure (millions of US dollars),52
+740,Suriname,2005,Tourism expenditure (millions of US dollars),96
+740,Suriname,2010,Tourism expenditure (millions of US dollars),69
+740,Suriname,2015,Tourism expenditure (millions of US dollars),99
+740,Suriname,2016,Tourism expenditure (millions of US dollars),74
+740,Suriname,2017,Tourism expenditure (millions of US dollars),61
+748,Eswatini,1995,Tourist/visitor arrivals (thousands),300
+748,Eswatini,2005,Tourist/visitor arrivals (thousands),837
+748,Eswatini,2010,Tourist/visitor arrivals (thousands),868
+748,Eswatini,2015,Tourist/visitor arrivals (thousands),873
+748,Eswatini,2016,Tourist/visitor arrivals (thousands),947
+748,Eswatini,2017,Tourist/visitor arrivals (thousands),921
+748,Eswatini,1995,Tourism expenditure (millions of US dollars),54
+748,Eswatini,2005,Tourism expenditure (millions of US dollars),77
+748,Eswatini,2010,Tourism expenditure (millions of US dollars),51
+748,Eswatini,2015,Tourism expenditure (millions of US dollars),14
+748,Eswatini,2016,Tourism expenditure (millions of US dollars),13
+748,Eswatini,2017,Tourism expenditure (millions of US dollars),13
+752,Sweden,1995,Tourism expenditure (millions of US dollars),"4,390"
+752,Sweden,2005,Tourism expenditure (millions of US dollars),"7,628"
+752,Sweden,2010,Tourism expenditure (millions of US dollars),"10,674"
+752,Sweden,2015,Tourism expenditure (millions of US dollars),"11,307"
+752,Sweden,2016,Tourism expenditure (millions of US dollars),"12,764"
+752,Sweden,2017,Tourism expenditure (millions of US dollars),"14,205"
+756,Switzerland,1995,Tourist/visitor arrivals (thousands),"6,946"
+756,Switzerland,2005,Tourist/visitor arrivals (thousands),"7,229"
+756,Switzerland,2010,Tourist/visitor arrivals (thousands),"8,628"
+756,Switzerland,2015,Tourist/visitor arrivals (thousands),"9,305"
+756,Switzerland,2016,Tourist/visitor arrivals (thousands),"9,205"
+756,Switzerland,2017,Tourist/visitor arrivals (thousands),"9,889"
+756,Switzerland,1995,Tourism expenditure (millions of US dollars),"11,354"
+756,Switzerland,2005,Tourism expenditure (millions of US dollars),"11,952"
+756,Switzerland,2010,Tourism expenditure (millions of US dollars),"17,614"
+756,Switzerland,2015,Tourism expenditure (millions of US dollars),"19,639"
+756,Switzerland,2016,Tourism expenditure (millions of US dollars),"19,217"
+756,Switzerland,2017,Tourism expenditure (millions of US dollars),"20,134"
+760,Syrian Arab Republic,1995,Tourist/visitor arrivals (thousands),815
+760,Syrian Arab Republic,2005,Tourist/visitor arrivals (thousands),"3,571"
+760,Syrian Arab Republic,2010,Tourist/visitor arrivals (thousands),"8,546"
+760,Syrian Arab Republic,2005,Tourism expenditure (millions of US dollars),"2,035"
+760,Syrian Arab Republic,2010,Tourism expenditure (millions of US dollars),"6,308"
+762,Tajikistan,2010,Tourist/visitor arrivals (thousands),160
+762,Tajikistan,2015,Tourist/visitor arrivals (thousands),414
+762,Tajikistan,2016,Tourist/visitor arrivals (thousands),344
+762,Tajikistan,2017,Tourist/visitor arrivals (thousands),431
+762,Tajikistan,2005,Tourism expenditure (millions of US dollars),9
+762,Tajikistan,2010,Tourism expenditure (millions of US dollars),142
+762,Tajikistan,2015,Tourism expenditure (millions of US dollars),146
+762,Tajikistan,2016,Tourism expenditure (millions of US dollars),150
+762,Tajikistan,2017,Tourism expenditure (millions of US dollars),172
+764,Thailand,1995,Tourist/visitor arrivals (thousands),"6,952"
+764,Thailand,2005,Tourist/visitor arrivals (thousands),"11,567"
+764,Thailand,2010,Tourist/visitor arrivals (thousands),"15,936"
+764,Thailand,2015,Tourist/visitor arrivals (thousands),"29,923"
+764,Thailand,2016,Tourist/visitor arrivals (thousands),"32,530"
+764,Thailand,2017,Tourist/visitor arrivals (thousands),"35,592"
+764,Thailand,1995,Tourism expenditure (millions of US dollars),"9,257"
+764,Thailand,2005,Tourism expenditure (millions of US dollars),"12,103"
+764,Thailand,2010,Tourism expenditure (millions of US dollars),"23,796"
+764,Thailand,2015,Tourism expenditure (millions of US dollars),"48,527"
+764,Thailand,2016,Tourism expenditure (millions of US dollars),"52,465"
+764,Thailand,2017,Tourism expenditure (millions of US dollars),"62,158"
+626,Timor-Leste,2010,Tourist/visitor arrivals (thousands),40
+626,Timor-Leste,2015,Tourist/visitor arrivals (thousands),62
+626,Timor-Leste,2016,Tourist/visitor arrivals (thousands),66
+626,Timor-Leste,2017,Tourist/visitor arrivals (thousands),74
+626,Timor-Leste,2010,Tourism expenditure (millions of US dollars),24
+626,Timor-Leste,2015,Tourism expenditure (millions of US dollars),51
+626,Timor-Leste,2016,Tourism expenditure (millions of US dollars),58
+626,Timor-Leste,2017,Tourism expenditure (millions of US dollars),73
+768,Togo,1995,Tourist/visitor arrivals (thousands),53
+768,Togo,2005,Tourist/visitor arrivals (thousands),81
+768,Togo,2010,Tourist/visitor arrivals (thousands),202
+768,Togo,2015,Tourist/visitor arrivals (thousands),273
+768,Togo,2016,Tourist/visitor arrivals (thousands),338
+768,Togo,2017,Tourist/visitor arrivals (thousands),496
+768,Togo,2005,Tourism expenditure (millions of US dollars),27
+768,Togo,2010,Tourism expenditure (millions of US dollars),105
+768,Togo,2015,Tourism expenditure (millions of US dollars),212
+768,Togo,2016,Tourism expenditure (millions of US dollars),223
+776,Tonga,1995,Tourist/visitor arrivals (thousands),29
+776,Tonga,2005,Tourist/visitor arrivals (thousands),42
+776,Tonga,2010,Tourist/visitor arrivals (thousands),47
+776,Tonga,2015,Tourist/visitor arrivals (thousands),54
+776,Tonga,2016,Tourist/visitor arrivals (thousands),59
+776,Tonga,2017,Tourist/visitor arrivals (thousands),63
+776,Tonga,2005,Tourism expenditure (millions of US dollars),15
+776,Tonga,2010,Tourism expenditure (millions of US dollars),17
+776,Tonga,2015,Tourism expenditure (millions of US dollars),46
+776,Tonga,2016,Tourism expenditure (millions of US dollars),53
+776,Tonga,2017,Tourism expenditure (millions of US dollars),49
+780,Trinidad and Tobago,1995,Tourist/visitor arrivals (thousands),260
+780,Trinidad and Tobago,2005,Tourist/visitor arrivals (thousands),463
+780,Trinidad and Tobago,2010,Tourist/visitor arrivals (thousands),388
+780,Trinidad and Tobago,2015,Tourist/visitor arrivals (thousands),440
+780,Trinidad and Tobago,2016,Tourist/visitor arrivals (thousands),409
+780,Trinidad and Tobago,2017,Tourist/visitor arrivals (thousands),395
+780,Trinidad and Tobago,1995,Tourism expenditure (millions of US dollars),232
+780,Trinidad and Tobago,2005,Tourism expenditure (millions of US dollars),593
+780,Trinidad and Tobago,2010,Tourism expenditure (millions of US dollars),630
+780,Trinidad and Tobago,2015,Tourism expenditure (millions of US dollars),809
+780,Trinidad and Tobago,2016,Tourism expenditure (millions of US dollars),708
+780,Trinidad and Tobago,2017,Tourism expenditure (millions of US dollars),739
+788,Tunisia,1995,Tourist/visitor arrivals (thousands),"4,120"
+788,Tunisia,2005,Tourist/visitor arrivals (thousands),"6,378"
+788,Tunisia,2010,Tourist/visitor arrivals (thousands),"7,828"
+788,Tunisia,2015,Tourist/visitor arrivals (thousands),"5,359"
+788,Tunisia,2016,Tourist/visitor arrivals (thousands),"5,724"
+788,Tunisia,2017,Tourist/visitor arrivals (thousands),"7,052"
+788,Tunisia,1995,Tourism expenditure (millions of US dollars),"1,838"
+788,Tunisia,2005,Tourism expenditure (millions of US dollars),"2,800"
+788,Tunisia,2010,Tourism expenditure (millions of US dollars),"3,477"
+788,Tunisia,2015,Tourism expenditure (millions of US dollars),"1,869"
+788,Tunisia,2016,Tourism expenditure (millions of US dollars),"1,706"
+788,Tunisia,2017,Tourism expenditure (millions of US dollars),"1,782"
+792,Turkey,1995,Tourist/visitor arrivals (thousands),"7,083"
+792,Turkey,2005,Tourist/visitor arrivals (thousands),"20,273"
+792,Turkey,2010,Tourist/visitor arrivals (thousands),"31,364"
+792,Turkey,2015,Tourist/visitor arrivals (thousands),"39,478"
+792,Turkey,2016,Tourist/visitor arrivals (thousands),"30,289"
+792,Turkey,2017,Tourist/visitor arrivals (thousands),"37,601"
+792,Turkey,2005,Tourism expenditure (millions of US dollars),"20,760"
+792,Turkey,2010,Tourism expenditure (millions of US dollars),"26,318"
+792,Turkey,2015,Tourism expenditure (millions of US dollars),"35,597"
+792,Turkey,2016,Tourism expenditure (millions of US dollars),"26,788"
+792,Turkey,2017,Tourism expenditure (millions of US dollars),"31,870"
+795,Turkmenistan,1995,Tourist/visitor arrivals (thousands),218
+795,Turkmenistan,2005,Tourist/visitor arrivals (thousands),12
+796,Turks and Caicos Islands,1995,Tourist/visitor arrivals (thousands),79
+796,Turks and Caicos Islands,2005,Tourist/visitor arrivals (thousands),176
+796,Turks and Caicos Islands,2010,Tourist/visitor arrivals (thousands),281
+796,Turks and Caicos Islands,2015,Tourist/visitor arrivals (thousands),386
+796,Turks and Caicos Islands,2016,Tourist/visitor arrivals (thousands),454
+796,Turks and Caicos Islands,2017,Tourist/visitor arrivals (thousands),416
+796,Turks and Caicos Islands,1995,Tourism expenditure (millions of US dollars),53
+796,Turks and Caicos Islands,2015,Tourism expenditure (millions of US dollars),634
+796,Turks and Caicos Islands,2016,Tourism expenditure (millions of US dollars),721
+798,Tuvalu,1995,Tourist/visitor arrivals (thousands),1
+798,Tuvalu,2005,Tourist/visitor arrivals (thousands),1
+798,Tuvalu,2010,Tourist/visitor arrivals (thousands),2
+798,Tuvalu,2015,Tourist/visitor arrivals (thousands),2
+798,Tuvalu,2016,Tourist/visitor arrivals (thousands),3
+798,Tuvalu,2017,Tourist/visitor arrivals (thousands),3
+798,Tuvalu,2005,Tourism expenditure (millions of US dollars),1
+798,Tuvalu,2010,Tourism expenditure (millions of US dollars),2
+800,Uganda,1995,Tourist/visitor arrivals (thousands),160
+800,Uganda,2005,Tourist/visitor arrivals (thousands),468
+800,Uganda,2010,Tourist/visitor arrivals (thousands),946
+800,Uganda,2015,Tourist/visitor arrivals (thousands),"1,303"
+800,Uganda,2016,Tourist/visitor arrivals (thousands),"1,323"
+800,Uganda,2017,Tourist/visitor arrivals (thousands),"1,402"
+800,Uganda,2005,Tourism expenditure (millions of US dollars),382
+800,Uganda,2010,Tourism expenditure (millions of US dollars),802
+800,Uganda,2015,Tourism expenditure (millions of US dollars),"1,046"
+800,Uganda,2016,Tourism expenditure (millions of US dollars),"1,069"
+800,Uganda,2017,Tourism expenditure (millions of US dollars),940
+804,Ukraine,1995,Tourist/visitor arrivals (thousands),"3,716"
+804,Ukraine,2005,Tourist/visitor arrivals (thousands),"17,631"
+804,Ukraine,2010,Tourist/visitor arrivals (thousands),"21,203"
+804,Ukraine,2015,Tourist/visitor arrivals (thousands),"12,428"
+804,Ukraine,2016,Tourist/visitor arrivals (thousands),"13,333"
+804,Ukraine,2017,Tourist/visitor arrivals (thousands),"14,230"
+804,Ukraine,2005,Tourism expenditure (millions of US dollars),"3,542"
+804,Ukraine,2010,Tourism expenditure (millions of US dollars),"4,696"
+804,Ukraine,2015,Tourism expenditure (millions of US dollars),"1,662"
+804,Ukraine,2016,Tourism expenditure (millions of US dollars),"1,723"
+804,Ukraine,2017,Tourism expenditure (millions of US dollars),"1,999"
+784,United Arab Emirates,1995,Tourist/visitor arrivals (thousands),"2,315"
+784,United Arab Emirates,2005,Tourist/visitor arrivals (thousands),"7,126"
+784,United Arab Emirates,1995,Tourism expenditure (millions of US dollars),632
+784,United Arab Emirates,2005,Tourism expenditure (millions of US dollars),"3,218"
+784,United Arab Emirates,2010,Tourism expenditure (millions of US dollars),"8,577"
+784,United Arab Emirates,2015,Tourism expenditure (millions of US dollars),"17,481"
+784,United Arab Emirates,2016,Tourism expenditure (millions of US dollars),"19,496"
+784,United Arab Emirates,2017,Tourism expenditure (millions of US dollars),"21,048"
+826,United Kingdom,1995,Tourist/visitor arrivals (thousands),"21,719"
+826,United Kingdom,2005,Tourist/visitor arrivals (thousands),"28,039"
+826,United Kingdom,2010,Tourist/visitor arrivals (thousands),"28,295"
+826,United Kingdom,2015,Tourist/visitor arrivals (thousands),"34,436"
+826,United Kingdom,2016,Tourist/visitor arrivals (thousands),"35,814"
+826,United Kingdom,2017,Tourist/visitor arrivals (thousands),"37,651"
+826,United Kingdom,1995,Tourism expenditure (millions of US dollars),"27,577"
+826,United Kingdom,2005,Tourism expenditure (millions of US dollars),"41,736"
+826,United Kingdom,2010,Tourism expenditure (millions of US dollars),"40,526"
+826,United Kingdom,2015,Tourism expenditure (millions of US dollars),"65,454"
+826,United Kingdom,2016,Tourism expenditure (millions of US dollars),"61,894"
+834,United Rep. of Tanzania,1995,Tourist/visitor arrivals (thousands),285
+834,United Rep. of Tanzania,2005,Tourist/visitor arrivals (thousands),590
+834,United Rep. of Tanzania,2010,Tourist/visitor arrivals (thousands),754
+834,United Rep. of Tanzania,2015,Tourist/visitor arrivals (thousands),"1,104"
+834,United Rep. of Tanzania,2016,Tourist/visitor arrivals (thousands),"1,233"
+834,United Rep. of Tanzania,2017,Tourist/visitor arrivals (thousands),"1,275"
+834,United Rep. of Tanzania,2005,Tourism expenditure (millions of US dollars),835
+834,United Rep. of Tanzania,2010,Tourism expenditure (millions of US dollars),"1,279"
+834,United Rep. of Tanzania,2015,Tourism expenditure (millions of US dollars),"1,924"
+834,United Rep. of Tanzania,2016,Tourism expenditure (millions of US dollars),"2,157"
+834,United Rep. of Tanzania,2017,Tourism expenditure (millions of US dollars),"2,284"
+840,United States of America,1995,Tourist/visitor arrivals (thousands),"43,318"
+840,United States of America,2005,Tourist/visitor arrivals (thousands),"49,206"
+840,United States of America,2010,Tourist/visitor arrivals (thousands),"60,010"
+840,United States of America,2015,Tourist/visitor arrivals (thousands),"77,774"
+840,United States of America,2016,Tourist/visitor arrivals (thousands),"76,407"
+840,United States of America,2017,Tourist/visitor arrivals (thousands),"76,941"
+840,United States of America,1995,Tourism expenditure (millions of US dollars),"93,743"
+840,United States of America,2005,Tourism expenditure (millions of US dollars),"122,077"
+840,United States of America,2010,Tourism expenditure (millions of US dollars),"167,996"
+840,United States of America,2015,Tourism expenditure (millions of US dollars),"249,183"
+840,United States of America,2016,Tourism expenditure (millions of US dollars),"246,172"
+840,United States of America,2017,Tourism expenditure (millions of US dollars),"251,361"
+850,United States Virgin Islands,1995,Tourist/visitor arrivals (thousands),454
+850,United States Virgin Islands,2005,Tourist/visitor arrivals (thousands),594
+850,United States Virgin Islands,2010,Tourist/visitor arrivals (thousands),572
+850,United States Virgin Islands,2015,Tourist/visitor arrivals (thousands),642
+850,United States Virgin Islands,2016,Tourist/visitor arrivals (thousands),667
+850,United States Virgin Islands,1995,Tourism expenditure (millions of US dollars),822
+850,United States Virgin Islands,2005,Tourism expenditure (millions of US dollars),"1,432"
+850,United States Virgin Islands,2010,Tourism expenditure (millions of US dollars),"1,223"
+850,United States Virgin Islands,2015,Tourism expenditure (millions of US dollars),"1,324"
+850,United States Virgin Islands,2016,Tourism expenditure (millions of US dollars),"1,343"
+858,Uruguay,1995,Tourist/visitor arrivals (thousands),"2,022"
+858,Uruguay,2005,Tourist/visitor arrivals (thousands),"1,808"
+858,Uruguay,2010,Tourist/visitor arrivals (thousands),"2,353"
+858,Uruguay,2015,Tourist/visitor arrivals (thousands),"2,773"
+858,Uruguay,2016,Tourist/visitor arrivals (thousands),"3,037"
+858,Uruguay,2017,Tourist/visitor arrivals (thousands),"3,674"
+858,Uruguay,1995,Tourism expenditure (millions of US dollars),725
+858,Uruguay,2005,Tourism expenditure (millions of US dollars),699
+858,Uruguay,2010,Tourism expenditure (millions of US dollars),"1,669"
+858,Uruguay,2015,Tourism expenditure (millions of US dollars),"2,070"
+858,Uruguay,2016,Tourism expenditure (millions of US dollars),"2,182"
+858,Uruguay,2017,Tourism expenditure (millions of US dollars),"2,666"
+860,Uzbekistan,1995,Tourist/visitor arrivals (thousands),92
+860,Uzbekistan,2005,Tourist/visitor arrivals (thousands),242
+860,Uzbekistan,2010,Tourist/visitor arrivals (thousands),975
+860,Uzbekistan,2015,Tourist/visitor arrivals (thousands),"1,918"
+860,Uzbekistan,2016,Tourist/visitor arrivals (thousands),"2,027"
+860,Uzbekistan,2017,Tourist/visitor arrivals (thousands),"2,690"
+860,Uzbekistan,2005,Tourism expenditure (millions of US dollars),28
+860,Uzbekistan,2010,Tourism expenditure (millions of US dollars),121
+548,Vanuatu,1995,Tourist/visitor arrivals (thousands),44
+548,Vanuatu,2005,Tourist/visitor arrivals (thousands),62
+548,Vanuatu,2010,Tourist/visitor arrivals (thousands),97
+548,Vanuatu,2015,Tourist/visitor arrivals (thousands),90
+548,Vanuatu,2016,Tourist/visitor arrivals (thousands),95
+548,Vanuatu,2017,Tourist/visitor arrivals (thousands),109
+548,Vanuatu,2005,Tourism expenditure (millions of US dollars),104
+548,Vanuatu,2010,Tourism expenditure (millions of US dollars),242
+548,Vanuatu,2015,Tourism expenditure (millions of US dollars),254
+862,Venezuela (Boliv. Rep. of),1995,Tourist/visitor arrivals (thousands),700
+862,Venezuela (Boliv. Rep. of),2005,Tourist/visitor arrivals (thousands),706
+862,Venezuela (Boliv. Rep. of),2010,Tourist/visitor arrivals (thousands),526
+862,Venezuela (Boliv. Rep. of),2015,Tourist/visitor arrivals (thousands),789
+862,Venezuela (Boliv. Rep. of),2016,Tourist/visitor arrivals (thousands),601
+862,Venezuela (Boliv. Rep. of),2017,Tourist/visitor arrivals (thousands),427
+862,Venezuela (Boliv. Rep. of),1995,Tourism expenditure (millions of US dollars),995
+862,Venezuela (Boliv. Rep. of),2005,Tourism expenditure (millions of US dollars),722
+862,Venezuela (Boliv. Rep. of),2010,Tourism expenditure (millions of US dollars),885
+862,Venezuela (Boliv. Rep. of),2015,Tourism expenditure (millions of US dollars),654
+862,Venezuela (Boliv. Rep. of),2016,Tourism expenditure (millions of US dollars),546
+704,Viet Nam,1995,Tourist/visitor arrivals (thousands),"1,351"
+704,Viet Nam,2005,Tourist/visitor arrivals (thousands),"3,477"
+704,Viet Nam,2010,Tourist/visitor arrivals (thousands),"5,050"
+704,Viet Nam,2015,Tourist/visitor arrivals (thousands),"7,944"
+704,Viet Nam,2016,Tourist/visitor arrivals (thousands),"10,013"
+704,Viet Nam,2017,Tourist/visitor arrivals (thousands),"12,922"
+704,Viet Nam,2005,Tourism expenditure (millions of US dollars),"2,300"
+704,Viet Nam,2010,Tourism expenditure (millions of US dollars),"4,450"
+704,Viet Nam,2015,Tourism expenditure (millions of US dollars),"7,350"
+704,Viet Nam,2016,Tourism expenditure (millions of US dollars),"8,500"
+704,Viet Nam,2017,Tourism expenditure (millions of US dollars),"8,890"
+887,Yemen,1995,Tourist/visitor arrivals (thousands),61
+887,Yemen,2005,Tourist/visitor arrivals (thousands),336
+887,Yemen,2010,Tourist/visitor arrivals (thousands),"1,025"
+887,Yemen,2015,Tourist/visitor arrivals (thousands),367
+887,Yemen,2010,Tourism expenditure (millions of US dollars),"1,291"
+887,Yemen,2015,Tourism expenditure (millions of US dollars),116
+887,Yemen,2016,Tourism expenditure (millions of US dollars),116
+894,Zambia,1995,Tourist/visitor arrivals (thousands),163
+894,Zambia,2005,Tourist/visitor arrivals (thousands),669
+894,Zambia,2010,Tourist/visitor arrivals (thousands),815
+894,Zambia,2015,Tourist/visitor arrivals (thousands),932
+894,Zambia,2016,Tourist/visitor arrivals (thousands),956
+894,Zambia,2017,Tourist/visitor arrivals (thousands),"1,083"
+894,Zambia,2005,Tourism expenditure (millions of US dollars),447
+894,Zambia,2010,Tourism expenditure (millions of US dollars),492
+894,Zambia,2015,Tourism expenditure (millions of US dollars),660
+894,Zambia,2016,Tourism expenditure (millions of US dollars),683
+894,Zambia,2017,Tourism expenditure (millions of US dollars),653
+716,Zimbabwe,1995,Tourist/visitor arrivals (thousands),"1,416"
+716,Zimbabwe,2005,Tourist/visitor arrivals (thousands),"1,559"
+716,Zimbabwe,2010,Tourist/visitor arrivals (thousands),"2,239"
+716,Zimbabwe,2015,Tourist/visitor arrivals (thousands),"2,057"
+716,Zimbabwe,2016,Tourist/visitor arrivals (thousands),"2,168"
+716,Zimbabwe,2017,Tourist/visitor arrivals (thousands),"2,423"
+716,Zimbabwe,1995,Tourism expenditure (millions of US dollars),145
+716,Zimbabwe,2005,Tourism expenditure (millions of US dollars),99
+716,Zimbabwe,2010,Tourism expenditure (millions of US dollars),135
+716,Zimbabwe,2015,Tourism expenditure (millions of US dollars),191
+716,Zimbabwe,2016,Tourism expenditure (millions of US dollars),194
+716,Zimbabwe,2017,Tourism expenditure (millions of US dollars),158

@@ -1,0 +1,2178 @@
+ID,Country,Year,Series,Value
+4,Afghanistan,2005,Consumer price index: General,71.1
+4,Afghanistan,2010,Consumer price index: General,100
+4,Afghanistan,2014,Consumer price index: General,133.1
+4,Afghanistan,2015,Consumer price index: General,132.1
+4,Afghanistan,2016,Consumer price index: General,137.9
+4,Afghanistan,2017,Consumer price index: General,144.8
+4,Afghanistan,2014,Consumer price index: Food,101.7
+4,Afghanistan,2015,Consumer price index: Food,100.8
+4,Afghanistan,2016,Consumer price index: Food,106.5
+4,Afghanistan,2017,Consumer price index: Food,113.9
+8,Albania,1995,Consumer price index: General,40.7
+8,Albania,2005,Consumer price index: General,86.7
+8,Albania,2010,Consumer price index: General,100
+8,Albania,2014,Consumer price index: General,109.3
+8,Albania,2015,Consumer price index: General,111.4
+8,Albania,2016,Consumer price index: General,112.8
+8,Albania,2017,Consumer price index: General,115.1
+8,Albania,2005,Consumer price index: Food,82.8
+8,Albania,2010,Consumer price index: Food,100
+8,Albania,2014,Consumer price index: Food,113.8
+8,Albania,2015,Consumer price index: Food,118.8
+8,Albania,2016,Consumer price index: Food,122.6
+8,Albania,2017,Consumer price index: Food,127.3
+12,Algeria,1995,Consumer price index: General,51.9
+12,Algeria,2005,Consumer price index: General,81.8
+12,Algeria,2010,Consumer price index: General,100
+12,Algeria,2014,Consumer price index: General,120.9
+12,Algeria,2015,Consumer price index: General,126.7
+12,Algeria,2016,Consumer price index: General,134.8
+12,Algeria,2017,Consumer price index: General,142.4
+12,Algeria,2010,Consumer price index: Food,100
+12,Algeria,2014,Consumer price index: Food,125.4
+12,Algeria,2015,Consumer price index: Food,131.3
+12,Algeria,2016,Consumer price index: Food,135.7
+12,Algeria,2017,Consumer price index: Food,142.5
+20,Andorra,2005,Consumer price index: General,89.6
+20,Andorra,2010,Consumer price index: General,100
+20,Andorra,2014,Consumer price index: General,104.4
+20,Andorra,2015,Consumer price index: General,103.3
+20,Andorra,2016,Consumer price index: General,102.8
+20,Andorra,2017,Consumer price index: General,105.5
+20,Andorra,2005,Consumer price index: Food,92
+20,Andorra,2010,Consumer price index: Food,100
+20,Andorra,2014,Consumer price index: Food,106.4
+20,Andorra,2015,Consumer price index: Food,108.2
+20,Andorra,2016,Consumer price index: Food,109.1
+20,Andorra,2017,Consumer price index: Food,112.3
+24,Angola,1995,Consumer price index: General,0
+24,Angola,2005,Consumer price index: General,53.7
+24,Angola,2010,Consumer price index: General,100
+24,Angola,2014,Consumer price index: General,146
+24,Angola,2015,Consumer price index: General,161.1
+24,Angola,2016,Consumer price index: General,213.2
+24,Angola,2017,Consumer price index: General,280.8
+24,Angola,2005,Consumer price index: Food,45.5
+24,Angola,2010,Consumer price index: Food,100
+24,Angola,2014,Consumer price index: Food,153
+24,Angola,2015,Consumer price index: Food,167.3
+24,Angola,2016,Consumer price index: Food,222.6
+24,Angola,2017,Consumer price index: Food,286.6
+660,Anguilla,1995,Consumer price index: General,61
+660,Anguilla,2005,Consumer price index: General,81.9
+660,Anguilla,2010,Consumer price index: General,100
+660,Anguilla,2014,Consumer price index: General,106.1
+660,Anguilla,2015,Consumer price index: General,105.1
+660,Anguilla,2016,Consumer price index: General,104.5
+660,Anguilla,2010,Consumer price index: Food,100
+660,Anguilla,2014,Consumer price index: Food,112.1
+660,Anguilla,2015,Consumer price index: Food,111.4
+660,Anguilla,2016,Consumer price index: Food,111
+660,Anguilla,2017,Consumer price index: Food,112.3
+28,Antigua and Barbuda,2005,Consumer price index: General,89.5
+28,Antigua and Barbuda,2010,Consumer price index: General,100
+28,Antigua and Barbuda,2014,Consumer price index: General,109.3
+28,Antigua and Barbuda,2015,Consumer price index: General,110.3
+28,Antigua and Barbuda,2016,Consumer price index: General,109.8
+28,Antigua and Barbuda,2017,Consumer price index: General,112.5
+32,Argentina,2017,Consumer price index: General,112.9
+32,Argentina,2017,Consumer price index: Food,111.7
+51,Armenia,1995,Consumer price index: General,44.3
+51,Armenia,2005,Consumer price index: General,76.4
+51,Armenia,2010,Consumer price index: General,100
+51,Armenia,2014,Consumer price index: General,120.3
+51,Armenia,2015,Consumer price index: General,124.8
+51,Armenia,2016,Consumer price index: General,123
+51,Armenia,2017,Consumer price index: General,124.2
+51,Armenia,2010,Consumer price index: Food,100
+51,Armenia,2014,Consumer price index: Food,123.3
+51,Armenia,2015,Consumer price index: Food,127.1
+51,Armenia,2016,Consumer price index: Food,122.9
+51,Armenia,2017,Consumer price index: Food,127.9
+533,Aruba,1995,Consumer price index: General,62.5
+533,Aruba,2005,Consumer price index: General,84.1
+533,Aruba,2010,Consumer price index: General,100
+533,Aruba,2014,Consumer price index: General,102.9
+533,Aruba,2015,Consumer price index: General,103.4
+533,Aruba,2016,Consumer price index: General,102.5
+533,Aruba,2017,Consumer price index: General,102
+533,Aruba,2005,Consumer price index: Food,73.6
+533,Aruba,2010,Consumer price index: Food,100
+533,Aruba,2014,Consumer price index: Food,109.6
+533,Aruba,2015,Consumer price index: Food,111.9
+533,Aruba,2016,Consumer price index: Food,111.8
+533,Aruba,2017,Consumer price index: Food,112.5
+36,Australia,1995,Consumer price index: General,67.6
+36,Australia,2005,Consumer price index: General,86.3
+36,Australia,2010,Consumer price index: General,100
+36,Australia,2014,Consumer price index: General,110.4
+36,Australia,2015,Consumer price index: General,112
+36,Australia,2016,Consumer price index: General,113.5
+36,Australia,2017,Consumer price index: General,115.7
+36,Australia,2010,Consumer price index: Food,100
+36,Australia,2014,Consumer price index: Food,106.6
+36,Australia,2015,Consumer price index: Food,107.6
+36,Australia,2016,Consumer price index: Food,108.4
+36,Australia,2017,Consumer price index: Food,109.2
+40,Austria,1995,Consumer price index: General,77.1
+40,Austria,2005,Consumer price index: General,91.4
+40,Austria,2010,Consumer price index: General,100
+40,Austria,2014,Consumer price index: General,109.7
+40,Austria,2015,Consumer price index: General,110.7
+40,Austria,2016,Consumer price index: General,111.7
+40,Austria,2017,Consumer price index: General,114
+40,Austria,1995,Consumer price index: Food,76.4
+40,Austria,2005,Consumer price index: Food,88.1
+40,Austria,2010,Consumer price index: Food,100
+40,Austria,2014,Consumer price index: Food,113.5
+40,Austria,2015,Consumer price index: Food,114.4
+40,Austria,2016,Consumer price index: Food,115.2
+40,Austria,2017,Consumer price index: Food,118
+31,Azerbaijan,1995,Consumer price index: General,42.7
+31,Azerbaijan,2005,Consumer price index: General,61.1
+31,Azerbaijan,2010,Consumer price index: General,100
+31,Azerbaijan,2014,Consumer price index: General,113.2
+31,Azerbaijan,2015,Consumer price index: General,117.7
+31,Azerbaijan,2016,Consumer price index: General,132.4
+31,Azerbaijan,2017,Consumer price index: General,149.5
+31,Azerbaijan,2010,Consumer price index: Food,100
+31,Azerbaijan,2014,Consumer price index: Food,113.7
+31,Azerbaijan,2015,Consumer price index: Food,119.6
+31,Azerbaijan,2016,Consumer price index: Food,136.2
+31,Azerbaijan,2017,Consumer price index: Food,159.8
+44,Bahamas,1995,Consumer price index: General,75.3
+44,Bahamas,2005,Consumer price index: General,88.2
+44,Bahamas,2010,Consumer price index: General,100
+44,Bahamas,2014,Consumer price index: General,107.6
+44,Bahamas,2015,Consumer price index: General,109.6
+44,Bahamas,2016,Consumer price index: General,109.2
+44,Bahamas,2017,Consumer price index: General,110.9
+44,Bahamas,2014,Consumer price index: Food,100.7
+44,Bahamas,2015,Consumer price index: Food,106.5
+48,Bahrain,1995,Consumer price index: General,83.8
+48,Bahrain,2005,Consumer price index: General,87.5
+48,Bahrain,2010,Consumer price index: General,100
+48,Bahrain,2014,Consumer price index: General,108.6
+48,Bahrain,2015,Consumer price index: General,110.6
+48,Bahrain,2016,Consumer price index: General,113.7
+48,Bahrain,2017,Consumer price index: General,115.2
+48,Bahrain,2010,Consumer price index: Food,100
+48,Bahrain,2014,Consumer price index: Food,111.7
+48,Bahrain,2015,Consumer price index: Food,114.5
+48,Bahrain,2016,Consumer price index: Food,115.9
+48,Bahrain,2017,Consumer price index: Food,117.1
+50,Bangladesh,1995,Consumer price index: General,42.5
+50,Bangladesh,2005,Consumer price index: General,69.2
+50,Bangladesh,2010,Consumer price index: General,100
+50,Bangladesh,2014,Consumer price index: General,136.1
+50,Bangladesh,2015,Consumer price index: General,144.5
+50,Bangladesh,2016,Consumer price index: General,152.3
+50,Bangladesh,2017,Consumer price index: General,161.1
+50,Bangladesh,2016,Consumer price index: Food,239.1
+50,Bangladesh,2017,Consumer price index: Food,257.9
+52,Barbados,2010,Consumer price index: General,100
+52,Barbados,2014,Consumer price index: General,169.4
+52,Barbados,2015,Consumer price index: General,167.6
+52,Barbados,2016,Consumer price index: General,169.7
+52,Barbados,2017,Consumer price index: General,177.6
+52,Barbados,2014,Consumer price index: Food,195.4
+52,Barbados,2015,Consumer price index: Food,200.7
+52,Barbados,2016,Consumer price index: Food,217.5
+52,Barbados,2017,Consumer price index: Food,230.9
+112,Belarus,1995,Consumer price index: General,0.4
+112,Belarus,2005,Consumer price index: General,61.7
+112,Belarus,2010,Consumer price index: General,100
+112,Belarus,2014,Consumer price index: General,340.9
+112,Belarus,2015,Consumer price index: General,387
+112,Belarus,2016,Consumer price index: General,433.1
+112,Belarus,2017,Consumer price index: General,459
+112,Belarus,2010,Consumer price index: Food,100
+112,Belarus,2014,Consumer price index: Food,367.1
+112,Belarus,2015,Consumer price index: Food,389.9
+112,Belarus,2016,Consumer price index: Food,424.1
+56,Belgium,1995,Consumer price index: General,75
+56,Belgium,2005,Consumer price index: General,90.4
+56,Belgium,2010,Consumer price index: General,100
+56,Belgium,2014,Consumer price index: General,108
+56,Belgium,2015,Consumer price index: General,108.6
+56,Belgium,2016,Consumer price index: General,110.8
+56,Belgium,2017,Consumer price index: General,112.8
+56,Belgium,1995,Consumer price index: Food,71.9
+56,Belgium,2005,Consumer price index: Food,86.3
+56,Belgium,2010,Consumer price index: Food,100
+56,Belgium,2014,Consumer price index: Food,109.1
+56,Belgium,2015,Consumer price index: Food,110.4
+56,Belgium,2016,Consumer price index: Food,112.9
+56,Belgium,2017,Consumer price index: Food,114.3
+84,Belize,1995,Consumer price index: General,73.5
+84,Belize,2005,Consumer price index: General,88.3
+84,Belize,2010,Consumer price index: General,100
+84,Belize,2014,Consumer price index: General,104.7
+84,Belize,2015,Consumer price index: General,103.8
+84,Belize,2016,Consumer price index: General,104.5
+84,Belize,2017,Consumer price index: General,105.7
+84,Belize,1995,Consumer price index: Food,74
+84,Belize,2005,Consumer price index: Food,82.7
+84,Belize,2010,Consumer price index: Food,100
+84,Belize,2014,Consumer price index: Food,105.2
+84,Belize,2015,Consumer price index: Food,104.8
+84,Belize,2016,Consumer price index: Food,104.8
+84,Belize,2017,Consumer price index: Food,103.6
+204,Benin,1995,Consumer price index: General,61.1
+204,Benin,2005,Consumer price index: General,84.3
+204,Benin,2010,Consumer price index: General,100
+204,Benin,2014,Consumer price index: General,109.5
+204,Benin,2015,Consumer price index: General,109.8
+204,Benin,2016,Consumer price index: General,108.9
+204,Benin,2017,Consumer price index: General,109
+204,Benin,2010,Consumer price index: Food,100
+204,Benin,2014,Consumer price index: Food,112.6
+204,Benin,2015,Consumer price index: Food,113
+204,Benin,2016,Consumer price index: Food,112.5
+204,Benin,2017,Consumer price index: Food,112.5
+60,Bermuda,2014,Consumer price index: General,148
+60,Bermuda,2014,Consumer price index: Food,151.4
+64,Bhutan,1995,Consumer price index: General,56.7
+64,Bhutan,2005,Consumer price index: General,74.8
+64,Bhutan,2010,Consumer price index: General,100
+64,Bhutan,2014,Consumer price index: General,139.9
+64,Bhutan,2015,Consumer price index: General,146.2
+64,Bhutan,2016,Consumer price index: General,152.5
+64,Bhutan,2017,Consumer price index: General,158.4
+64,Bhutan,2014,Consumer price index: Food,117.7
+64,Bhutan,2015,Consumer price index: Food,121.5
+64,Bhutan,2016,Consumer price index: Food,138.7
+64,Bhutan,2017,Consumer price index: Food,135.8
+68,Bolivia (Plurin. State of),1995,Consumer price index: General,46.2
+68,Bolivia (Plurin. State of),2005,Consumer price index: General,73
+68,Bolivia (Plurin. State of),2010,Consumer price index: General,100
+68,Bolivia (Plurin. State of),2014,Consumer price index: General,128.4
+68,Bolivia (Plurin. State of),2015,Consumer price index: General,133.7
+68,Bolivia (Plurin. State of),2016,Consumer price index: General,138.5
+68,Bolivia (Plurin. State of),2017,Consumer price index: General,142.4
+68,Bolivia (Plurin. State of),2010,Consumer price index: Food,100
+68,Bolivia (Plurin. State of),2014,Consumer price index: Food,139.3
+68,Bolivia (Plurin. State of),2015,Consumer price index: Food,145.8
+68,Bolivia (Plurin. State of),2016,Consumer price index: Food,153.8
+68,Bolivia (Plurin. State of),2017,Consumer price index: Food,159
+70,Bosnia and Herzegovina,2005,Consumer price index: General,84.9
+70,Bosnia and Herzegovina,2010,Consumer price index: General,100
+70,Bosnia and Herzegovina,2014,Consumer price index: General,104.8
+70,Bosnia and Herzegovina,2015,Consumer price index: General,103.7
+70,Bosnia and Herzegovina,2016,Consumer price index: General,102.6
+70,Bosnia and Herzegovina,2017,Consumer price index: General,103.8
+70,Bosnia and Herzegovina,2005,Consumer price index: Food,81.4
+70,Bosnia and Herzegovina,2010,Consumer price index: Food,100
+70,Bosnia and Herzegovina,2014,Consumer price index: Food,105
+70,Bosnia and Herzegovina,2015,Consumer price index: Food,104.1
+70,Bosnia and Herzegovina,2016,Consumer price index: Food,102.9
+72,Botswana,1995,Consumer price index: General,29.5
+72,Botswana,2005,Consumer price index: General,64.3
+72,Botswana,2010,Consumer price index: General,100
+72,Botswana,2014,Consumer price index: General,128.9
+72,Botswana,2015,Consumer price index: General,132.9
+72,Botswana,2016,Consumer price index: General,136.6
+72,Botswana,2017,Consumer price index: General,141.1
+72,Botswana,2005,Consumer price index: Food,56.1
+72,Botswana,2010,Consumer price index: Food,100
+72,Botswana,2014,Consumer price index: Food,125.3
+72,Botswana,2015,Consumer price index: Food,126.9
+72,Botswana,2016,Consumer price index: Food,130.3
+72,Botswana,2017,Consumer price index: Food,134.8
+76,Brazil,1995,Consumer price index: General,36.6
+76,Brazil,2005,Consumer price index: General,79.5
+76,Brazil,2010,Consumer price index: General,100
+76,Brazil,2014,Consumer price index: General,126.9
+76,Brazil,2015,Consumer price index: General,138.4
+76,Brazil,2016,Consumer price index: General,150.4
+76,Brazil,2017,Consumer price index: General,155.7
+76,Brazil,2010,Consumer price index: Food,100
+76,Brazil,2014,Consumer price index: Food,140.7
+76,Brazil,2015,Consumer price index: Food,154.4
+76,Brazil,2016,Consumer price index: Food,173.6
+76,Brazil,2017,Consumer price index: Food,175.3
+96,Brunei Darussalam,1995,Consumer price index: General,90.9
+96,Brunei Darussalam,2005,Consumer price index: General,95.5
+96,Brunei Darussalam,2010,Consumer price index: General,100
+96,Brunei Darussalam,2014,Consumer price index: General,100.4
+96,Brunei Darussalam,2015,Consumer price index: General,100
+96,Brunei Darussalam,2016,Consumer price index: General,99.3
+96,Brunei Darussalam,2017,Consumer price index: General,99.1
+96,Brunei Darussalam,2010,Consumer price index: Food,100
+96,Brunei Darussalam,2014,Consumer price index: Food,99.9
+96,Brunei Darussalam,2015,Consumer price index: Food,100.7
+96,Brunei Darussalam,2016,Consumer price index: Food,99.8
+96,Brunei Darussalam,2017,Consumer price index: Food,100
+100,Bulgaria,1995,Consumer price index: General,1.6
+100,Bulgaria,2005,Consumer price index: General,72.7
+100,Bulgaria,2010,Consumer price index: General,100
+100,Bulgaria,2014,Consumer price index: General,106.7
+100,Bulgaria,2015,Consumer price index: General,106.6
+100,Bulgaria,2016,Consumer price index: General,105.8
+100,Bulgaria,2017,Consumer price index: General,107.9
+100,Bulgaria,1995,Consumer price index: Food,2.1
+100,Bulgaria,2005,Consumer price index: Food,72.4
+100,Bulgaria,2010,Consumer price index: Food,100
+100,Bulgaria,2014,Consumer price index: Food,112.1
+100,Bulgaria,2015,Consumer price index: Food,112.5
+100,Bulgaria,2016,Consumer price index: Food,112.2
+100,Bulgaria,2017,Consumer price index: Food,116.7
+854,Burkina Faso,1995,Consumer price index: General,66.6
+854,Burkina Faso,2005,Consumer price index: General,86.9
+854,Burkina Faso,2010,Consumer price index: General,100
+854,Burkina Faso,2014,Consumer price index: General,107
+854,Burkina Faso,2015,Consumer price index: General,108
+854,Burkina Faso,2016,Consumer price index: General,107.7
+854,Burkina Faso,2017,Consumer price index: General,108.1
+854,Burkina Faso,2017,Consumer price index: Food,117.6
+108,Burundi,1995,Consumer price index: General,17.5
+108,Burundi,2005,Consumer price index: General,61.3
+108,Burundi,2010,Consumer price index: General,100
+108,Burundi,2014,Consumer price index: General,145.9
+108,Burundi,2015,Consumer price index: General,154
+108,Burundi,2016,Consumer price index: General,162.6
+108,Burundi,2017,Consumer price index: General,188.7
+108,Burundi,2005,Consumer price index: Food,57.7
+108,Burundi,2010,Consumer price index: Food,100
+108,Burundi,2014,Consumer price index: Food,139
+108,Burundi,2015,Consumer price index: Food,147.1
+108,Burundi,2016,Consumer price index: Food,157.6
+108,Burundi,2017,Consumer price index: Food,195.4
+132,Cabo Verde,1995,Consumer price index: General,64.4
+132,Cabo Verde,2005,Consumer price index: General,82.6
+132,Cabo Verde,2010,Consumer price index: General,100
+132,Cabo Verde,2014,Consumer price index: General,108.5
+132,Cabo Verde,2015,Consumer price index: General,108.6
+132,Cabo Verde,2016,Consumer price index: General,107.1
+132,Cabo Verde,2017,Consumer price index: General,107.9
+132,Cabo Verde,2010,Consumer price index: Food,100
+132,Cabo Verde,2014,Consumer price index: Food,107.4
+132,Cabo Verde,2015,Consumer price index: Food,109
+132,Cabo Verde,2016,Consumer price index: Food,108.3
+132,Cabo Verde,2017,Consumer price index: Food,108.1
+116,Cambodia,1995,Consumer price index: General,43.1
+116,Cambodia,2005,Consumer price index: General,67.8
+116,Cambodia,2010,Consumer price index: General,100
+116,Cambodia,2014,Consumer price index: General,116.1
+116,Cambodia,2015,Consumer price index: General,117.5
+116,Cambodia,2016,Consumer price index: General,121.1
+116,Cambodia,2017,Consumer price index: General,124.6
+116,Cambodia,2016,Consumer price index: Food,200
+116,Cambodia,2017,Consumer price index: Food,206.7
+120,Cameroon,1995,Consumer price index: General,67
+120,Cameroon,2005,Consumer price index: General,85.7
+120,Cameroon,2010,Consumer price index: General,100
+120,Cameroon,2014,Consumer price index: General,109.9
+120,Cameroon,2015,Consumer price index: General,112.9
+120,Cameroon,2016,Consumer price index: General,113.9
+120,Cameroon,2017,Consumer price index: General,114.6
+120,Cameroon,2014,Consumer price index: Food,107.6
+120,Cameroon,2015,Consumer price index: Food,109.8
+120,Cameroon,2016,Consumer price index: Food,110.9
+120,Cameroon,2017,Consumer price index: Food,111
+124,Canada,1995,Consumer price index: General,75.2
+124,Canada,2005,Consumer price index: General,91.9
+124,Canada,2010,Consumer price index: General,100
+124,Canada,2014,Consumer price index: General,107.5
+124,Canada,2015,Consumer price index: General,108.7
+124,Canada,2016,Consumer price index: General,110.2
+124,Canada,2017,Consumer price index: General,112
+124,Canada,1995,Consumer price index: Food,70.6
+124,Canada,2005,Consumer price index: Food,86.5
+124,Canada,2010,Consumer price index: Food,100
+124,Canada,2014,Consumer price index: Food,110.1
+124,Canada,2015,Consumer price index: Food,114.2
+124,Canada,2016,Consumer price index: Food,115.9
+124,Canada,2017,Consumer price index: Food,115.9
+136,Cayman Islands,2010,Consumer price index: General,100
+136,Cayman Islands,2014,Consumer price index: General,106.1
+136,Cayman Islands,2015,Consumer price index: General,103.6
+136,Cayman Islands,2016,Consumer price index: General,102.9
+136,Cayman Islands,2010,Consumer price index: Food,100
+136,Cayman Islands,2014,Consumer price index: Food,114
+136,Cayman Islands,2015,Consumer price index: Food,115.8
+136,Cayman Islands,2016,Consumer price index: Food,115.9
+140,Central African Republic,1995,Consumer price index: General,69
+140,Central African Republic,2005,Consumer price index: General,80.9
+140,Central African Republic,2010,Consumer price index: General,100
+140,Central African Republic,2014,Consumer price index: General,136.3
+140,Central African Republic,2015,Consumer price index: General,186.9
+148,Chad,1995,Consumer price index: General,61.7
+148,Chad,2005,Consumer price index: General,85.6
+148,Chad,2010,Consumer price index: General,100
+148,Chad,2014,Consumer price index: General,111.8
+148,Chad,2015,Consumer price index: General,115.9
+152,Chile,2010,Consumer price index: General,101.4
+152,Chile,2014,Consumer price index: General,104.4
+152,Chile,2015,Consumer price index: General,108.9
+152,Chile,2016,Consumer price index: General,113.1
+152,Chile,2017,Consumer price index: General,115.5
+152,Chile,2010,Consumer price index: Food,102.2
+152,Chile,2014,Consumer price index: Food,107
+152,Chile,2015,Consumer price index: Food,114.6
+152,Chile,2016,Consumer price index: Food,119
+152,Chile,2017,Consumer price index: Food,121.4
+156,China,2010,Consumer price index: General,100
+156,China,2014,Consumer price index: General,113.2
+156,China,2015,Consumer price index: General,114.9
+156,China,2016,Consumer price index: General,102
+156,China,2017,Consumer price index: General,103.6
+156,China,2010,Consumer price index: Food,100
+156,China,2014,Consumer price index: Food,126.5
+156,China,2015,Consumer price index: Food,129.4
+156,China,2016,Consumer price index: Food,104.6
+156,China,2017,Consumer price index: Food,103
+344,"China, Hong Kong SAR",1995,Consumer price index: General,89.6
+344,"China, Hong Kong SAR",2005,Consumer price index: General,89.5
+344,"China, Hong Kong SAR",2010,Consumer price index: General,100
+344,"China, Hong Kong SAR",2014,Consumer price index: General,119.4
+344,"China, Hong Kong SAR",2015,Consumer price index: General,123
+344,"China, Hong Kong SAR",2016,Consumer price index: General,125.9
+344,"China, Hong Kong SAR",2017,Consumer price index: General,127.8
+344,"China, Hong Kong SAR",2010,Consumer price index: Food,100
+344,"China, Hong Kong SAR",2014,Consumer price index: Food,123.1
+344,"China, Hong Kong SAR",2015,Consumer price index: Food,127.9
+344,"China, Hong Kong SAR",2016,Consumer price index: Food,132.2
+344,"China, Hong Kong SAR",2017,Consumer price index: Food,135.1
+446,"China, Macao SAR",1995,Consumer price index: General,77.8
+446,"China, Macao SAR",2005,Consumer price index: General,79.7
+446,"China, Macao SAR",2010,Consumer price index: General,100
+446,"China, Macao SAR",2014,Consumer price index: General,125.6
+446,"China, Macao SAR",2015,Consumer price index: General,131.3
+446,"China, Macao SAR",2016,Consumer price index: General,134.4
+446,"China, Macao SAR",2017,Consumer price index: General,136.1
+446,"China, Macao SAR",2010,Consumer price index: Food,100
+446,"China, Macao SAR",2014,Consumer price index: Food,132.8
+446,"China, Macao SAR",2015,Consumer price index: Food,139.2
+446,"China, Macao SAR",2016,Consumer price index: Food,143.3
+446,"China, Macao SAR",2017,Consumer price index: Food,145.5
+170,Colombia,1995,Consumer price index: General,28.3
+170,Colombia,2005,Consumer price index: General,79.7
+170,Colombia,2010,Consumer price index: General,100
+170,Colombia,2014,Consumer price index: General,112
+170,Colombia,2015,Consumer price index: General,117.6
+170,Colombia,2016,Consumer price index: General,126.4
+170,Colombia,2017,Consumer price index: General,132
+170,Colombia,2010,Consumer price index: Food,100
+170,Colombia,2014,Consumer price index: Food,113.9
+170,Colombia,2015,Consumer price index: Food,122.3
+170,Colombia,2016,Consumer price index: Food,136.5
+170,Colombia,2017,Consumer price index: Food,140.1
+174,Comoros,2005,Consumer price index: General,84.4
+174,Comoros,2010,Consumer price index: General,100
+174,Comoros,2010,Consumer price index: Food,100
+178,Congo,1995,Consumer price index: General,55.5
+178,Congo,2005,Consumer price index: General,78.9
+178,Congo,2010,Consumer price index: General,100
+178,Congo,2014,Consumer price index: General,113.4
+178,Congo,2015,Consumer price index: General,118.5
+184,Cook Islands,2010,Consumer price index: General,100
+184,Cook Islands,2014,Consumer price index: General,109.5
+184,Cook Islands,2015,Consumer price index: General,111.6
+184,Cook Islands,2016,Consumer price index: General,111.3
+184,Cook Islands,2017,Consumer price index: General,111.2
+184,Cook Islands,2010,Consumer price index: Food,100
+184,Cook Islands,2014,Consumer price index: Food,111.9
+184,Cook Islands,2015,Consumer price index: Food,111.7
+184,Cook Islands,2016,Consumer price index: Food,113.2
+184,Cook Islands,2017,Consumer price index: Food,113.5
+188,Costa Rica,1995,Consumer price index: General,20.6
+188,Costa Rica,2005,Consumer price index: General,63.5
+188,Costa Rica,2010,Consumer price index: General,100
+188,Costa Rica,2014,Consumer price index: General,120.5
+188,Costa Rica,2015,Consumer price index: General,121.5
+188,Costa Rica,2016,Consumer price index: General,121.5
+188,Costa Rica,2017,Consumer price index: General,123.5
+188,Costa Rica,2010,Consumer price index: Food,100
+188,Costa Rica,2014,Consumer price index: Food,118.4
+188,Costa Rica,2015,Consumer price index: Food,122.1
+188,Costa Rica,2016,Consumer price index: Food,121.1
+188,Costa Rica,2017,Consumer price index: Food,123.2
+384,Côte d’Ivoire,1995,Consumer price index: General,65.3
+384,Côte d’Ivoire,2005,Consumer price index: General,88.1
+384,Côte d’Ivoire,2010,Consumer price index: General,100
+384,Côte d’Ivoire,2014,Consumer price index: General,109.5
+384,Côte d’Ivoire,2015,Consumer price index: General,110.9
+384,Côte d’Ivoire,2016,Consumer price index: General,111.7
+384,Côte d’Ivoire,2017,Consumer price index: General,112.5
+384,Côte d’Ivoire,2005,Consumer price index: Food,75.5
+384,Côte d’Ivoire,2010,Consumer price index: Food,100
+384,Côte d’Ivoire,2014,Consumer price index: Food,109.7
+384,Côte d’Ivoire,2015,Consumer price index: Food,111.9
+384,Côte d’Ivoire,2016,Consumer price index: Food,115.3
+384,Côte d’Ivoire,2017,Consumer price index: Food,115.7
+191,Croatia,1995,Consumer price index: General,60.3
+191,Croatia,2005,Consumer price index: General,85.8
+191,Croatia,2010,Consumer price index: General,100
+191,Croatia,2014,Consumer price index: General,107.9
+191,Croatia,2015,Consumer price index: General,107.4
+191,Croatia,2016,Consumer price index: General,106.2
+191,Croatia,2017,Consumer price index: General,107.4
+191,Croatia,2010,Consumer price index: Food,116.6
+191,Croatia,2014,Consumer price index: Food,108.9
+191,Croatia,2015,Consumer price index: Food,109.3
+191,Croatia,2016,Consumer price index: Food,108.8
+191,Croatia,2017,Consumer price index: Food,112
+531,Curaçao,1995,Consumer price index: General,66.9
+531,Curaçao,2005,Consumer price index: General,84.3
+531,Curaçao,2010,Consumer price index: General,100
+531,Curaçao,2014,Consumer price index: General,108.6
+531,Curaçao,2015,Consumer price index: General,108.1
+531,Curaçao,2016,Consumer price index: General,108.1
+531,Curaçao,2017,Consumer price index: General,109.8
+531,Curaçao,2010,Consumer price index: Food,100
+531,Curaçao,2014,Consumer price index: Food,120
+531,Curaçao,2015,Consumer price index: Food,124.8
+531,Curaçao,2016,Consumer price index: Food,126.8
+531,Curaçao,2017,Consumer price index: Food,128.9
+196,Cyprus,2005,Consumer price index: General,88.6
+196,Cyprus,2010,Consumer price index: General,100
+196,Cyprus,2014,Consumer price index: General,103.9
+196,Cyprus,2015,Consumer price index: General,101.7
+196,Cyprus,2016,Consumer price index: General,100.3
+196,Cyprus,2017,Consumer price index: General,100.8
+196,Cyprus,2010,Consumer price index: Food,100
+196,Cyprus,2014,Consumer price index: Food,103.6
+196,Cyprus,2015,Consumer price index: Food,103.6
+196,Cyprus,2016,Consumer price index: Food,103.2
+196,Cyprus,2017,Consumer price index: Food,102.8
+203,Czechia,1995,Consumer price index: General,56.1
+203,Czechia,2005,Consumer price index: General,87
+203,Czechia,2010,Consumer price index: General,100
+203,Czechia,2014,Consumer price index: General,107.2
+203,Czechia,2015,Consumer price index: General,107.5
+203,Czechia,2016,Consumer price index: General,108.2
+203,Czechia,2017,Consumer price index: General,110.9
+203,Czechia,1995,Consumer price index: Food,77
+203,Czechia,2005,Consumer price index: Food,89.9
+203,Czechia,2010,Consumer price index: Food,100
+203,Czechia,2014,Consumer price index: Food,119.7
+203,Czechia,2015,Consumer price index: Food,118.4
+203,Czechia,2016,Consumer price index: Food,117.3
+203,Czechia,2017,Consumer price index: Food,123.4
+180,Dem. Rep. of the Congo,1995,Consumer price index: General,0
+180,Dem. Rep. of the Congo,2005,Consumer price index: General,58.6
+180,Dem. Rep. of the Congo,2010,Consumer price index: General,100
+180,Dem. Rep. of the Congo,2014,Consumer price index: General,129.1
+180,Dem. Rep. of the Congo,2015,Consumer price index: General,130.1
+180,Dem. Rep. of the Congo,2016,Consumer price index: General,133.9
+180,Dem. Rep. of the Congo,2014,Consumer price index: Food,121
+180,Dem. Rep. of the Congo,2015,Consumer price index: Food,122
+180,Dem. Rep. of the Congo,2016,Consumer price index: Food,125.7
+208,Denmark,1995,Consumer price index: General,72.8
+208,Denmark,2005,Consumer price index: General,90
+208,Denmark,2010,Consumer price index: General,100
+208,Denmark,2014,Consumer price index: General,106.7
+208,Denmark,2015,Consumer price index: General,107.1
+208,Denmark,2016,Consumer price index: General,107.4
+208,Denmark,2017,Consumer price index: General,108.6
+208,Denmark,2005,Consumer price index: Food,86.4
+208,Denmark,2010,Consumer price index: Food,100
+208,Denmark,2014,Consumer price index: Food,107.9
+208,Denmark,2015,Consumer price index: Food,109.1
+208,Denmark,2016,Consumer price index: Food,109.2
+208,Denmark,2017,Consumer price index: Food,112.2
+262,Djibouti,2005,Consumer price index: General,77.8
+262,Djibouti,2010,Consumer price index: General,100
+262,Djibouti,2014,Consumer price index: General,113.4
+262,Djibouti,2015,Consumer price index: General,112.5
+262,Djibouti,2016,Consumer price index: General,115.6
+262,Djibouti,2017,Consumer price index: General,116.2
+212,Dominica,1995,Consumer price index: General,74.7
+212,Dominica,2005,Consumer price index: General,86
+212,Dominica,2010,Consumer price index: General,100
+212,Dominica,2014,Consumer price index: General,103.3
+212,Dominica,2015,Consumer price index: General,102.5
+212,Dominica,2016,Consumer price index: General,102.7
+212,Dominica,2017,Consumer price index: General,103.1
+212,Dominica,2014,Consumer price index: Food,110.1
+212,Dominica,2015,Consumer price index: Food,110.9
+212,Dominica,2016,Consumer price index: Food,110.9
+212,Dominica,2017,Consumer price index: Food,111.1
+214,Dominican Republic,1995,Consumer price index: General,23.2
+214,Dominican Republic,2005,Consumer price index: General,73.4
+214,Dominican Republic,2010,Consumer price index: General,100
+214,Dominican Republic,2014,Consumer price index: General,121.4
+214,Dominican Republic,2015,Consumer price index: General,122.5
+214,Dominican Republic,2016,Consumer price index: General,124.4
+214,Dominican Republic,2017,Consumer price index: General,128.5
+214,Dominican Republic,2005,Consumer price index: Food,74.6
+214,Dominican Republic,2010,Consumer price index: Food,100
+214,Dominican Republic,2014,Consumer price index: Food,124.6
+214,Dominican Republic,2015,Consumer price index: Food,133
+214,Dominican Republic,2016,Consumer price index: Food,135.9
+214,Dominican Republic,2017,Consumer price index: Food,139
+218,Ecuador,1995,Consumer price index: General,6.9
+218,Ecuador,2005,Consumer price index: General,80.4
+218,Ecuador,2010,Consumer price index: General,100
+218,Ecuador,2014,Consumer price index: General,116.8
+218,Ecuador,2015,Consumer price index: General,121.5
+218,Ecuador,2016,Consumer price index: General,123.6
+218,Ecuador,2017,Consumer price index: General,124.1
+218,Ecuador,2005,Consumer price index: Food,70.7
+218,Ecuador,2010,Consumer price index: Food,100
+218,Ecuador,2014,Consumer price index: Food,120.1
+218,Ecuador,2015,Consumer price index: Food,125.2
+218,Ecuador,2016,Consumer price index: Food,128.4
+218,Ecuador,2017,Consumer price index: Food,129
+818,Egypt,1995,Consumer price index: General,36.6
+818,Egypt,2005,Consumer price index: General,57.8
+818,Egypt,2010,Consumer price index: General,100
+818,Egypt,2014,Consumer price index: General,142.1
+818,Egypt,2015,Consumer price index: General,156.8
+818,Egypt,2016,Consumer price index: General,178.5
+818,Egypt,2017,Consumer price index: General,231.1
+818,Egypt,2015,Consumer price index: Food,194.1
+818,Egypt,2016,Consumer price index: Food,226.4
+818,Egypt,2017,Consumer price index: Food,313.9
+222,El Salvador,1995,Consumer price index: General,59.2
+222,El Salvador,2005,Consumer price index: General,84.5
+222,El Salvador,2010,Consumer price index: General,100
+222,El Salvador,2014,Consumer price index: General,109
+222,El Salvador,2015,Consumer price index: General,108.2
+222,El Salvador,2016,Consumer price index: General,108.8
+222,El Salvador,2017,Consumer price index: General,109.9
+222,El Salvador,2016,Consumer price index: Food,119.3
+222,El Salvador,2017,Consumer price index: Food,119.4
+226,Equatorial Guinea,1995,Consumer price index: General,45.8
+226,Equatorial Guinea,2005,Consumer price index: General,77.5
+226,Equatorial Guinea,2010,Consumer price index: General,100
+226,Equatorial Guinea,2014,Consumer price index: General,116.7
+226,Equatorial Guinea,2015,Consumer price index: General,118.6
+226,Equatorial Guinea,2016,Consumer price index: General,120.3
+226,Equatorial Guinea,2017,Consumer price index: General,121.2
+226,Equatorial Guinea,2010,Consumer price index: Food,100
+226,Equatorial Guinea,2014,Consumer price index: Food,121.6
+226,Equatorial Guinea,2015,Consumer price index: Food,123.4
+226,Equatorial Guinea,2016,Consumer price index: Food,118.4
+226,Equatorial Guinea,2017,Consumer price index: Food,120.3
+233,Estonia,1995,Consumer price index: General,42
+233,Estonia,2005,Consumer price index: General,79.1
+233,Estonia,2010,Consumer price index: General,100
+233,Estonia,2014,Consumer price index: General,112
+233,Estonia,2015,Consumer price index: General,111.5
+233,Estonia,2016,Consumer price index: General,111.6
+233,Estonia,2017,Consumer price index: General,115.5
+233,Estonia,2005,Consumer price index: Food,77.1
+233,Estonia,2010,Consumer price index: Food,100
+233,Estonia,2014,Consumer price index: Food,118.6
+233,Estonia,2015,Consumer price index: Food,118
+233,Estonia,2016,Consumer price index: Food,117.7
+233,Estonia,2017,Consumer price index: Food,124.8
+748,Eswatini,1995,Consumer price index: General,34.3
+748,Eswatini,2005,Consumer price index: General,69.5
+748,Eswatini,2010,Consumer price index: General,100
+748,Eswatini,2014,Consumer price index: General,129
+748,Eswatini,2015,Consumer price index: General,135.4
+748,Eswatini,2016,Consumer price index: General,146
+748,Eswatini,2017,Consumer price index: General,155.1
+748,Eswatini,2014,Consumer price index: Food,109
+748,Eswatini,2015,Consumer price index: Food,113.6
+748,Eswatini,2016,Consumer price index: Food,130.7
+748,Eswatini,2017,Consumer price index: Food,140
+231,Ethiopia,1995,Consumer price index: General,36.6
+231,Ethiopia,2005,Consumer price index: General,44.8
+231,Ethiopia,2010,Consumer price index: General,100
+231,Ethiopia,2014,Consumer price index: General,192
+231,Ethiopia,2015,Consumer price index: General,211.4
+231,Ethiopia,2016,Consumer price index: General,226.8
+231,Ethiopia,2017,Consumer price index: General,249.3
+231,Ethiopia,2005,Consumer price index: Food,43
+231,Ethiopia,2010,Consumer price index: Food,100
+231,Ethiopia,2014,Consumer price index: Food,198.8
+231,Ethiopia,2015,Consumer price index: Food,222.9
+231,Ethiopia,2016,Consumer price index: Food,237.5
+231,Ethiopia,2017,Consumer price index: Food,267.1
+242,Fiji,1995,Consumer price index: General,60.4
+242,Fiji,2005,Consumer price index: General,80.8
+242,Fiji,2010,Consumer price index: General,100
+242,Fiji,2014,Consumer price index: General,114.8
+242,Fiji,2015,Consumer price index: General,116.4
+242,Fiji,2016,Consumer price index: General,120.9
+242,Fiji,2017,Consumer price index: General,124.9
+242,Fiji,2010,Consumer price index: Food,100
+242,Fiji,2014,Consumer price index: Food,121.7
+242,Fiji,2015,Consumer price index: Food,127.5
+242,Fiji,2016,Consumer price index: Food,135.2
+242,Fiji,2017,Consumer price index: Food,132.3
+246,Finland,1995,Consumer price index: General,80
+246,Finland,2005,Consumer price index: General,91.2
+246,Finland,2010,Consumer price index: General,100
+246,Finland,2014,Consumer price index: General,109
+246,Finland,2015,Consumer price index: General,108.8
+246,Finland,2016,Consumer price index: General,109.2
+246,Finland,2017,Consumer price index: General,110
+246,Finland,1995,Consumer price index: Food,80.9
+246,Finland,2005,Consumer price index: Food,90.3
+246,Finland,2010,Consumer price index: Food,100
+246,Finland,2014,Consumer price index: Food,117.9
+246,Finland,2015,Consumer price index: Food,115.7
+246,Finland,2016,Consumer price index: Food,114.4
+246,Finland,2017,Consumer price index: Food,113.3
+250,France,1995,Consumer price index: General,79.5
+250,France,2005,Consumer price index: General,92.8
+250,France,2010,Consumer price index: General,100
+250,France,2014,Consumer price index: General,105.5
+250,France,2015,Consumer price index: General,105.6
+250,France,2016,Consumer price index: General,105.8
+250,France,2017,Consumer price index: General,106.8
+250,France,1995,Consumer price index: Food,76.3
+250,France,2005,Consumer price index: Food,91.5
+250,France,2010,Consumer price index: Food,100
+250,France,2014,Consumer price index: Food,105.3
+250,France,2015,Consumer price index: Food,105.7
+250,France,2016,Consumer price index: Food,106.3
+250,France,2017,Consumer price index: Food,107.3
+254,French Guiana,2014,Consumer price index: General,125.7
+254,French Guiana,2014,Consumer price index: Food,135.6
+258,French Polynesia,2014,Consumer price index: General,121.7
+258,French Polynesia,2014,Consumer price index: Food,115.5
+266,Gabon,1995,Consumer price index: General,77.9
+266,Gabon,2005,Consumer price index: General,88.7
+266,Gabon,2010,Consumer price index: General,100
+266,Gabon,2014,Consumer price index: General,109.4
+266,Gabon,2015,Consumer price index: General,109
+266,Gabon,2016,Consumer price index: General,111.3
+266,Gabon,2010,Consumer price index: Food,100
+266,Gabon,2014,Consumer price index: Food,112.8
+266,Gabon,2015,Consumer price index: Food,115.9
+266,Gabon,2016,Consumer price index: Food,115.8
+270,Gambia,1995,Consumer price index: General,46.3
+270,Gambia,2005,Consumer price index: General,81.1
+270,Gambia,2010,Consumer price index: General,100
+270,Gambia,2014,Consumer price index: General,122.4
+270,Gambia,2015,Consumer price index: General,130.7
+270,Gambia,2016,Consumer price index: General,140.1
+270,Gambia,2015,Consumer price index: Food,186
+270,Gambia,2016,Consumer price index: Food,201.3
+268,Georgia,1995,Consumer price index: General,28.6
+268,Georgia,2005,Consumer price index: General,70
+268,Georgia,2010,Consumer price index: General,100
+268,Georgia,2014,Consumer price index: General,110.3
+268,Georgia,2015,Consumer price index: General,114.7
+268,Georgia,2016,Consumer price index: General,117.1
+268,Georgia,2017,Consumer price index: General,124.2
+268,Georgia,2010,Consumer price index: Food,100
+268,Georgia,2014,Consumer price index: Food,115.7
+268,Georgia,2015,Consumer price index: Food,120.5
+268,Georgia,2016,Consumer price index: Food,122.5
+268,Georgia,2017,Consumer price index: Food,130.8
+276,Germany,1995,Consumer price index: General,80.5
+276,Germany,2005,Consumer price index: General,92.5
+276,Germany,2010,Consumer price index: General,100
+276,Germany,2014,Consumer price index: General,106.6
+276,Germany,2015,Consumer price index: General,106.9
+276,Germany,2016,Consumer price index: General,107.4
+276,Germany,2017,Consumer price index: General,109.3
+276,Germany,1995,Consumer price index: Food,84.1
+276,Germany,2005,Consumer price index: Food,89.1
+276,Germany,2010,Consumer price index: Food,100
+276,Germany,2014,Consumer price index: Food,111.5
+276,Germany,2015,Consumer price index: Food,112.3
+276,Germany,2016,Consumer price index: Food,113.2
+276,Germany,2017,Consumer price index: Food,116.4
+288,Ghana,1995,Consumer price index: General,7
+288,Ghana,2005,Consumer price index: General,52.9
+288,Ghana,2010,Consumer price index: General,100
+288,Ghana,2014,Consumer price index: General,150.2
+288,Ghana,2015,Consumer price index: General,176
+288,Ghana,2016,Consumer price index: General,206.7
+288,Ghana,2017,Consumer price index: General,232.3
+288,Ghana,2014,Consumer price index: Food,114.6
+288,Ghana,2015,Consumer price index: Food,123.2
+288,Ghana,2016,Consumer price index: Food,133.8
+288,Ghana,2017,Consumer price index: Food,143.6
+292,Gibraltar,2014,Consumer price index: General,142.2
+292,Gibraltar,2014,Consumer price index: Food,169.8
+300,Greece,1995,Consumer price index: General,57
+300,Greece,2005,Consumer price index: General,85.3
+300,Greece,2010,Consumer price index: General,100
+300,Greece,2014,Consumer price index: General,102.6
+300,Greece,2015,Consumer price index: General,100.8
+300,Greece,2016,Consumer price index: General,99.9
+300,Greece,2017,Consumer price index: General,101.1
+300,Greece,1995,Consumer price index: Food,60.9
+300,Greece,2005,Consumer price index: Food,86.9
+300,Greece,2010,Consumer price index: Food,100
+300,Greece,2014,Consumer price index: Food,102.9
+300,Greece,2015,Consumer price index: Food,104.8
+300,Greece,2016,Consumer price index: Food,104.5
+300,Greece,2017,Consumer price index: Food,104.9
+308,Grenada,1995,Consumer price index: General,68.3
+308,Grenada,2005,Consumer price index: General,82.9
+308,Grenada,2010,Consumer price index: General,100
+308,Grenada,2014,Consumer price index: General,104.4
+308,Grenada,2015,Consumer price index: General,103.9
+308,Grenada,2016,Consumer price index: General,105.6
+308,Grenada,2017,Consumer price index: General,106.6
+308,Grenada,2005,Consumer price index: Food,74
+308,Grenada,2010,Consumer price index: Food,100
+308,Grenada,2014,Consumer price index: Food,109.4
+308,Grenada,2015,Consumer price index: Food,110.5
+308,Grenada,2016,Consumer price index: Food,108
+308,Grenada,2017,Consumer price index: Food,108.6
+312,Guadeloupe,2010,Consumer price index: General,100
+312,Guadeloupe,2014,Consumer price index: General,105.8
+312,Guadeloupe,2015,Consumer price index: General,106.1
+312,Guadeloupe,2016,Consumer price index: General,106
+312,Guadeloupe,2010,Consumer price index: Food,100
+312,Guadeloupe,2014,Consumer price index: Food,107.3
+312,Guadeloupe,2015,Consumer price index: Food,109.3
+312,Guadeloupe,2016,Consumer price index: Food,110.5
+316,Guam,2010,Consumer price index: General,100
+316,Guam,2014,Consumer price index: General,107.3
+316,Guam,2015,Consumer price index: General,106.3
+316,Guam,2016,Consumer price index: General,112.7
+316,Guam,2017,Consumer price index: General,115.5
+316,Guam,2010,Consumer price index: Food,100
+316,Guam,2014,Consumer price index: Food,120.5
+316,Guam,2015,Consumer price index: Food,125.2
+316,Guam,2016,Consumer price index: Food,123.2
+316,Guam,2017,Consumer price index: Food,121.4
+320,Guatemala,1995,Consumer price index: General,36
+320,Guatemala,2005,Consumer price index: General,74.6
+320,Guatemala,2010,Consumer price index: General,100
+320,Guatemala,2014,Consumer price index: General,119
+320,Guatemala,2015,Consumer price index: General,121.8
+320,Guatemala,2016,Consumer price index: General,127.2
+320,Guatemala,2017,Consumer price index: General,132.8
+320,Guatemala,2014,Consumer price index: Food,134.5
+320,Guatemala,2015,Consumer price index: Food,147
+320,Guatemala,2016,Consumer price index: Food,161.6
+320,Guatemala,2017,Consumer price index: Food,176
+324,Guinea,2005,Consumer price index: General,42.2
+324,Guinea,2010,Consumer price index: General,100
+324,Guinea,2014,Consumer price index: General,171.6
+324,Guinea,2015,Consumer price index: General,185.6
+324,Guinea,2016,Consumer price index: General,200.8
+324,Guinea,2017,Consumer price index: General,218.7
+324,Guinea,2010,Consumer price index: Food,100
+324,Guinea,2014,Consumer price index: Food,183.4
+324,Guinea,2015,Consumer price index: Food,204.5
+324,Guinea,2016,Consumer price index: Food,228
+324,Guinea,2017,Consumer price index: Food,256.4
+624,Guinea-Bissau,1995,Consumer price index: General,30.4
+624,Guinea-Bissau,2005,Consumer price index: General,84.2
+624,Guinea-Bissau,2010,Consumer price index: General,100
+624,Guinea-Bissau,2014,Consumer price index: General,106.9
+624,Guinea-Bissau,2015,Consumer price index: General,108.4
+624,Guinea-Bissau,2016,Consumer price index: General,110.2
+624,Guinea-Bissau,2017,Consumer price index: General,111.7
+624,Guinea-Bissau,2014,Consumer price index: Food,109.4
+624,Guinea-Bissau,2016,Consumer price index: Food,115.5
+624,Guinea-Bissau,2017,Consumer price index: Food,117.6
+328,Guyana,1995,Consumer price index: General,43.3
+328,Guyana,2005,Consumer price index: General,73.6
+328,Guyana,2010,Consumer price index: General,100
+328,Guyana,2014,Consumer price index: General,110.5
+328,Guyana,2015,Consumer price index: General,109.4
+328,Guyana,2016,Consumer price index: General,110.3
+332,Haiti,1995,Consumer price index: General,13.5
+332,Haiti,2005,Consumer price index: General,66.8
+332,Haiti,2010,Consumer price index: General,100
+332,Haiti,2014,Consumer price index: General,127.5
+332,Haiti,2015,Consumer price index: General,139
+332,Haiti,2016,Consumer price index: General,158.3
+332,Haiti,2017,Consumer price index: General,181.5
+332,Haiti,2010,Consumer price index: Food,100
+332,Haiti,2014,Consumer price index: Food,130
+332,Haiti,2015,Consumer price index: Food,142.2
+332,Haiti,2016,Consumer price index: Food,163.1
+332,Haiti,2017,Consumer price index: Food,186.3
+340,Honduras,1995,Consumer price index: General,22.9
+340,Honduras,2005,Consumer price index: General,72
+340,Honduras,2010,Consumer price index: General,100
+340,Honduras,2014,Consumer price index: General,125.3
+340,Honduras,2015,Consumer price index: General,129.3
+340,Honduras,2016,Consumer price index: General,132.8
+340,Honduras,2017,Consumer price index: General,138.1
+340,Honduras,2005,Consumer price index: Food,70.8
+340,Honduras,2010,Consumer price index: Food,100
+340,Honduras,2014,Consumer price index: Food,122.6
+340,Honduras,2015,Consumer price index: Food,126.6
+340,Honduras,2016,Consumer price index: Food,127.8
+340,Honduras,2017,Consumer price index: Food,129.8
+348,Hungary,1995,Consumer price index: General,28.7
+348,Hungary,2005,Consumer price index: General,76.9
+348,Hungary,2010,Consumer price index: General,100
+348,Hungary,2014,Consumer price index: General,111.5
+348,Hungary,2015,Consumer price index: General,111.4
+348,Hungary,2016,Consumer price index: General,111.8
+348,Hungary,2017,Consumer price index: General,114.5
+348,Hungary,2010,Consumer price index: Food,100
+348,Hungary,2014,Consumer price index: Food,115.6
+348,Hungary,2015,Consumer price index: Food,116.6
+348,Hungary,2016,Consumer price index: Food,117.4
+348,Hungary,2017,Consumer price index: Food,120.6
+352,Iceland,1995,Consumer price index: General,47.6
+352,Iceland,2005,Consumer price index: General,67.1
+352,Iceland,2010,Consumer price index: General,100
+352,Iceland,2014,Consumer price index: General,116
+352,Iceland,2015,Consumer price index: General,117.8
+352,Iceland,2016,Consumer price index: General,119.8
+352,Iceland,2017,Consumer price index: General,122
+352,Iceland,1995,Consumer price index: Food,52.4
+352,Iceland,2005,Consumer price index: Food,65.9
+352,Iceland,2010,Consumer price index: Food,100
+352,Iceland,2014,Consumer price index: Food,116.3
+352,Iceland,2015,Consumer price index: Food,119.6
+352,Iceland,2016,Consumer price index: Food,121.2
+352,Iceland,2017,Consumer price index: Food,118.3
+356,India,1995,Consumer price index: General,37.6
+356,India,2005,Consumer price index: General,65.8
+356,India,2010,Consumer price index: General,100
+356,India,2014,Consumer price index: General,140.8
+356,India,2015,Consumer price index: General,147.7
+356,India,2016,Consumer price index: General,155
+356,India,2017,Consumer price index: General,160.1
+356,India,2014,Consumer price index: Food,121.2
+356,India,2015,Consumer price index: Food,127.2
+356,India,2016,Consumer price index: Food,133.9
+356,India,2017,Consumer price index: Food,135.7
+360,Indonesia,1995,Consumer price index: General,19.4
+360,Indonesia,2005,Consumer price index: General,68.7
+360,Indonesia,2010,Consumer price index: General,100
+360,Indonesia,2014,Consumer price index: General,124.4
+360,Indonesia,2015,Consumer price index: General,132.3
+360,Indonesia,2016,Consumer price index: General,137
+360,Indonesia,2017,Consumer price index: General,142.2
+360,Indonesia,2014,Consumer price index: Food,119.5
+360,Indonesia,2015,Consumer price index: Food,128
+360,Indonesia,2016,Consumer price index: Food,137.3
+360,Indonesia,2017,Consumer price index: Food,139.9
+364,Iran (Islamic Republic of),2014,Consumer price index: General,81.5
+364,Iran (Islamic Republic of),2015,Consumer price index: General,91.6
+364,Iran (Islamic Republic of),2016,Consumer price index: General,98.3
+364,Iran (Islamic Republic of),2017,Consumer price index: General,106.2
+364,Iran (Islamic Republic of),2014,Consumer price index: Food,82.8
+364,Iran (Islamic Republic of),2015,Consumer price index: Food,91.5
+364,Iran (Islamic Republic of),2016,Consumer price index: Food,97.5
+364,Iran (Islamic Republic of),2017,Consumer price index: Food,109.7
+368,Iraq,1995,Consumer price index: General,13
+368,Iraq,2005,Consumer price index: General,58.6
+368,Iraq,2010,Consumer price index: General,100
+368,Iraq,2014,Consumer price index: General,116.9
+368,Iraq,2015,Consumer price index: General,118.5
+368,Iraq,2016,Consumer price index: General,119.2
+368,Iraq,2017,Consumer price index: General,119.4
+368,Iraq,2010,Consumer price index: Food,100
+368,Iraq,2014,Consumer price index: Food,113.2
+368,Iraq,2015,Consumer price index: Food,112.8
+372,Ireland,1995,Consumer price index: General,69
+372,Ireland,2005,Consumer price index: General,93.1
+372,Ireland,2010,Consumer price index: General,100
+372,Ireland,2014,Consumer price index: General,105
+372,Ireland,2015,Consumer price index: General,104.7
+372,Ireland,2016,Consumer price index: General,104.7
+372,Ireland,2017,Consumer price index: General,105.1
+372,Ireland,1995,Consumer price index: Food,77.3
+372,Ireland,2005,Consumer price index: Food,97.7
+372,Ireland,2010,Consumer price index: Food,100
+372,Ireland,2014,Consumer price index: Food,100.5
+372,Ireland,2015,Consumer price index: Food,98.3
+372,Ireland,2016,Consumer price index: Food,97
+372,Ireland,2017,Consumer price index: Food,95
+833,Isle of Man,2014,Consumer price index: General,160.8
+833,Isle of Man,2014,Consumer price index: Food,228.4
+376,Israel,1995,Consumer price index: General,59.5
+376,Israel,2005,Consumer price index: General,87.8
+376,Israel,2010,Consumer price index: General,100
+376,Israel,2014,Consumer price index: General,107.3
+376,Israel,2015,Consumer price index: General,106.7
+376,Israel,2016,Consumer price index: General,106.1
+376,Israel,2017,Consumer price index: General,106.4
+376,Israel,1995,Consumer price index: Food,52.1
+376,Israel,2005,Consumer price index: Food,79.3
+376,Israel,2010,Consumer price index: Food,100
+376,Israel,2014,Consumer price index: Food,108.7
+376,Israel,2015,Consumer price index: Food,108.8
+376,Israel,2016,Consumer price index: Food,107.8
+376,Israel,2017,Consumer price index: Food,108
+380,Italy,1995,Consumer price index: General,71.6
+380,Italy,2005,Consumer price index: General,91
+380,Italy,2010,Consumer price index: General,100
+380,Italy,2014,Consumer price index: General,107.4
+380,Italy,2015,Consumer price index: General,107.5
+380,Italy,2016,Consumer price index: General,107.4
+380,Italy,2017,Consumer price index: General,108.7
+380,Italy,1995,Consumer price index: Food,72.8
+380,Italy,2005,Consumer price index: Food,88.9
+380,Italy,2010,Consumer price index: Food,100
+380,Italy,2014,Consumer price index: Food,107.6
+380,Italy,2015,Consumer price index: Food,108.8
+380,Italy,2016,Consumer price index: Food,109
+380,Italy,2017,Consumer price index: Food,111.1
+388,Jamaica,1995,Consumer price index: General,19.6
+388,Jamaica,2005,Consumer price index: General,56
+388,Jamaica,2010,Consumer price index: General,100
+388,Jamaica,2014,Consumer price index: General,136.1
+388,Jamaica,2015,Consumer price index: General,141.1
+388,Jamaica,2016,Consumer price index: General,144.4
+388,Jamaica,2017,Consumer price index: General,150.8
+388,Jamaica,2005,Consumer price index: Food,51.7
+388,Jamaica,2010,Consumer price index: Food,100
+388,Jamaica,2014,Consumer price index: Food,145.8
+388,Jamaica,2015,Consumer price index: Food,157.2
+388,Jamaica,2016,Consumer price index: Food,163.6
+388,Jamaica,2017,Consumer price index: Food,170.7
+392,Japan,1995,Consumer price index: General,101.1
+392,Japan,2005,Consumer price index: General,100.4
+392,Japan,2010,Consumer price index: General,100
+392,Japan,2014,Consumer price index: General,102.8
+392,Japan,2015,Consumer price index: General,103.6
+392,Japan,2016,Consumer price index: General,103.5
+392,Japan,2017,Consumer price index: General,104
+392,Japan,1995,Consumer price index: Food,97.8
+392,Japan,2005,Consumer price index: Food,96.8
+392,Japan,2010,Consumer price index: Food,100
+392,Japan,2014,Consumer price index: Food,103.4
+392,Japan,2015,Consumer price index: Food,106.6
+392,Japan,2016,Consumer price index: Food,108.4
+392,Japan,2017,Consumer price index: Food,110.6
+832,Jersey,2014,Consumer price index: General,158.5
+832,Jersey,2014,Consumer price index: Food,167.1
+400,Jordan,1995,Consumer price index: General,57.7
+400,Jordan,2005,Consumer price index: General,74.5
+400,Jordan,2010,Consumer price index: General,100
+400,Jordan,2014,Consumer price index: General,117.4
+400,Jordan,2015,Consumer price index: General,116.4
+400,Jordan,2016,Consumer price index: General,115.5
+400,Jordan,2017,Consumer price index: General,119.3
+400,Jordan,2010,Consumer price index: Food,100
+400,Jordan,2014,Consumer price index: Food,114
+400,Jordan,2015,Consumer price index: Food,115.2
+400,Jordan,2016,Consumer price index: Food,111.2
+400,Jordan,2017,Consumer price index: Food,110.8
+398,Kazakhstan,1995,Consumer price index: General,20.4
+398,Kazakhstan,2005,Consumer price index: General,61.5
+398,Kazakhstan,2010,Consumer price index: General,100
+398,Kazakhstan,2014,Consumer price index: General,129.1
+398,Kazakhstan,2015,Consumer price index: General,137.8
+398,Kazakhstan,2016,Consumer price index: General,157.6
+398,Kazakhstan,2017,Consumer price index: General,169.3
+398,Kazakhstan,2005,Consumer price index: Food,58.6
+398,Kazakhstan,2010,Consumer price index: Food,100
+398,Kazakhstan,2014,Consumer price index: Food,129.3
+398,Kazakhstan,2015,Consumer price index: Food,136.8
+398,Kazakhstan,2016,Consumer price index: Food,154.4
+398,Kazakhstan,2017,Consumer price index: Food,167.7
+404,Kenya,1995,Consumer price index: General,25.3
+404,Kenya,2005,Consumer price index: General,55.5
+404,Kenya,2010,Consumer price index: General,100
+404,Kenya,2014,Consumer price index: General,140.9
+404,Kenya,2015,Consumer price index: General,150.2
+404,Kenya,2016,Consumer price index: General,159.6
+404,Kenya,2017,Consumer price index: General,172.4
+404,Kenya,2010,Consumer price index: Food,100
+404,Kenya,2014,Consumer price index: Food,154.5
+404,Kenya,2015,Consumer price index: Food,172.1
+404,Kenya,2016,Consumer price index: Food,189.5
+404,Kenya,2017,Consumer price index: Food,214.8
+296,Kiribati,2010,Consumer price index: General,100
+296,Kiribati,2014,Consumer price index: General,99
+296,Kiribati,2015,Consumer price index: General,99.5
+296,Kiribati,2010,Consumer price index: Food,100
+296,Kiribati,2014,Consumer price index: Food,94.6
+296,Kiribati,2015,Consumer price index: Food,94.1
+414,Kuwait,1995,Consumer price index: General,63.9
+414,Kuwait,2005,Consumer price index: General,76.1
+414,Kuwait,2010,Consumer price index: General,100
+414,Kuwait,2014,Consumer price index: General,114.4
+414,Kuwait,2015,Consumer price index: General,118.1
+414,Kuwait,2016,Consumer price index: General,121.9
+414,Kuwait,2017,Consumer price index: General,124.6
+414,Kuwait,2010,Consumer price index: Food,100
+414,Kuwait,2014,Consumer price index: Food,120.6
+414,Kuwait,2015,Consumer price index: Food,124.7
+414,Kuwait,2016,Consumer price index: Food,127.1
+414,Kuwait,2017,Consumer price index: Food,126.7
+417,Kyrgyzstan,1995,Consumer price index: General,16.7
+417,Kyrgyzstan,2005,Consumer price index: General,59.8
+417,Kyrgyzstan,2010,Consumer price index: General,100
+417,Kyrgyzstan,2014,Consumer price index: General,137.4
+417,Kyrgyzstan,2015,Consumer price index: General,146.4
+417,Kyrgyzstan,2016,Consumer price index: General,146.9
+417,Kyrgyzstan,2017,Consumer price index: General,151.6
+417,Kyrgyzstan,2005,Consumer price index: Food,55.9
+417,Kyrgyzstan,2010,Consumer price index: Food,100
+417,Kyrgyzstan,2014,Consumer price index: Food,136.7
+417,Kyrgyzstan,2015,Consumer price index: Food,141.7
+417,Kyrgyzstan,2016,Consumer price index: Food,132.5
+417,Kyrgyzstan,2017,Consumer price index: Food,135.8
+418,Lao People's Dem. Rep.,1995,Consumer price index: General,6.2
+418,Lao People's Dem. Rep.,2005,Consumer price index: General,78.5
+418,Lao People's Dem. Rep.,2010,Consumer price index: General,100
+418,Lao People's Dem. Rep.,2014,Consumer price index: General,124.2
+418,Lao People's Dem. Rep.,2015,Consumer price index: General,125.8
+418,Lao People's Dem. Rep.,2016,Consumer price index: General,127.8
+418,Lao People's Dem. Rep.,2017,Consumer price index: General,128.9
+418,Lao People's Dem. Rep.,2010,Consumer price index: Food,100
+418,Lao People's Dem. Rep.,2014,Consumer price index: Food,140.2
+418,Lao People's Dem. Rep.,2015,Consumer price index: Food,146.6
+418,Lao People's Dem. Rep.,2016,Consumer price index: Food,152.9
+418,Lao People's Dem. Rep.,2017,Consumer price index: Food,152.7
+428,Latvia,1995,Consumer price index: General,42.2
+428,Latvia,2005,Consumer price index: General,72.1
+428,Latvia,2010,Consumer price index: General,100
+428,Latvia,2014,Consumer price index: General,107.4
+428,Latvia,2015,Consumer price index: General,107.6
+428,Latvia,2016,Consumer price index: General,107.7
+428,Latvia,2017,Consumer price index: General,110.9
+428,Latvia,1995,Consumer price index: Food,45.6
+428,Latvia,2005,Consumer price index: Food,69.1
+428,Latvia,2010,Consumer price index: Food,100
+428,Latvia,2014,Consumer price index: Food,112.1
+428,Latvia,2015,Consumer price index: Food,110.7
+428,Latvia,2016,Consumer price index: Food,111.9
+428,Latvia,2017,Consumer price index: Food,118.1
+422,Lebanon,2010,Consumer price index: General,100
+422,Lebanon,2014,Consumer price index: General,119.4
+422,Lebanon,2015,Consumer price index: General,115
+422,Lebanon,2016,Consumer price index: General,114.1
+422,Lebanon,2017,Consumer price index: General,119.1
+422,Lebanon,2010,Consumer price index: Food,100
+422,Lebanon,2014,Consumer price index: Food,119.8
+422,Lebanon,2015,Consumer price index: Food,118.5
+422,Lebanon,2016,Consumer price index: Food,117.1
+422,Lebanon,2017,Consumer price index: Food,121.3
+426,Lesotho,1995,Consumer price index: General,69.7
+426,Lesotho,2005,Consumer price index: General,70.9
+426,Lesotho,2010,Consumer price index: General,100
+426,Lesotho,2014,Consumer price index: General,123.2
+426,Lesotho,2015,Consumer price index: General,127.1
+426,Lesotho,2016,Consumer price index: General,135.5
+426,Lesotho,2017,Consumer price index: General,142.7
+426,Lesotho,2005,Consumer price index: Food,61.9
+426,Lesotho,2010,Consumer price index: Food,100
+426,Lesotho,2014,Consumer price index: Food,130.4
+426,Lesotho,2015,Consumer price index: Food,138.4
+426,Lesotho,2016,Consumer price index: Food,154.8
+426,Lesotho,2017,Consumer price index: Food,165.5
+430,Liberia,2005,Consumer price index: General,61.8
+430,Liberia,2010,Consumer price index: General,100
+430,Liberia,2014,Consumer price index: General,137
+430,Liberia,2015,Consumer price index: General,147.6
+430,Liberia,2016,Consumer price index: General,160.6
+430,Liberia,2017,Consumer price index: General,180.6
+430,Liberia,2010,Consumer price index: Food,100
+430,Liberia,2014,Consumer price index: Food,147.6
+430,Liberia,2015,Consumer price index: Food,162.5
+430,Liberia,2016,Consumer price index: Food,175.3
+430,Liberia,2017,Consumer price index: Food,186.5
+434,Libya,1995,Consumer price index: General,88.7
+434,Libya,2005,Consumer price index: General,79.8
+434,Libya,2010,Consumer price index: General,100
+440,Lithuania,1995,Consumer price index: General,51.3
+440,Lithuania,2005,Consumer price index: General,77.7
+440,Lithuania,2010,Consumer price index: General,100
+440,Lithuania,2014,Consumer price index: General,108.6
+440,Lithuania,2015,Consumer price index: General,107.6
+440,Lithuania,2016,Consumer price index: General,108.6
+440,Lithuania,2017,Consumer price index: General,112.6
+440,Lithuania,1995,Consumer price index: Food,54.2
+440,Lithuania,2005,Consumer price index: Food,72.2
+440,Lithuania,2010,Consumer price index: Food,100
+440,Lithuania,2014,Consumer price index: Food,114.3
+440,Lithuania,2015,Consumer price index: Food,113.3
+440,Lithuania,2016,Consumer price index: Food,114.7
+440,Lithuania,2017,Consumer price index: Food,118.8
+442,Luxembourg,1995,Consumer price index: General,74.2
+442,Luxembourg,2005,Consumer price index: General,89.7
+442,Luxembourg,2010,Consumer price index: General,100
+442,Luxembourg,2014,Consumer price index: General,108.7
+442,Luxembourg,2015,Consumer price index: General,109.2
+442,Luxembourg,2016,Consumer price index: General,109.5
+442,Luxembourg,2017,Consumer price index: General,111.5
+442,Luxembourg,1995,Consumer price index: Food,70.6
+442,Luxembourg,2005,Consumer price index: Food,87.7
+442,Luxembourg,2010,Consumer price index: Food,100
+442,Luxembourg,2014,Consumer price index: Food,109.6
+442,Luxembourg,2015,Consumer price index: Food,110.5
+442,Luxembourg,2016,Consumer price index: Food,112.2
+442,Luxembourg,2017,Consumer price index: Food,115.3
+450,Madagascar,1995,Consumer price index: General,23.2
+450,Madagascar,2005,Consumer price index: General,62.9
+450,Madagascar,2010,Consumer price index: General,100
+450,Madagascar,2014,Consumer price index: General,129.9
+450,Madagascar,2015,Consumer price index: General,139.5
+450,Madagascar,2016,Consumer price index: General,148.8
+450,Madagascar,2017,Consumer price index: General,161.2
+450,Madagascar,2014,Consumer price index: Food,131.8
+450,Madagascar,2015,Consumer price index: Food,140.4
+450,Madagascar,2016,Consumer price index: Food,149.4
+450,Madagascar,2017,Consumer price index: Food,161.8
+454,Malawi,1995,Consumer price index: General,8.9
+454,Malawi,2005,Consumer price index: General,64.2
+454,Malawi,2010,Consumer price index: General,100
+454,Malawi,2014,Consumer price index: General,205.6
+454,Malawi,2015,Consumer price index: General,250.6
+454,Malawi,2016,Consumer price index: General,305
+454,Malawi,2017,Consumer price index: General,342.2
+454,Malawi,2014,Consumer price index: Food,149.4
+454,Malawi,2015,Consumer price index: Food,185.1
+454,Malawi,2016,Consumer price index: Food,230.9
+454,Malawi,2017,Consumer price index: Food,262.4
+458,Malaysia,1995,Consumer price index: General,69
+458,Malaysia,2005,Consumer price index: General,87.7
+458,Malaysia,2010,Consumer price index: General,100
+458,Malaysia,2014,Consumer price index: General,110.5
+458,Malaysia,2015,Consumer price index: General,112.8
+458,Malaysia,2016,Consumer price index: General,115.2
+458,Malaysia,2017,Consumer price index: General,119.6
+458,Malaysia,2010,Consumer price index: Food,100
+458,Malaysia,2014,Consumer price index: Food,115.2
+458,Malaysia,2015,Consumer price index: Food,119.4
+458,Malaysia,2016,Consumer price index: Food,124
+458,Malaysia,2017,Consumer price index: Food,129.2
+462,Maldives,2005,Consumer price index: General,73.3
+462,Maldives,2010,Consumer price index: General,100
+462,Maldives,2014,Consumer price index: General,130.8
+462,Maldives,2015,Consumer price index: General,132
+462,Maldives,2016,Consumer price index: General,132.7
+462,Maldives,2017,Consumer price index: General,136.4
+462,Maldives,2010,Consumer price index: Food,100
+462,Maldives,2014,Consumer price index: Food,152.3
+462,Maldives,2015,Consumer price index: Food,153
+462,Maldives,2016,Consumer price index: Food,153.9
+462,Maldives,2017,Consumer price index: Food,163.3
+466,Mali,1995,Consumer price index: General,70.3
+466,Mali,2005,Consumer price index: General,85.9
+466,Mali,2010,Consumer price index: General,100
+466,Mali,2014,Consumer price index: General,108.7
+466,Mali,2015,Consumer price index: General,110.3
+466,Mali,2016,Consumer price index: General,108.3
+466,Mali,2017,Consumer price index: General,110.2
+466,Mali,2010,Consumer price index: Food,100
+466,Mali,2014,Consumer price index: Food,109.6
+466,Mali,2015,Consumer price index: Food,112.9
+466,Mali,2016,Consumer price index: Food,109.2
+466,Mali,2017,Consumer price index: Food,112
+470,Malta,1995,Consumer price index: General,70
+470,Malta,2005,Consumer price index: General,88.9
+470,Malta,2010,Consumer price index: General,100
+470,Malta,2014,Consumer price index: General,107
+470,Malta,2015,Consumer price index: General,108.2
+470,Malta,2016,Consumer price index: General,108.9
+470,Malta,2017,Consumer price index: General,110.3
+470,Malta,2014,Consumer price index: Food,158.4
+470,Malta,2016,Consumer price index: Food,96.5
+470,Malta,2017,Consumer price index: Food,99.8
+474,Martinique,2010,Consumer price index: General,100
+474,Martinique,2014,Consumer price index: General,106.2
+474,Martinique,2015,Consumer price index: General,106.3
+474,Martinique,2016,Consumer price index: General,106.1
+474,Martinique,2010,Consumer price index: Food,100
+474,Martinique,2014,Consumer price index: Food,108.4
+474,Martinique,2015,Consumer price index: Food,110.3
+474,Martinique,2016,Consumer price index: Food,111.7
+478,Mauritania,1995,Consumer price index: General,41.8
+478,Mauritania,2005,Consumer price index: General,75.2
+478,Mauritania,2010,Consumer price index: General,100
+478,Mauritania,2014,Consumer price index: General,119.5
+478,Mauritania,2015,Consumer price index: General,123.4
+478,Mauritania,2016,Consumer price index: General,125.2
+478,Mauritania,2017,Consumer price index: General,128.1
+478,Mauritania,2010,Consumer price index: Food,100
+478,Mauritania,2014,Consumer price index: Food,121.7
+478,Mauritania,2015,Consumer price index: Food,128.6
+478,Mauritania,2016,Consumer price index: Food,131.5
+478,Mauritania,2017,Consumer price index: Food,135.6
+480,Mauritius,1995,Consumer price index: General,42
+480,Mauritius,2005,Consumer price index: General,72.9
+480,Mauritius,2010,Consumer price index: General,100
+480,Mauritius,2014,Consumer price index: General,118.2
+480,Mauritius,2015,Consumer price index: General,119.8
+480,Mauritius,2016,Consumer price index: General,120.9
+480,Mauritius,2017,Consumer price index: General,125.4
+480,Mauritius,2010,Consumer price index: Food,100
+480,Mauritius,2014,Consumer price index: Food,117
+480,Mauritius,2015,Consumer price index: Food,120.7
+480,Mauritius,2016,Consumer price index: Food,122
+480,Mauritius,2017,Consumer price index: Food,126.6
+484,Mexico,1995,Consumer price index: General,26.4
+484,Mexico,2005,Consumer price index: General,80.5
+484,Mexico,2010,Consumer price index: General,100
+484,Mexico,2014,Consumer price index: General,116.2
+484,Mexico,2015,Consumer price index: General,119.4
+484,Mexico,2016,Consumer price index: General,122.8
+484,Mexico,2017,Consumer price index: General,130.2
+484,Mexico,1995,Consumer price index: Food,23.8
+484,Mexico,2005,Consumer price index: Food,74.4
+484,Mexico,2010,Consumer price index: Food,100
+484,Mexico,2014,Consumer price index: Food,125
+484,Mexico,2015,Consumer price index: Food,129.9
+484,Mexico,2016,Consumer price index: Food,135.2
+484,Mexico,2017,Consumer price index: Food,144.4
+583,Micronesia (Fed. States of),2005,Consumer price index: General,77.8
+583,Micronesia (Fed. States of),2010,Consumer price index: General,100
+583,Micronesia (Fed. States of),2014,Consumer price index: General,113.1
+583,Micronesia (Fed. States of),2015,Consumer price index: General,112.5
+496,Mongolia,1995,Consumer price index: General,15.8
+496,Mongolia,2005,Consumer price index: General,57.3
+496,Mongolia,2010,Consumer price index: General,100
+496,Mongolia,2014,Consumer price index: General,153.7
+496,Mongolia,2015,Consumer price index: General,163.8
+496,Mongolia,2016,Consumer price index: General,165.6
+496,Mongolia,2017,Consumer price index: General,172
+496,Mongolia,2010,Consumer price index: Food,100
+496,Mongolia,2014,Consumer price index: Food,158.4
+496,Mongolia,2015,Consumer price index: Food,161.4
+496,Mongolia,2016,Consumer price index: Food,157.9
+496,Mongolia,2017,Consumer price index: Food,164.3
+499,Montenegro,2005,Consumer price index: General,82.2
+499,Montenegro,2010,Consumer price index: General,100
+499,Montenegro,2014,Consumer price index: General,109.3
+499,Montenegro,2015,Consumer price index: General,111
+499,Montenegro,2016,Consumer price index: General,110.7
+499,Montenegro,2017,Consumer price index: General,113.4
+499,Montenegro,2010,Consumer price index: Food,100
+499,Montenegro,2014,Consumer price index: Food,111.1
+499,Montenegro,2015,Consumer price index: Food,114.3
+499,Montenegro,2016,Consumer price index: Food,113.4
+499,Montenegro,2017,Consumer price index: Food,115.4
+500,Montserrat,2005,Consumer price index: General,86.8
+500,Montserrat,2010,Consumer price index: General,100
+500,Montserrat,2014,Consumer price index: General,109.1
+500,Montserrat,2015,Consumer price index: General,107.9
+500,Montserrat,2016,Consumer price index: General,107.6
+500,Montserrat,2017,Consumer price index: General,108.9
+500,Montserrat,2014,Consumer price index: Food,99.3
+500,Montserrat,2015,Consumer price index: Food,99.1
+500,Montserrat,2016,Consumer price index: Food,99
+500,Montserrat,2017,Consumer price index: Food,98.6
+504,Morocco,1995,Consumer price index: General,76.3
+504,Morocco,2005,Consumer price index: General,89.7
+504,Morocco,2010,Consumer price index: General,100
+504,Morocco,2014,Consumer price index: General,104.6
+504,Morocco,2015,Consumer price index: General,106.2
+504,Morocco,2016,Consumer price index: General,108
+504,Morocco,2017,Consumer price index: General,108.8
+504,Morocco,2010,Consumer price index: Food,100
+504,Morocco,2014,Consumer price index: Food,104.8
+504,Morocco,2015,Consumer price index: Food,107.4
+504,Morocco,2016,Consumer price index: Food,110.5
+504,Morocco,2017,Consumer price index: Food,110.5
+508,Mozambique,2010,Consumer price index: General,100
+508,Mozambique,2014,Consumer price index: General,122
+508,Mozambique,2015,Consumer price index: General,126.3
+508,Mozambique,2016,Consumer price index: General,148.3
+508,Mozambique,2017,Consumer price index: General,170.7
+508,Mozambique,2010,Consumer price index: Food,100
+508,Mozambique,2014,Consumer price index: Food,127.7
+508,Mozambique,2015,Consumer price index: Food,134.4
+508,Mozambique,2016,Consumer price index: Food,170.9
+508,Mozambique,2017,Consumer price index: Food,199
+104,Myanmar,1995,Consumer price index: General,5.5
+104,Myanmar,2005,Consumer price index: General,44.5
+104,Myanmar,2010,Consumer price index: General,100
+104,Myanmar,2014,Consumer price index: General,118.1
+104,Myanmar,2015,Consumer price index: General,129.3
+104,Myanmar,2016,Consumer price index: General,138.3
+104,Myanmar,2017,Consumer price index: General,144.6
+104,Myanmar,2014,Consumer price index: Food,113.1
+104,Myanmar,2015,Consumer price index: Food,127.9
+104,Myanmar,2016,Consumer price index: Food,139.7
+104,Myanmar,2017,Consumer price index: Food,145.9
+516,Namibia,2005,Consumer price index: General,71.4
+516,Namibia,2010,Consumer price index: General,100
+516,Namibia,2014,Consumer price index: General,124.7
+516,Namibia,2015,Consumer price index: General,128.9
+516,Namibia,2016,Consumer price index: General,137.6
+516,Namibia,2017,Consumer price index: General,145.9
+516,Namibia,2005,Consumer price index: Food,63
+516,Namibia,2010,Consumer price index: Food,100
+516,Namibia,2014,Consumer price index: Food,131.9
+516,Namibia,2015,Consumer price index: Food,139.4
+516,Namibia,2016,Consumer price index: Food,154.4
+516,Namibia,2017,Consumer price index: Food,162.9
+524,Nepal,2017,Consumer price index: General,116.9
+524,Nepal,2017,Consumer price index: Food,114.8
+528,Netherlands,1995,Consumer price index: General,73.7
+528,Netherlands,2005,Consumer price index: General,92.7
+528,Netherlands,2010,Consumer price index: General,100
+528,Netherlands,2014,Consumer price index: General,108.5
+528,Netherlands,2015,Consumer price index: General,109.3
+528,Netherlands,2016,Consumer price index: General,109.5
+528,Netherlands,2017,Consumer price index: General,111
+528,Netherlands,1995,Consumer price index: Food,81.4
+528,Netherlands,2005,Consumer price index: Food,91.3
+528,Netherlands,2010,Consumer price index: Food,100
+528,Netherlands,2014,Consumer price index: Food,106.7
+528,Netherlands,2015,Consumer price index: Food,107.4
+528,Netherlands,2016,Consumer price index: Food,108.4
+528,Netherlands,2017,Consumer price index: Food,111.3
+540,New Caledonia,2010,Consumer price index: General,100
+540,New Caledonia,2014,Consumer price index: General,105.7
+540,New Caledonia,2015,Consumer price index: General,106.3
+540,New Caledonia,2016,Consumer price index: General,107
+540,New Caledonia,2010,Consumer price index: Food,100
+540,New Caledonia,2014,Consumer price index: Food,108.6
+540,New Caledonia,2015,Consumer price index: Food,110.6
+540,New Caledonia,2016,Consumer price index: Food,112.5
+554,New Zealand,1995,Consumer price index: General,71.7
+554,New Zealand,2005,Consumer price index: General,87
+554,New Zealand,2010,Consumer price index: General,100
+554,New Zealand,2014,Consumer price index: General,107.6
+554,New Zealand,2015,Consumer price index: General,107.9
+554,New Zealand,2016,Consumer price index: General,108.6
+554,New Zealand,2017,Consumer price index: General,110.7
+554,New Zealand,2010,Consumer price index: Food,100
+554,New Zealand,2014,Consumer price index: Food,105.8
+554,New Zealand,2015,Consumer price index: Food,106
+554,New Zealand,2016,Consumer price index: Food,105.3
+554,New Zealand,2017,Consumer price index: Food,107.7
+558,Nicaragua,2005,Consumer price index: General,62.9
+558,Nicaragua,2010,Consumer price index: General,100
+558,Nicaragua,2014,Consumer price index: General,131.6
+558,Nicaragua,2015,Consumer price index: General,136.9
+558,Nicaragua,2016,Consumer price index: General,141.7
+558,Nicaragua,2017,Consumer price index: General,147.2
+558,Nicaragua,2005,Consumer price index: Food,57
+558,Nicaragua,2010,Consumer price index: Food,100
+558,Nicaragua,2014,Consumer price index: Food,139.8
+558,Nicaragua,2015,Consumer price index: Food,146.5
+558,Nicaragua,2016,Consumer price index: Food,148.7
+558,Nicaragua,2017,Consumer price index: Food,149.5
+562,Niger,1995,Consumer price index: General,68.5
+562,Niger,2005,Consumer price index: General,88.5
+562,Niger,2010,Consumer price index: General,100
+562,Niger,2014,Consumer price index: General,104.8
+562,Niger,2015,Consumer price index: General,105.8
+562,Niger,2016,Consumer price index: General,106
+562,Niger,2017,Consumer price index: General,108.6
+562,Niger,2014,Consumer price index: Food,121.8
+562,Niger,2015,Consumer price index: Food,122.4
+562,Niger,2016,Consumer price index: Food,120.9
+562,Niger,2017,Consumer price index: Food,121.8
+566,Nigeria,1995,Consumer price index: General,17
+566,Nigeria,2005,Consumer price index: General,61.9
+566,Nigeria,2010,Consumer price index: General,100
+566,Nigeria,2014,Consumer price index: General,145.8
+566,Nigeria,2015,Consumer price index: General,158.9
+566,Nigeria,2016,Consumer price index: General,183.9
+566,Nigeria,2017,Consumer price index: General,214.2
+566,Nigeria,2010,Consumer price index: Food,100
+566,Nigeria,2014,Consumer price index: Food,146.8
+566,Nigeria,2015,Consumer price index: Food,161.3
+566,Nigeria,2016,Consumer price index: Food,185.2
+566,Nigeria,2017,Consumer price index: Food,221.3
+578,Norway,1995,Consumer price index: General,73.1
+578,Norway,2005,Consumer price index: General,89.3
+578,Norway,2010,Consumer price index: General,100
+578,Norway,2014,Consumer price index: General,106.3
+578,Norway,2015,Consumer price index: General,108.6
+578,Norway,2016,Consumer price index: General,112.5
+578,Norway,2017,Consumer price index: General,114.6
+578,Norway,1995,Consumer price index: Food,74.3
+578,Norway,2005,Consumer price index: Food,88.3
+578,Norway,2010,Consumer price index: Food,100
+578,Norway,2014,Consumer price index: Food,105.3
+578,Norway,2015,Consumer price index: Food,108.4
+578,Norway,2016,Consumer price index: Food,111.2
+578,Norway,2017,Consumer price index: Food,111.2
+512,Oman,2005,Consumer price index: General,76.1
+512,Oman,2010,Consumer price index: General,100
+512,Oman,2014,Consumer price index: General,109.3
+512,Oman,2015,Consumer price index: General,109.4
+512,Oman,2016,Consumer price index: General,110.6
+512,Oman,2017,Consumer price index: General,112.4
+512,Oman,2010,Consumer price index: Food,100
+512,Oman,2014,Consumer price index: Food,111.7
+512,Oman,2015,Consumer price index: Food,110.8
+512,Oman,2016,Consumer price index: Food,109.5
+512,Oman,2017,Consumer price index: Food,110.1
+586,Pakistan,1995,Consumer price index: General,30.3
+586,Pakistan,2005,Consumer price index: General,55.3
+586,Pakistan,2010,Consumer price index: General,100
+586,Pakistan,2014,Consumer price index: General,141.7
+586,Pakistan,2015,Consumer price index: General,145.3
+586,Pakistan,2016,Consumer price index: General,150.8
+586,Pakistan,2017,Consumer price index: General,156.9
+586,Pakistan,2014,Consumer price index: Food,216.2
+586,Pakistan,2015,Consumer price index: Food,217.4
+586,Pakistan,2016,Consumer price index: Food,222.7
+586,Pakistan,2017,Consumer price index: Food,230
+585,Palau,2005,Consumer price index: General,80.5
+585,Palau,2010,Consumer price index: General,100
+585,Palau,2014,Consumer price index: General,116.8
+585,Palau,2015,Consumer price index: General,117.9
+585,Palau,2016,Consumer price index: General,116.7
+585,Palau,2017,Consumer price index: General,118.2
+585,Palau,2005,Consumer price index: Food,73.6
+585,Palau,2010,Consumer price index: Food,100
+585,Palau,2014,Consumer price index: Food,114.6
+585,Palau,2015,Consumer price index: Food,116.4
+585,Palau,2016,Consumer price index: Food,112.9
+585,Palau,2017,Consumer price index: Food,115.1
+591,Panama,1995,Consumer price index: General,72.9
+591,Panama,2005,Consumer price index: General,81.3
+591,Panama,2010,Consumer price index: General,100
+591,Panama,2014,Consumer price index: General,119.5
+591,Panama,2015,Consumer price index: General,119.6
+591,Panama,2016,Consumer price index: General,120.5
+591,Panama,2017,Consumer price index: General,121.6
+591,Panama,2005,Consumer price index: Food,74
+591,Panama,2010,Consumer price index: Food,100
+591,Panama,2014,Consumer price index: Food,124.7
+591,Panama,2015,Consumer price index: Food,122.6
+591,Panama,2016,Consumer price index: Food,124.2
+591,Panama,2017,Consumer price index: Food,123.6
+598,Papua New Guinea,1995,Consumer price index: General,30.2
+598,Papua New Guinea,2005,Consumer price index: General,77.1
+598,Papua New Guinea,2010,Consumer price index: General,100
+598,Papua New Guinea,2014,Consumer price index: General,120.6
+598,Papua New Guinea,2015,Consumer price index: General,127.8
+598,Papua New Guinea,2016,Consumer price index: General,136.3
+598,Papua New Guinea,2010,Consumer price index: Food,100
+598,Papua New Guinea,2014,Consumer price index: Food,101.4
+598,Papua New Guinea,2015,Consumer price index: Food,106.4
+598,Papua New Guinea,2016,Consumer price index: Food,111.8
+600,Paraguay,1995,Consumer price index: General,31
+600,Paraguay,2005,Consumer price index: General,71.4
+600,Paraguay,2010,Consumer price index: General,100
+600,Paraguay,2014,Consumer price index: General,121
+600,Paraguay,2015,Consumer price index: General,124.8
+600,Paraguay,2016,Consumer price index: General,129.9
+600,Paraguay,2017,Consumer price index: General,134.6
+600,Paraguay,2005,Consumer price index: Food,58.2
+600,Paraguay,2010,Consumer price index: Food,100
+600,Paraguay,2014,Consumer price index: Food,122.2
+600,Paraguay,2015,Consumer price index: Food,125.8
+600,Paraguay,2016,Consumer price index: Food,133.1
+600,Paraguay,2017,Consumer price index: Food,140.8
+604,Peru,1995,Consumer price index: General,56.8
+604,Peru,2005,Consumer price index: General,87.1
+604,Peru,2010,Consumer price index: General,100
+604,Peru,2014,Consumer price index: General,113.7
+604,Peru,2015,Consumer price index: General,117.8
+604,Peru,2016,Consumer price index: General,122
+604,Peru,2017,Consumer price index: General,125.4
+604,Peru,2017,Consumer price index: Food,163.1
+608,Philippines,2014,Consumer price index: General,106.3
+608,Philippines,2015,Consumer price index: General,107
+608,Philippines,2016,Consumer price index: General,108.4
+608,Philippines,2017,Consumer price index: General,111.5
+608,Philippines,2014,Consumer price index: Food,108.5
+608,Philippines,2015,Consumer price index: Food,110.5
+608,Philippines,2016,Consumer price index: Food,112.3
+608,Philippines,2017,Consumer price index: Food,115.7
+616,Poland,2010,Consumer price index: General,100
+616,Poland,2014,Consumer price index: General,109
+616,Poland,2015,Consumer price index: General,108.1
+616,Poland,2016,Consumer price index: General,107.6
+616,Poland,2017,Consumer price index: General,109.6
+616,Poland,2010,Consumer price index: Food,100
+616,Poland,2014,Consumer price index: Food,110.6
+616,Poland,2015,Consumer price index: Food,109.1
+616,Poland,2016,Consumer price index: Food,110.3
+616,Poland,2017,Consumer price index: Food,114.9
+620,Portugal,1995,Consumer price index: General,69
+620,Portugal,2005,Consumer price index: General,91.8
+620,Portugal,2010,Consumer price index: General,100
+620,Portugal,2014,Consumer price index: General,106.5
+620,Portugal,2015,Consumer price index: General,107
+620,Portugal,2016,Consumer price index: General,107.7
+620,Portugal,2017,Consumer price index: General,109.2
+620,Portugal,1995,Consumer price index: Food,77.4
+620,Portugal,2005,Consumer price index: Food,95.1
+620,Portugal,2010,Consumer price index: Food,100
+620,Portugal,2014,Consumer price index: Food,106
+620,Portugal,2015,Consumer price index: Food,107
+620,Portugal,2016,Consumer price index: Food,107.6
+620,Portugal,2017,Consumer price index: Food,109.2
+630,Puerto Rico,2010,Consumer price index: General,100
+630,Puerto Rico,2014,Consumer price index: General,106
+630,Puerto Rico,2015,Consumer price index: General,105.2
+630,Puerto Rico,2016,Consumer price index: General,104.8
+630,Puerto Rico,2017,Consumer price index: General,106.7
+630,Puerto Rico,2010,Consumer price index: Food,100
+630,Puerto Rico,2014,Consumer price index: Food,108.2
+630,Puerto Rico,2015,Consumer price index: Food,111.1
+630,Puerto Rico,2016,Consumer price index: Food,112
+630,Puerto Rico,2017,Consumer price index: Food,112.4
+634,Qatar,2014,Consumer price index: General,103.4
+634,Qatar,2015,Consumer price index: General,105.2
+634,Qatar,2016,Consumer price index: General,108
+634,Qatar,2017,Consumer price index: General,108.5
+634,Qatar,2014,Consumer price index: Food,100.2
+634,Qatar,2015,Consumer price index: Food,101.1
+634,Qatar,2016,Consumer price index: Food,99.2
+634,Qatar,2017,Consumer price index: Food,101.1
+410,Republic of Korea,1995,Consumer price index: General,60.2
+410,Republic of Korea,2005,Consumer price index: General,86.2
+410,Republic of Korea,2010,Consumer price index: General,100
+410,Republic of Korea,2014,Consumer price index: General,109.1
+410,Republic of Korea,2015,Consumer price index: General,109.8
+410,Republic of Korea,2016,Consumer price index: General,110.9
+410,Republic of Korea,2017,Consumer price index: General,113.1
+410,Republic of Korea,1995,Consumer price index: Food,50.6
+410,Republic of Korea,2005,Consumer price index: Food,80.8
+410,Republic of Korea,2010,Consumer price index: Food,100
+410,Republic of Korea,2014,Consumer price index: Food,113.7
+410,Republic of Korea,2015,Consumer price index: Food,115.6
+410,Republic of Korea,2016,Consumer price index: Food,118.3
+410,Republic of Korea,2017,Consumer price index: Food,122.3
+498,Republic of Moldova,2010,Consumer price index: General,100
+498,Republic of Moldova,2014,Consumer price index: General,123.8
+498,Republic of Moldova,2015,Consumer price index: General,135.8
+498,Republic of Moldova,2016,Consumer price index: General,144.5
+498,Republic of Moldova,2017,Consumer price index: General,153.9
+498,Republic of Moldova,2010,Consumer price index: Food,100
+498,Republic of Moldova,2014,Consumer price index: Food,124.5
+498,Republic of Moldova,2015,Consumer price index: Food,137.1
+498,Republic of Moldova,2016,Consumer price index: Food,147.1
+498,Republic of Moldova,2017,Consumer price index: Food,159.1
+638,Réunion,2014,Consumer price index: General,126.7
+638,Réunion,2014,Consumer price index: Food,137.6
+642,Romania,1995,Consumer price index: General,2.7
+642,Romania,2005,Consumer price index: General,74.1
+642,Romania,2010,Consumer price index: General,100
+642,Romania,2014,Consumer price index: General,114.9
+642,Romania,2015,Consumer price index: General,114.2
+642,Romania,2016,Consumer price index: General,112.4
+642,Romania,2017,Consumer price index: General,113.9
+642,Romania,2014,Consumer price index: Food,136.2
+642,Romania,2015,Consumer price index: Food,131
+642,Romania,2016,Consumer price index: Food,97.4
+642,Romania,2017,Consumer price index: Food,99.8
+643,Russian Federation,1995,Consumer price index: General,6.3
+643,Russian Federation,2005,Consumer price index: General,61.4
+643,Russian Federation,2010,Consumer price index: General,100
+643,Russian Federation,2014,Consumer price index: General,131.2
+643,Russian Federation,2015,Consumer price index: General,151.5
+643,Russian Federation,2016,Consumer price index: General,162.2
+643,Russian Federation,2017,Consumer price index: General,168.2
+643,Russian Federation,2005,Consumer price index: Food,58.4
+643,Russian Federation,2010,Consumer price index: Food,100
+643,Russian Federation,2014,Consumer price index: Food,133.6
+643,Russian Federation,2015,Consumer price index: Food,161.7
+643,Russian Federation,2016,Consumer price index: Food,171
+643,Russian Federation,2017,Consumer price index: Food,175.6
+646,Rwanda,2010,Consumer price index: General,100
+646,Rwanda,2014,Consumer price index: General,119.1
+646,Rwanda,2015,Consumer price index: General,122.1
+646,Rwanda,2016,Consumer price index: General,129.1
+646,Rwanda,2017,Consumer price index: General,135.4
+646,Rwanda,2010,Consumer price index: Food,100
+646,Rwanda,2014,Consumer price index: Food,127.3
+646,Rwanda,2015,Consumer price index: Food,132.2
+646,Rwanda,2016,Consumer price index: Food,146.5
+646,Rwanda,2017,Consumer price index: Food,160.4
+659,Saint Kitts and Nevis,1995,Consumer price index: General,59.6
+659,Saint Kitts and Nevis,2005,Consumer price index: General,81.7
+659,Saint Kitts and Nevis,2010,Consumer price index: General,100
+659,Saint Kitts and Nevis,2014,Consumer price index: General,108.1
+659,Saint Kitts and Nevis,2015,Consumer price index: General,105.7
+659,Saint Kitts and Nevis,2016,Consumer price index: General,104.9
+659,Saint Kitts and Nevis,2017,Consumer price index: General,105.5
+659,Saint Kitts and Nevis,2010,Consumer price index: Food,100
+659,Saint Kitts and Nevis,2014,Consumer price index: Food,114.4
+659,Saint Kitts and Nevis,2015,Consumer price index: Food,102.2
+659,Saint Kitts and Nevis,2016,Consumer price index: Food,95.9
+659,Saint Kitts and Nevis,2017,Consumer price index: Food,95.6
+662,Saint Lucia,1995,Consumer price index: General,69.8
+662,Saint Lucia,2005,Consumer price index: General,87.3
+662,Saint Lucia,2010,Consumer price index: General,100
+662,Saint Lucia,2014,Consumer price index: General,112.5
+662,Saint Lucia,2015,Consumer price index: General,111.4
+662,Saint Lucia,2016,Consumer price index: General,107.9
+662,Saint Lucia,2017,Consumer price index: General,108
+662,Saint Lucia,2010,Consumer price index: Food,100
+662,Saint Lucia,2014,Consumer price index: Food,117.4
+662,Saint Lucia,2015,Consumer price index: Food,117.6
+662,Saint Lucia,2016,Consumer price index: Food,113.8
+662,Saint Lucia,2017,Consumer price index: Food,112.2
+670,Saint Vincent & Grenadines,1995,Consumer price index: General,67.9
+670,Saint Vincent & Grenadines,2005,Consumer price index: General,80.9
+670,Saint Vincent & Grenadines,2010,Consumer price index: General,100
+670,Saint Vincent & Grenadines,2014,Consumer price index: General,106.9
+670,Saint Vincent & Grenadines,2015,Consumer price index: General,105.1
+670,Saint Vincent & Grenadines,2016,Consumer price index: General,104.9
+670,Saint Vincent & Grenadines,2017,Consumer price index: General,107.2
+670,Saint Vincent & Grenadines,2010,Consumer price index: Food,100
+670,Saint Vincent & Grenadines,2014,Consumer price index: Food,110.8
+670,Saint Vincent & Grenadines,2015,Consumer price index: Food,109.5
+670,Saint Vincent & Grenadines,2016,Consumer price index: Food,108.8
+670,Saint Vincent & Grenadines,2017,Consumer price index: Food,111.5
+882,Samoa,1995,Consumer price index: General,49.3
+882,Samoa,2005,Consumer price index: General,76.4
+882,Samoa,2010,Consumer price index: General,100
+882,Samoa,2014,Consumer price index: General,107.6
+882,Samoa,2015,Consumer price index: General,108.4
+882,Samoa,2016,Consumer price index: General,109.8
+882,Samoa,2017,Consumer price index: General,111.6
+674,San Marino,2014,Consumer price index: General,107.6
+674,San Marino,2015,Consumer price index: General,107.7
+674,San Marino,2016,Consumer price index: General,108.4
+674,San Marino,2017,Consumer price index: General,109.5
+674,San Marino,2014,Consumer price index: Food,117.5
+674,San Marino,2015,Consumer price index: Food,121.3
+674,San Marino,2016,Consumer price index: Food,123.7
+674,San Marino,2017,Consumer price index: Food,126.7
+678,Sao Tome and Principe,2005,Consumer price index: General,39.2
+678,Sao Tome and Principe,2010,Consumer price index: General,100
+678,Sao Tome and Principe,2014,Consumer price index: General,146.3
+678,Sao Tome and Principe,2015,Consumer price index: General,154
+678,Sao Tome and Principe,2016,Consumer price index: General,162.3
+678,Sao Tome and Principe,2017,Consumer price index: General,171.6
+678,Sao Tome and Principe,2016,Consumer price index: Food,105
+678,Sao Tome and Principe,2017,Consumer price index: Food,111.9
+682,Saudi Arabia,2005,Consumer price index: General,81.4
+682,Saudi Arabia,2010,Consumer price index: General,100
+682,Saudi Arabia,2014,Consumer price index: General,112.9
+682,Saudi Arabia,2015,Consumer price index: General,114.4
+682,Saudi Arabia,2016,Consumer price index: General,116.7
+682,Saudi Arabia,2017,Consumer price index: General,115.7
+682,Saudi Arabia,2005,Consumer price index: Food,73
+682,Saudi Arabia,2010,Consumer price index: Food,100
+682,Saudi Arabia,2014,Consumer price index: Food,117.9
+682,Saudi Arabia,2015,Consumer price index: Food,118.6
+682,Saudi Arabia,2016,Consumer price index: Food,117.1
+682,Saudi Arabia,2017,Consumer price index: Food,116.2
+686,Senegal,2010,Consumer price index: General,100
+686,Senegal,2014,Consumer price index: General,104.7
+686,Senegal,2015,Consumer price index: General,105.3
+686,Senegal,2016,Consumer price index: General,106.9
+686,Senegal,2017,Consumer price index: General,108.9
+686,Senegal,2010,Consumer price index: Food,100
+686,Senegal,2014,Consumer price index: Food,109.1
+686,Senegal,2015,Consumer price index: Food,110.9
+686,Senegal,2016,Consumer price index: Food,113.6
+686,Senegal,2017,Consumer price index: Food,117.2
+688,Serbia,1995,Consumer price index: General,2.6
+688,Serbia,2005,Consumer price index: General,65.2
+688,Serbia,2010,Consumer price index: General,100
+688,Serbia,2014,Consumer price index: General,131.1
+688,Serbia,2015,Consumer price index: General,133
+688,Serbia,2016,Consumer price index: General,134.5
+688,Serbia,2017,Consumer price index: General,138.7
+688,Serbia,2010,Consumer price index: Food,100
+688,Serbia,2014,Consumer price index: Food,130.6
+688,Serbia,2015,Consumer price index: Food,133.2
+688,Serbia,2016,Consumer price index: Food,132.8
+688,Serbia,2017,Consumer price index: Food,137.2
+690,Seychelles,1995,Consumer price index: General,40.8
+690,Seychelles,2005,Consumer price index: General,54.1
+690,Seychelles,2010,Consumer price index: General,100
+690,Seychelles,2014,Consumer price index: General,116.2
+690,Seychelles,2015,Consumer price index: General,120.9
+690,Seychelles,2016,Consumer price index: General,119.6
+690,Seychelles,2017,Consumer price index: General,123.1
+690,Seychelles,2010,Consumer price index: Food,100
+690,Seychelles,2014,Consumer price index: Food,114.6
+690,Seychelles,2015,Consumer price index: Food,116.7
+690,Seychelles,2016,Consumer price index: Food,116.7
+690,Seychelles,2017,Consumer price index: Food,117.7
+694,Sierra Leone,2010,Consumer price index: General,100
+694,Sierra Leone,2014,Consumer price index: General,125.7
+694,Sierra Leone,2015,Consumer price index: General,134.1
+694,Sierra Leone,2016,Consumer price index: General,148.7
+694,Sierra Leone,2017,Consumer price index: General,175.8
+694,Sierra Leone,2010,Consumer price index: Food,100
+694,Sierra Leone,2014,Consumer price index: Food,127.2
+694,Sierra Leone,2015,Consumer price index: Food,137.8
+694,Sierra Leone,2016,Consumer price index: Food,155.1
+694,Sierra Leone,2017,Consumer price index: Food,185.3
+702,Singapore,1995,Consumer price index: General,81.5
+702,Singapore,2005,Consumer price index: General,88
+702,Singapore,2010,Consumer price index: General,100
+702,Singapore,2014,Consumer price index: General,113.8
+702,Singapore,2015,Consumer price index: General,113.2
+702,Singapore,2016,Consumer price index: General,112.6
+702,Singapore,2017,Consumer price index: General,113.3
+702,Singapore,1995,Consumer price index: Food,77.4
+702,Singapore,2005,Consumer price index: Food,85.6
+702,Singapore,2010,Consumer price index: Food,100
+702,Singapore,2014,Consumer price index: Food,110.8
+702,Singapore,2015,Consumer price index: Food,112.9
+702,Singapore,2016,Consumer price index: Food,115.3
+702,Singapore,2017,Consumer price index: Food,116.9
+703,Slovakia,1995,Consumer price index: General,44.1
+703,Slovakia,2005,Consumer price index: General,86.8
+703,Slovakia,2010,Consumer price index: General,100
+703,Slovakia,2014,Consumer price index: General,109.1
+703,Slovakia,2015,Consumer price index: General,108.7
+703,Slovakia,2016,Consumer price index: General,108.2
+703,Slovakia,2017,Consumer price index: General,109.6
+703,Slovakia,1995,Consumer price index: Food,61.9
+703,Slovakia,2005,Consumer price index: Food,89.6
+703,Slovakia,2010,Consumer price index: Food,100
+703,Slovakia,2014,Consumer price index: Food,113.5
+703,Slovakia,2015,Consumer price index: Food,113.2
+703,Slovakia,2016,Consumer price index: Food,110
+703,Slovakia,2017,Consumer price index: Food,114.4
+705,Slovenia,1995,Consumer price index: General,44.8
+705,Slovenia,2005,Consumer price index: General,86.8
+705,Slovenia,2010,Consumer price index: General,100
+705,Slovenia,2014,Consumer price index: General,106.5
+705,Slovenia,2015,Consumer price index: General,105.9
+705,Slovenia,2016,Consumer price index: General,105.9
+705,Slovenia,2017,Consumer price index: General,107.4
+705,Slovenia,2005,Consumer price index: Food,81.3
+705,Slovenia,2010,Consumer price index: Food,100
+705,Slovenia,2014,Consumer price index: Food,112.2
+705,Slovenia,2015,Consumer price index: Food,113.2
+705,Slovenia,2016,Consumer price index: Food,114.2
+705,Slovenia,2017,Consumer price index: Food,116.8
+90,Solomon Islands,1995,Consumer price index: General,28.2
+90,Solomon Islands,2005,Consumer price index: General,65.8
+90,Solomon Islands,2010,Consumer price index: General,100
+90,Solomon Islands,2014,Consumer price index: General,126
+90,Solomon Islands,2015,Consumer price index: General,125.3
+90,Solomon Islands,2016,Consumer price index: General,125.9
+90,Solomon Islands,2017,Consumer price index: General,126.5
+90,Solomon Islands,2014,Consumer price index: Food,568.9
+90,Solomon Islands,2015,Consumer price index: Food,552.5
+90,Solomon Islands,2016,Consumer price index: Food,555.4
+90,Solomon Islands,2017,Consumer price index: Food,551.6
+710,South Africa,1995,Consumer price index: General,43.4
+710,South Africa,2005,Consumer price index: General,74.3
+710,South Africa,2010,Consumer price index: General,100
+710,South Africa,2014,Consumer price index: General,124.6
+710,South Africa,2015,Consumer price index: General,130.3
+710,South Africa,2016,Consumer price index: General,138.9
+710,South Africa,2017,Consumer price index: General,146.1
+710,South Africa,1995,Consumer price index: Food,34.9
+710,South Africa,2005,Consumer price index: Food,67.1
+710,South Africa,2010,Consumer price index: Food,100
+710,South Africa,2014,Consumer price index: Food,131
+710,South Africa,2015,Consumer price index: Food,137.5
+710,South Africa,2016,Consumer price index: Food,153.5
+710,South Africa,2017,Consumer price index: Food,164.5
+728,South Sudan,2010,Consumer price index: General,100
+728,South Sudan,2014,Consumer price index: General,217.2
+728,South Sudan,2015,Consumer price index: General,331.9
+728,South Sudan,2016,Consumer price index: General,"1,592.40"
+728,South Sudan,2017,Consumer price index: General,"4,583.70"
+728,South Sudan,2010,Consumer price index: Food,100
+728,South Sudan,2014,Consumer price index: Food,217.9
+728,South Sudan,2015,Consumer price index: Food,349.4
+728,South Sudan,2016,Consumer price index: Food,"1,660.90"
+728,South Sudan,2017,Consumer price index: Food,"4,574.00"
+724,Spain,1995,Consumer price index: General,66.7
+724,Spain,2005,Consumer price index: General,89
+724,Spain,2010,Consumer price index: General,100
+724,Spain,2014,Consumer price index: General,107
+724,Spain,2015,Consumer price index: General,106.5
+724,Spain,2016,Consumer price index: General,106.3
+724,Spain,2017,Consumer price index: General,108.4
+724,Spain,1995,Consumer price index: Food,67
+724,Spain,2005,Consumer price index: Food,89.2
+724,Spain,2010,Consumer price index: Food,100
+724,Spain,2014,Consumer price index: Food,107
+724,Spain,2015,Consumer price index: Food,108.2
+724,Spain,2016,Consumer price index: Food,109.7
+724,Spain,2017,Consumer price index: Food,111.1
+144,Sri Lanka,1995,Consumer price index: General,23.6
+144,Sri Lanka,2005,Consumer price index: General,58.3
+144,Sri Lanka,2010,Consumer price index: General,100
+144,Sri Lanka,2014,Consumer price index: General,105.5
+144,Sri Lanka,2015,Consumer price index: General,109.5
+144,Sri Lanka,2016,Consumer price index: General,113.8
+144,Sri Lanka,2017,Consumer price index: General,122.6
+144,Sri Lanka,2010,Consumer price index: Food,100
+144,Sri Lanka,2014,Consumer price index: Food,105.2
+144,Sri Lanka,2015,Consumer price index: Food,110.7
+144,Sri Lanka,2016,Consumer price index: Food,114.1
+144,Sri Lanka,2017,Consumer price index: Food,127
+275,State of Palestine,2005,Consumer price index: General,80.7
+275,State of Palestine,2010,Consumer price index: General,100
+275,State of Palestine,2014,Consumer price index: General,109.4
+275,State of Palestine,2015,Consumer price index: General,111
+275,State of Palestine,2016,Consumer price index: General,110.7
+275,State of Palestine,2017,Consumer price index: General,111
+275,State of Palestine,2005,Consumer price index: Food,71.8
+275,State of Palestine,2010,Consumer price index: Food,100
+275,State of Palestine,2014,Consumer price index: Food,105.8
+275,State of Palestine,2015,Consumer price index: Food,107.8
+275,State of Palestine,2016,Consumer price index: Food,106.2
+275,State of Palestine,2017,Consumer price index: Food,105.2
+729,Sudan,1995,Consumer price index: General,8.3
+729,Sudan,2005,Consumer price index: General,60
+729,Sudan,2010,Consumer price index: General,100
+729,Sudan,2014,Consumer price index: General,299.2
+729,Sudan,2015,Consumer price index: General,349.8
+729,Sudan,2015,Consumer price index: Food,501.5
+740,Suriname,1995,Consumer price index: General,7.2
+740,Suriname,2005,Consumer price index: General,69
+740,Suriname,2010,Consumer price index: General,100
+740,Suriname,2014,Consumer price index: General,130.2
+740,Suriname,2015,Consumer price index: General,139.2
+740,Suriname,2016,Consumer price index: General,216.4
+740,Suriname,2017,Consumer price index: General,264.1
+740,Suriname,2010,Consumer price index: Food,100
+740,Suriname,2014,Consumer price index: Food,130
+740,Suriname,2015,Consumer price index: Food,141.8
+752,Sweden,1995,Consumer price index: General,84.3
+752,Sweden,2005,Consumer price index: General,92.7
+752,Sweden,2010,Consumer price index: General,100
+752,Sweden,2014,Consumer price index: General,103.6
+752,Sweden,2015,Consumer price index: General,103.6
+752,Sweden,2016,Consumer price index: General,104.6
+752,Sweden,2017,Consumer price index: General,106.5
+752,Sweden,1995,Consumer price index: Food,86.3
+752,Sweden,2005,Consumer price index: Food,87.2
+752,Sweden,2010,Consumer price index: Food,100
+752,Sweden,2014,Consumer price index: Food,105.4
+752,Sweden,2015,Consumer price index: Food,107.9
+752,Sweden,2016,Consumer price index: Food,109
+752,Sweden,2017,Consumer price index: Food,111.4
+756,Switzerland,1995,Consumer price index: General,88.4
+756,Switzerland,2005,Consumer price index: General,95.7
+756,Switzerland,2010,Consumer price index: General,100
+756,Switzerland,2014,Consumer price index: General,99.3
+756,Switzerland,2015,Consumer price index: General,98.2
+756,Switzerland,2016,Consumer price index: General,97.7
+756,Switzerland,2017,Consumer price index: General,98.3
+756,Switzerland,1995,Consumer price index: Food,90.4
+756,Switzerland,2005,Consumer price index: Food,97.8
+756,Switzerland,2010,Consumer price index: Food,100
+756,Switzerland,2014,Consumer price index: Food,97.9
+756,Switzerland,2015,Consumer price index: Food,97.1
+756,Switzerland,2016,Consumer price index: Food,97.5
+756,Switzerland,2017,Consumer price index: Food,97.9
+760,Syrian Arab Republic,2010,Consumer price index: General,100
+760,Syrian Arab Republic,2014,Consumer price index: General,324.2
+760,Syrian Arab Republic,2015,Consumer price index: General,448.8
+760,Syrian Arab Republic,2016,Consumer price index: General,662.9
+760,Syrian Arab Republic,2010,Consumer price index: Food,100
+760,Syrian Arab Republic,2014,Consumer price index: Food,378
+760,Syrian Arab Republic,2015,Consumer price index: Food,512.1
+760,Syrian Arab Republic,2016,Consumer price index: Food,807.3
+762,Tajikistan,2010,Consumer price index: General,100
+762,Tajikistan,2014,Consumer price index: General,132.6
+762,Tajikistan,2015,Consumer price index: General,140.2
+762,Tajikistan,2016,Consumer price index: General,148.7
+762,Tajikistan,2017,Consumer price index: General,159.5
+762,Tajikistan,2010,Consumer price index: Food,100
+762,Tajikistan,2014,Consumer price index: Food,137.3
+762,Tajikistan,2015,Consumer price index: Food,146.8
+762,Tajikistan,2016,Consumer price index: Food,154.4
+762,Tajikistan,2017,Consumer price index: Food,168.6
+764,Thailand,1995,Consumer price index: General,62.9
+764,Thailand,2005,Consumer price index: General,86.6
+764,Thailand,2010,Consumer price index: General,100
+764,Thailand,2014,Consumer price index: General,111.3
+764,Thailand,2015,Consumer price index: General,110.3
+764,Thailand,2016,Consumer price index: General,110.6
+764,Thailand,2017,Consumer price index: General,111.3
+764,Thailand,2010,Consumer price index: Food,100
+764,Thailand,2014,Consumer price index: Food,121.6
+764,Thailand,2015,Consumer price index: Food,123
+764,Thailand,2016,Consumer price index: Food,124.9
+764,Thailand,2017,Consumer price index: Food,124.9
+807,TFYR of Macedonia,1995,Consumer price index: General,72.8
+807,TFYR of Macedonia,2005,Consumer price index: General,86.8
+807,TFYR of Macedonia,2010,Consumer price index: General,100
+807,TFYR of Macedonia,2014,Consumer price index: General,110
+807,TFYR of Macedonia,2015,Consumer price index: General,109.7
+807,TFYR of Macedonia,2016,Consumer price index: General,109.4
+807,TFYR of Macedonia,2017,Consumer price index: General,110.9
+807,TFYR of Macedonia,2005,Consumer price index: Food,83.1
+807,TFYR of Macedonia,2010,Consumer price index: Food,100
+807,TFYR of Macedonia,2014,Consumer price index: Food,111.2
+807,TFYR of Macedonia,2015,Consumer price index: Food,111.6
+807,TFYR of Macedonia,2016,Consumer price index: Food,109.9
+807,TFYR of Macedonia,2017,Consumer price index: Food,110.1
+626,Timor-Leste,2005,Consumer price index: General,74.4
+626,Timor-Leste,2010,Consumer price index: General,100
+626,Timor-Leste,2014,Consumer price index: General,142
+626,Timor-Leste,2015,Consumer price index: General,142.8
+626,Timor-Leste,2016,Consumer price index: General,140.9
+626,Timor-Leste,2017,Consumer price index: General,141.6
+626,Timor-Leste,2014,Consumer price index: Food,105.2
+626,Timor-Leste,2015,Consumer price index: Food,105.7
+626,Timor-Leste,2016,Consumer price index: Food,103.5
+626,Timor-Leste,2017,Consumer price index: Food,104.4
+768,Togo,1995,Consumer price index: General,65.2
+768,Togo,2005,Consumer price index: General,77.6
+768,Togo,2010,Consumer price index: General,100
+768,Togo,2014,Consumer price index: General,108.4
+768,Togo,2015,Consumer price index: General,110.3
+768,Togo,2016,Consumer price index: General,111.3
+768,Togo,2017,Consumer price index: General,110.4
+768,Togo,2005,Consumer price index: Food,81.5
+768,Togo,2010,Consumer price index: Food,100
+768,Togo,2014,Consumer price index: Food,101.1
+768,Togo,2015,Consumer price index: Food,106.6
+768,Togo,2016,Consumer price index: Food,109.9
+768,Togo,2017,Consumer price index: Food,105.4
+776,Tonga,1995,Consumer price index: General,39.5
+776,Tonga,2005,Consumer price index: General,76.7
+776,Tonga,2010,Consumer price index: General,100
+776,Tonga,2014,Consumer price index: General,111
+776,Tonga,2015,Consumer price index: General,109.9
+776,Tonga,2016,Consumer price index: General,112.7
+776,Tonga,2005,Consumer price index: Food,75.7
+776,Tonga,2010,Consumer price index: Food,100
+776,Tonga,2014,Consumer price index: Food,114.2
+776,Tonga,2015,Consumer price index: Food,116.3
+776,Tonga,2016,Consumer price index: Food,117.8
+780,Trinidad and Tobago,1995,Consumer price index: General,42.1
+780,Trinidad and Tobago,2005,Consumer price index: General,64.6
+780,Trinidad and Tobago,2010,Consumer price index: General,100
+780,Trinidad and Tobago,2014,Consumer price index: General,127.7
+780,Trinidad and Tobago,2015,Consumer price index: General,133.6
+780,Trinidad and Tobago,2016,Consumer price index: General,137.7
+780,Trinidad and Tobago,2017,Consumer price index: General,140.3
+780,Trinidad and Tobago,2005,Consumer price index: Food,39.9
+780,Trinidad and Tobago,2010,Consumer price index: Food,100
+780,Trinidad and Tobago,2014,Consumer price index: Food,157.4
+780,Trinidad and Tobago,2015,Consumer price index: Food,170.9
+780,Trinidad and Tobago,2016,Consumer price index: Food,183.6
+780,Trinidad and Tobago,2017,Consumer price index: Food,189
+788,Tunisia,1995,Consumer price index: General,61.2
+788,Tunisia,2005,Consumer price index: General,81.6
+788,Tunisia,2010,Consumer price index: General,100
+788,Tunisia,2014,Consumer price index: General,120.9
+788,Tunisia,2015,Consumer price index: General,126.7
+788,Tunisia,2016,Consumer price index: General,131.4
+788,Tunisia,2017,Consumer price index: General,138.4
+788,Tunisia,2010,Consumer price index: Food,100
+788,Tunisia,2014,Consumer price index: Food,128.3
+788,Tunisia,2015,Consumer price index: Food,135
+788,Tunisia,2016,Consumer price index: Food,138.5
+788,Tunisia,2017,Consumer price index: Food,146.2
+792,Turkey,1995,Consumer price index: General,1.3
+792,Turkey,2005,Consumer price index: General,65.9
+792,Turkey,2010,Consumer price index: General,100
+792,Turkey,2014,Consumer price index: General,135.7
+792,Turkey,2015,Consumer price index: General,146.1
+792,Turkey,2016,Consumer price index: General,157.4
+792,Turkey,2017,Consumer price index: General,175
+792,Turkey,1995,Consumer price index: Food,1.5
+792,Turkey,2005,Consumer price index: Food,60.2
+792,Turkey,2010,Consumer price index: Food,100
+792,Turkey,2014,Consumer price index: Food,141.5
+792,Turkey,2015,Consumer price index: Food,157.3
+792,Turkey,2016,Consumer price index: Food,166.4
+792,Turkey,2017,Consumer price index: Food,187.5
+800,Uganda,2015,Consumer price index: General,150.8
+800,Uganda,2016,Consumer price index: General,159
+800,Uganda,2017,Consumer price index: General,167.9
+800,Uganda,2015,Consumer price index: Food,160.7
+800,Uganda,2016,Consumer price index: Food,169.7
+800,Uganda,2017,Consumer price index: Food,186.8
+804,Ukraine,1995,Consumer price index: General,9.6
+804,Ukraine,2005,Consumer price index: General,51.2
+804,Ukraine,2010,Consumer price index: General,100
+804,Ukraine,2014,Consumer price index: General,121.4
+804,Ukraine,2015,Consumer price index: General,180.5
+804,Ukraine,2016,Consumer price index: General,205.6
+804,Ukraine,2017,Consumer price index: General,235.3
+804,Ukraine,2010,Consumer price index: Food,100
+804,Ukraine,2014,Consumer price index: Food,114.3
+804,Ukraine,2015,Consumer price index: Food,166.6
+804,Ukraine,2016,Consumer price index: Food,181.6
+804,Ukraine,2017,Consumer price index: Food,204.9
+784,United Arab Emirates,2010,Consumer price index: General,100
+784,United Arab Emirates,2014,Consumer price index: General,105.1
+784,United Arab Emirates,2015,Consumer price index: General,109.3
+784,United Arab Emirates,2016,Consumer price index: General,111.1
+784,United Arab Emirates,2017,Consumer price index: General,113.3
+784,United Arab Emirates,2010,Consumer price index: Food,100
+784,United Arab Emirates,2014,Consumer price index: Food,116.9
+784,United Arab Emirates,2015,Consumer price index: Food,118.3
+784,United Arab Emirates,2016,Consumer price index: Food,119.5
+784,United Arab Emirates,2017,Consumer price index: Food,121
+826,United Kingdom,2005,Consumer price index: General,87.4
+826,United Kingdom,2010,Consumer price index: General,100
+826,United Kingdom,2014,Consumer price index: General,111.8
+826,United Kingdom,2015,Consumer price index: General,111.9
+826,United Kingdom,2016,Consumer price index: General,112.6
+826,United Kingdom,2017,Consumer price index: General,115.6
+826,United Kingdom,2005,Consumer price index: Food,78.5
+826,United Kingdom,2010,Consumer price index: Food,100
+826,United Kingdom,2014,Consumer price index: Food,112.7
+826,United Kingdom,2015,Consumer price index: Food,109.8
+826,United Kingdom,2016,Consumer price index: Food,107.2
+826,United Kingdom,2017,Consumer price index: Food,109.5
+834,United Rep. of Tanzania,1995,Consumer price index: General,28.6
+834,United Rep. of Tanzania,2005,Consumer price index: General,66.3
+834,United Rep. of Tanzania,2010,Consumer price index: General,100
+834,United Rep. of Tanzania,2014,Consumer price index: General,149.7
+834,United Rep. of Tanzania,2015,Consumer price index: General,158
+834,United Rep. of Tanzania,2016,Consumer price index: General,166.2
+834,United Rep. of Tanzania,2017,Consumer price index: General,175
+834,United Rep. of Tanzania,2014,Consumer price index: Food,163
+834,United Rep. of Tanzania,2015,Consumer price index: Food,96.6
+834,United Rep. of Tanzania,2016,Consumer price index: Food,103.8
+834,United Rep. of Tanzania,2017,Consumer price index: Food,113.3
+840,United States of America,1995,Consumer price index: General,69.9
+840,United States of America,2005,Consumer price index: General,89.6
+840,United States of America,2010,Consumer price index: General,100
+840,United States of America,2014,Consumer price index: General,108.6
+840,United States of America,2015,Consumer price index: General,108.7
+840,United States of America,2016,Consumer price index: General,110.1
+840,United States of America,2017,Consumer price index: General,112.4
+840,United States of America,1995,Consumer price index: Food,68.9
+840,United States of America,2005,Consumer price index: Food,87.9
+840,United States of America,2010,Consumer price index: Food,100
+840,United States of America,2014,Consumer price index: Food,110.9
+840,United States of America,2015,Consumer price index: Food,112.2
+840,United States of America,2016,Consumer price index: Food,110.8
+840,United States of America,2017,Consumer price index: Food,110.5
+858,Uruguay,1995,Consumer price index: General,23
+858,Uruguay,2005,Consumer price index: General,70.5
+858,Uruguay,2010,Consumer price index: General,100
+858,Uruguay,2014,Consumer price index: General,138.1
+858,Uruguay,2015,Consumer price index: General,150.1
+858,Uruguay,2016,Consumer price index: General,164.6
+858,Uruguay,2017,Consumer price index: General,174.8
+858,Uruguay,2005,Consumer price index: Food,64.3
+858,Uruguay,2010,Consumer price index: Food,100
+858,Uruguay,2014,Consumer price index: Food,145.1
+858,Uruguay,2015,Consumer price index: Food,158.8
+858,Uruguay,2016,Consumer price index: Food,174.1
+858,Uruguay,2017,Consumer price index: Food,179
+548,Vanuatu,1995,Consumer price index: General,67
+548,Vanuatu,2005,Consumer price index: General,83.9
+548,Vanuatu,2010,Consumer price index: General,100
+548,Vanuatu,2014,Consumer price index: General,104.5
+548,Vanuatu,2015,Consumer price index: General,107.1
+548,Vanuatu,2016,Consumer price index: General,108
+548,Vanuatu,2010,Consumer price index: Food,100
+548,Vanuatu,2014,Consumer price index: Food,105.4
+548,Vanuatu,2015,Consumer price index: Food,109.2
+548,Vanuatu,2016,Consumer price index: Food,111.6
+862,Venezuela (Boliv. Rep. of),2010,Consumer price index: General,100
+862,Venezuela (Boliv. Rep. of),2014,Consumer price index: General,348.2
+862,Venezuela (Boliv. Rep. of),2015,Consumer price index: General,772
+862,Venezuela (Boliv. Rep. of),2010,Consumer price index: Food,100
+862,Venezuela (Boliv. Rep. of),2014,Consumer price index: Food,466.7
+862,Venezuela (Boliv. Rep. of),2015,Consumer price index: Food,"1,487.20"
+704,Viet Nam,1995,Consumer price index: General,40.2
+704,Viet Nam,2005,Consumer price index: General,59.9
+704,Viet Nam,2010,Consumer price index: General,100
+704,Viet Nam,2014,Consumer price index: General,144.5
+704,Viet Nam,2015,Consumer price index: General,145.8
+704,Viet Nam,2016,Consumer price index: General,150.5
+704,Viet Nam,2017,Consumer price index: General,155.8
+704,Viet Nam,2016,Consumer price index: Food,104.1
+704,Viet Nam,2017,Consumer price index: Food,103
+887,Yemen,1995,Consumer price index: General,21.3
+887,Yemen,2005,Consumer price index: General,60
+887,Yemen,2010,Consumer price index: General,100
+887,Yemen,2014,Consumer price index: General,157.6
+894,Zambia,1995,Consumer price index: General,6.7
+894,Zambia,2005,Consumer price index: General,59.9
+894,Zambia,2010,Consumer price index: General,100
+894,Zambia,2014,Consumer price index: General,130.8
+894,Zambia,2015,Consumer price index: General,144
+894,Zambia,2016,Consumer price index: General,169.8
+894,Zambia,2017,Consumer price index: General,180.9
+894,Zambia,2014,Consumer price index: Food,136.1
+894,Zambia,2015,Consumer price index: Food,151.2
+894,Zambia,2016,Consumer price index: Food,183.3
+894,Zambia,2017,Consumer price index: Food,193.9
+716,Zimbabwe,2010,Consumer price index: General,100
+716,Zimbabwe,2014,Consumer price index: General,108.8
+716,Zimbabwe,2015,Consumer price index: General,106.2
+716,Zimbabwe,2016,Consumer price index: General,104.6
+716,Zimbabwe,2017,Consumer price index: General,105.5
+716,Zimbabwe,2010,Consumer price index: Food,100
+716,Zimbabwe,2014,Consumer price index: Food,107.2
+716,Zimbabwe,2015,Consumer price index: Food,103.6
+716,Zimbabwe,2016,Consumer price index: Food,100.2
+716,Zimbabwe,2017,Consumer price index: Food,102.7
